@@ -5,7 +5,9 @@ description: Updated vision statement for 2018
 image: assets/images/pic02.jpg
 ---
 
-<p class="message">Last update: Jan 2018</p>
+_Last update: Jan 2018_
+
+> Note: I made this vision statement as a part of a cohort of <a href="http://infinitegrowth.rocks/">Infinite Growth</a> in the Fall of 2016. Shoutout IGNov16!
 
 ## Values 
 My core values are **love/justice**, **community**, and **transformation**. Other values that are important to me are **self-determination**, **equity**, and **diversity**.
@@ -15,7 +17,7 @@ My core values are **love/justice**, **community**, and **transformation**. Othe
 ## Short Vision
 In the future (2041):
 
-I will be known in my community as **loving**, **supportive**, **strategic**, and **visionary**. My community will be **diverse**, **interdependent**, and **creative**. The planet will be resilient, free, and successfully balance chaos and order. 
+I will be known in my community as **loving**, **supportive**, **strategic**, and **visionary**. My community will be **diverse**, **interdependent**, and **creative**. The planet will be **resilient**, **free**, and **successfully balance chaos and order**. 
 
 ---
 
