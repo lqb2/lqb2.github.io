@@ -30,6 +30,7 @@ you can also get in touch with any of my favorite collaborators below. shout out
 * kendra hicks
 * eroc arroyo-montano
 * luana morales
+* [glenn johnson](https://gettingchangedone.com/) <!-- I’ve got pretty good mastery Microsoft Word, Excel, and PowerPoint. I also have some basic Photoshop skills. And I can coordinate events “like a boss.” 😊 -->
 
 ---
 
