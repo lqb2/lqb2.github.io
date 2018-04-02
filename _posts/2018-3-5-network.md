@@ -23,6 +23,7 @@ you can also get in touch with any of my favorite collaborators below. shout out
 * [chelsea barabas](http://www.chelsbar.com/)
 * [john kidenda](https://twitter.com/johnkidenda)
 * [abe lateiner](http://www.risksomething.org/)
+* [curtis ogden]()
 
 ## people i haven't formally worked with but are dope
 

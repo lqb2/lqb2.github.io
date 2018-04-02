@@ -16,3 +16,10 @@ nav-menu: true
 * [Mistinguette Smith](TBD) 
 * [Linda Gonzales](http://www.lindagonzalez.net/)
     - into the site because of the clarity and language around the different lines of service
+* [The Justice Collective](http://www.thejusticecollective.org/)
+* [Dante Garcia @ Story 2](https://story2designs.com/about/)
+
+## Other inspiration
+* [Tiny Habits](http://tinyhabits.com/join/)
+* [Farnham Street: What I'm Reading](https://www.fs.blog/reading/)
+* [Joe Buhlig: Now page and more](http://now.joebuhlig.com/hello)
