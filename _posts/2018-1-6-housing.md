@@ -2,7 +2,7 @@
 layout: post
 title: Housing
 description: Who's needs a place to live? Or someone to take their place?
-image: assets/images/pic01.jpg
+image: assets/images/pic02.jpg
 ---
 
 ## 1br/1ba on Clinton st in Cambridge ($1800)
