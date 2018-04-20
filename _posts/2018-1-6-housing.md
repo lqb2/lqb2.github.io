@@ -5,6 +5,50 @@ description: Who's needs a place to live? Or someone to take their place?
 image: assets/images/pic01.jpg
 ---
 
+## 1br/1ba on Clinton st in Cambridge ($1800)
+
+Hey folks!
+ 
+Cole and I have lived for five happy years in a very large floor-through 1br/1ba on Clinton st in Cambridge (central square, 2 blocks north of city hall).
+
+We had a baby last August and are moving into a two bedroom either in mid June or early July- we're hoping to find someone to take the last 4-6 weeks of our lease. Can you folks forward this along to anyone who might be looking for housing soon?
+
+### About the unit:
+
+The rent is $1800 and includes heat and hot water.
+
+#### Upsides:
+
+- Landlords live on the first floor and are super friendly, (we sometimes go over for coffee or a glass of wine) and very attentive. If there's a problem, the issue is literally dealt with within 24 hours of us letting them know.
+- Over the almost five years we've lived here, they only raised the rent once ($50) and generally like to keep the rent low and stable for good tenants.
+- It's a small building, an older couple lives on the second floor (they've lived here for decades) and are friendly- though they are loud during the Superbowl.  
+- The unit is on the top floor so it's very quiet.
+- The bedroom is huge, as in you could probably fit 7 or 8 queen sized mattresses in just the bedroom.
+- There is a beautiful American Elm tree outside the living room that provides shade in the summer and stunning yellow leaves in the fall.
+- Landlords allow cats.
+- There is a bike rack installed in the driveway.
+- There is parking available for an additional fee.  
+- It's very bright and sunny. Even in rainy weather we rarely turn on the overhead lights during the day.
+- Electric utilities usually cost us about $35/mo. There is a new, energy efficient fridge.
+- It's two blocks north of city hall and three blocks north of the Central Square (red line) station.
+- Insane amount of closet space (two walk-in closets in the living room and five closets in the bedroom.
+- We love our neighbors SO much and have formed incredibly close relationships with them- they are awesome! The couple next door has lived in their house since the early 1950s and has become like a second set of grandparents to our daughter. Our across the street neighbor is now one of our closest family friends and we trade cat sitting services and hang out with our neighbors down the block.
+- There's a working, full-size portable dishwasher that we bought and are happy to leave behind because our new place has a dishwasher. It connects to the faucet but the downside is that you can't use the sink or stove while the dishwasher is running.
+- The unit does get warm in the summer, but the landlords include two window unit air conditioners- so you don't need to buy one if you want AC.
+
+#### Downsides:
+
+- The sink and oven (4 burner electric) are "efficiency sized"- but we cook for almost every meal and have made it work.
+- The living room and bedroom have recently replaced carpets that are in very good condition- I just hate carpeting because it means you have to vacuum. The kitchen and dining room have beautiful original wood floors.
+-  While we have a washing machine in unit- we bought it ourselves and are taking it with us. There is a laundry hookup in the unit, but it is unlikely that the landlords will allow you to have a machine- but you can ask- they might be open to it.
+- The ceilings in the kitchen and living room are low- about 6'8" or 7'. My husband is 6'1" and finds it manageable. I'm 5'5" and I have no problem.
+ 
+We would definitely stay in this apartment and hold onto it for dear life if we didn't think we needed a second bedroom.  
+
+Reach out to Mingoyac@gmail.com if interested!
+
+---
+
 ## Crown Heights 2 bdrm available February ($2500)
 
 ### Posted: 6 Jan 2018
