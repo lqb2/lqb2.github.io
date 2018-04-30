@@ -5,6 +5,12 @@ description: Who's needs a place to live? Or someone to take their place?
 image: assets/images/pic02.jpg
 ---
 
+## Spacious Bed Room in Harvard Square July-August ($733)
+
+* [craigslist post](https://boston.craigslist.org/gbs/sub/6575650107.html)
+
+---
+
 ## 1br/1ba on Clinton st in Cambridge ($1800)
 
 Hey folks!
