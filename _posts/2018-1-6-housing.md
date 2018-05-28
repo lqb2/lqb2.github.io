@@ -5,7 +5,26 @@ description: Who's needs a place to live? Or someone to take their place?
 image: assets/images/pic02.jpg
 ---
 
-## Spacious Bed Room in Harvard Square July-August ($733)
+## danya & eli, looking for 9/1
+
+Hello friends,
+
+Hope you’re enjoying a lovely long weekend!
+
+Eli and I are looking for a place to live and given the craziness of the market here we’d so appreciate your help! 
+
+Please let us know if you have any hot tips on apartments in your building or neighborhood, a broker or landlord you like that might know of places, etc etc.
+
+We’re looking for a non-luxury situation, lease starting 9/1, 1-2 bedrooms (I work from home), and nice light. We’re more familiar with Cambridge / Somerville but are open to other locations. 
+
+Thanks in advance for any info you have. 
+
+Danya & Eli
+
+
+---
+
+## ~~Spacious Bed Room in Harvard Square July-August ($733)~~
 
 * [craigslist post](https://boston.craigslist.org/gbs/sub/6575650107.html)
 
@@ -55,7 +74,7 @@ Reach out to Mingoyac@gmail.com if interested!
 
 ---
 
-## Crown Heights 2 bdrm available February ($2500)
+## ~~Crown Heights 2 bdrm available February ($2500)~~
 
 ### Posted: 6 Jan 2018
 
@@ -72,7 +91,7 @@ Photos below, and [get in touch with me directly](annemariegray@gmail.com) if yo
 
 ---
 
-## Room in Cambridge 
+## ~~Room in Cambridge~~
 
 ### Posted: 27 Dec 2017
 
@@ -82,7 +101,7 @@ Contact: [Jason](mailto:jspicer@mit.edu)
 
 ---
 
-## Spring Park Ave and Burr Street in JP (2 bedrooms open, $766 each)
+## ~~Spring Park Ave and Burr Street in JP (2 bedrooms open, $766 each)~~
 
 ### Posted: 24 June 2017
 
