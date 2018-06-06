@@ -2,8 +2,58 @@
 layout: post
 title: Horoscopes
 description: Horoscopes from Chani Nicholas
-image: assets/images/pic11.jpg
+image: http://chaninicholas.com/wp-content/uploads/Moon-BannerBrighter.jpg
 nav-menu: true
+---
+
+_Note: All horoscopes below are from [Chani Nicholas](http://chaninicholas.com/horoscopes/). I just paste the two here that are my signs (Aries and Aquarius Rising) so that I can keep track for myself._
+
+## [Horoscopes for the Full Moon in Sagittarius – May 2018](http://chaninicholas.com/2018/05/horoscopes-full-moon-sagittarius-may-2018/)
+
+
+May 29th
+
+7:19 AM PT – Full Moon at 8° of Sagittarius
+
+The full moon in Sagittarius blooms early in the week, bringing with it yearnings to grow, expand, and optimize our opportunities. Sagittarius loves nothing more than a good quest. This sign believes without a shadow of a doubt that the truth is out there and it has more than enough fire in its belly to inspire us all to seek it out for ourselves. Sagittarius knows that any horse can be led to the wells of wisdom, but that doesn’t mean they will recognize them as such. Each one of us must find our own ways to the hearths that warm our hearts and minds.
+
+The full moon in Sagittarius arrives with some subtlety, though not much sobriety. Sextile Mars, it has some get-up-and-go. Square Neptune, this full moon points to both the power of our imagination and the potency of our delusions, projections, and unchecked anxieties. Neptune untethers us from reality, which can be incredibly useful when we need to dream up alternative scenarios to our life circumstances. If we are to dream up a future, a path forward, as Sagittarius would want us to, we are well-served to do so with little restraint and a whole lot of room to grow.
+
+At this point in our history we have enough evidence of what occurs when humans put their heads in the sand, refusing to bear witness to and take action when atrocities take place around us. At this point in our history we know that there is no saving ourselves unless we are as dedicated to each other’s freedom as we are to our own.
+
+If Neptune teaches us anything it is that there is no separation between us. When we know of an evil and do nothing to intercede its ways, we allow harm to happen in all directions. Harm that takes lifetimes to heal.
+
+Even one child separated from their parent creates a grief to big for the world to hold. Even one migration interrupted is too big an opportunity cut short. We each hold such an incredibly important gift to offer the world. Even one of these pearls of potency that doesn’t get to live itself out is a tragedy, and a theft, from all of life.
+
+May this full moon instill within us a faith in each other so great that we remember the power of our combined rally cries and use them. May the light of this lunation be shed upon the care that we have for one another and our dedication to cultivating more of it. May the power of our love always outshine the insidious grasp for power and the pain it inevitably produces.
+
+Full moon blessings,
+
+Chani
+
+
+### Horoscope for _Aries_ & Aries Rising
+
+To lose faith is part of the process. To forget that life has a way of turning itself around is human. To remember to love ourselves through our struggles is divine.
+
+The full moon that comes with May’s closing reminds you of the spiritual power of appreciating your path. Of the fact that it is the only adventure going. That it is an education. A blessing to bear witness to. A gift that never fully reveals its ways all at once.
+
+The full moon at the end of May reflects back to you all that you have done to help yourself grow. Learn. Live the life that you have been given. All the sites, temples, sanctuaries, and halls of healing that you have carried yourself to, accumulate in importance. The readings, the sessions, and the ways in which you have situated yourself so that you are aligned with what is spiritual sustaining, have been the key to your growth.
+
+Give yourself some appreciation for all the efforts you have made towards your own unfolding.
+
+The beginning of June reveals something wonderful taking root in your life. A feeling of home. Grounding is everything when we are working at building something substantial with our lives. The grand trine between Venus, Jupiter, and Neptune lines up to help you feel settled in yourself. Like an anchor that drops, you are given access to feeling more secure about your situation. Let this understanding permeate your being. Let yourself believe in your own ability to make a meaningful life. Let your roots sink into the soil of your life with great confidence that you are exactly where you need to be.
+
+This astrology reminds you that all you need is within you while, at the same, asking you to become more aware of what gets in the way of that knowing. What old stories of not being enough and being far too much occupy the territory of your soul that should be solely your own? Feel free to evict any unworthy tenants in your psyche so that you might come to inhabit a little more of yourself in the long run.
+
+### Horoscope for Aquarius & _Aquarius Rising_
+
+The full moon at the end of May will shed light on the importance of community in your life. The issues that friends are facing, the strength of the bonds between you, and the quality of the connections that keep you afloat are revealed under the moon’s night light.
+
+At the same time, your work-life goes through a healing intensive. Opportunities flow towards you at the rate at which you are able to offer yourself to them. Over the past 7 months your career has gone through the thrilling and sometimes exhausting process of expansion. It has required that you have more faith in the big picture of your life and less attachment to the comings and goings of your daily wins and losses. This broader perspective has asked you to hold your story with a greater compassion. A greater appreciation for all the efforts you make that go unnoticed, but are essential to the quality of your work. A greater honoring of the gifts that you possess and the power that they have to lift your entire life.
+
+The first days of June are a true mix of effort and reward as the good in your professional life also pulls up the fear of not being enough in equal measure. This is how good growth takes root, however. When we open up to the gift of expansion we also agree to the work of deepening our relationship to all that gets in the way of it.
+
 ---
 
 ## [Horoscopes for Uranus in Taurus (May 2018 – April 2026)](http://chaninicholas.com/2018/05/horoscopes-for-uranus-in-taurus-may-2018-april-2026/)
