@@ -9,22 +9,26 @@ image: assets/images/bonsai.png
 
 * 26 april 2018 - arrived from bonsai outlet
 * **water dates**: 
-    - 29 april
-    - 3 may
-    - 7 may
-    - 11 may
-    - 15 may
-    - 18 may
-    - 23 may
-    - 27 may
-    - 31 may
+    - 9 june
+    - 6 june
     - 2 june
+    - 31 may
+    - 27 may
+    - 23 may
+    - 18 may
+    - 15 may
+    - 11 may
+    - 7 may
+    - 3 may
+    - 29 april
+    - 
 
 ## dwarf jade
 
 * 26 april 2018 - arrived from bonsai outlet
 * 2 june 2018 - first major prune. transferred from circular pot to bonsai pot. watered. 
 * **water dates**
-    - 2 may
-    - 27 may
+    - 10 june (basewater + ice cube + fed)
     - 2 june
+    - 27 may
+    - 2 may
