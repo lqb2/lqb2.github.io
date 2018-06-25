@@ -9,6 +9,7 @@ image: assets/images/bonsai.png
 
 * 26 april 2018 - arrived from bonsai outlet
 * **water dates**: 
+    - 22 june
     - 9 june
     - 6 june
     - 2 june
@@ -28,7 +29,9 @@ image: assets/images/bonsai.png
 * 26 april 2018 - arrived from bonsai outlet
 * 2 june 2018 - first major prune. transferred from circular pot to bonsai pot. watered. 
 * **water dates**
+    - 22 june (ice cube)
     - 10 june (basewater + ice cube + fed)
     - 2 june
     - 27 may
     - 2 may
+    - 

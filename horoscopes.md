@@ -8,6 +8,31 @@ nav-menu: true
 
 _Note: All horoscopes below are from [Chani Nicholas](http://chaninicholas.com/horoscopes/). I just paste the two here that are my signs (Aries and Aquarius Rising) so that I can keep track for myself._
 
+## [Affirmation Horoscopes for the New Moon in Gemini – June 2018](http://chaninicholas.com/2018/06/horoscopes-new-moon-gemini-june-2018/)
+
+### Horoscope for _Aries_ & Aries Rising
+
+With this new moon I take a moment to understand what my daily rituals, rhythms, and activities encourage from me. Are my days vehicles for connection with what and who I hold dear? Do I have time to listen to the loves of my life, reveling in their beauty and exquisite oddities? Are my days constructed to hold me and my needs close? Do they leave me feeling loved and appreciated and loving and appreciating? Do they honor my curiosity, encourage my inquiries, and challenge my assumptions?
+
+With this new moon, I clear my calendar of unnecessary clutter. I remember that time is a gateway to build a life of meaning through, and I mean to make mine into a dissertation of care. Empathy. A meditation on connection. A declaration of how gorgeous it is to experience the whole spectrum of the human condition.
+
+I cannot out run sadness, pain, or despair. I am not greater than the sorrows that humankind creates, maintains, and must grapple with. I am not impervious to the conditions I was born into, and grew out of. I am not beyond being impacted by the way my heart breaks.
+
+Nor do I want to be.
+
+With this new moon I remember to speak to myself with incredible kindness. Care. Compassion for all the depth my soul seeks. Every mark life makes upon me, every groove, scar, and opening it leaves me with is mine to cherish. What I do with these impressions upon me is my message and it is always, always, always to learn how to love more honestly. With this new moon, I plant that intention within me.
+
+### Horoscope for Aquarius & _Aquarius Rising_
+
+With this new moon, I recommit my energy to the creative projects that keep me feeling connected. To my purpose. To my joy. To a way of working through the hardest hurts that I harbor. I know that finding ways to authentically express myself is a vaccination against isolation. It may not cure every aspect of what ails me, but it is a proactive antidote to many things that do. I know that finding ways to release my energy helps to flush out my energetic system. I know that the transformational impact of purposeful self-expression helps to keep my motors running. I know that when I feel that my work makes an impact on the world, I am given a powerful infusion of what might be described as hope. 
+
+I work with this new moon and the astrology that follows it to uncover something about my professional process. What is occurring there for me is deep. Healing. Burrowing down and through some of my most substantial issues around my worthiness. Self-doubt is a disaster but it is also a great teacher when I can hold it with perspective.
+
+If it arises I will remember to question it, asking which part of myself is doing the doubting. Is that part cunning or just conditioned to do so? Can I counter these beliefs with a more well-informed argument or do I need to outsmart my system with the diversion of learning something new about my craft? Whatever the cure, I am curious enough to try every remedy available.
+
+
+--- 
+
 ## [Horoscopes for the Full Moon in Sagittarius – May 2018](http://chaninicholas.com/2018/05/horoscopes-full-moon-sagittarius-may-2018/)
 
 
