@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Values & Vision
+title: Inspirations
 description: Lorem ipsum dolor est
 # image: assets/images/pic11.jpg_backup
 nav-menu: true
@@ -18,8 +18,12 @@ nav-menu: true
     - into the site because of the clarity and language around the different lines of service
 * [The Justice Collective](http://www.thejusticecollective.org/)
 * [Dante Garcia @ Story 2](https://story2designs.com/about/)
+* [Darren Calhoun](http://darrencalhoun.com/)
 
 ## Other inspiration
 * [Tiny Habits](http://tinyhabits.com/join/)
 * [Farnham Street: What I'm Reading](https://www.fs.blog/reading/)
 * [Joe Buhlig: Now page and more](http://now.joebuhlig.com/hello)
+* [Quotes On Design](https://quotesondesign.com/)
+* [Quotes and Accents](http://quotesandaccents.com/)
+* [Samuel Vásquez](http://www.samuelevazquez.com/) — I got the motivation to start my newsletter from listening to him on [Obsessed with Design](https://www.obsessedshow.com/episodes/samuel-e-vazquez)

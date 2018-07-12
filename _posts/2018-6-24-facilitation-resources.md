@@ -10,7 +10,9 @@ image: assets/images/pic02.jpg
 * [An Introduction to Popular Education from the Community Capacitation Center
 of Multnomah County Health Department](https://www.orpca.org/OEW%20Training/PE_Manual_2014_2.pdf)
 * [the why, when, and how of successful retreats - Just Works Consulting](https://www.just-works.com/img/Retreats_Ora_Grodsky_and_Jeremy_Phillips.pdf)
-* [Where does it Hurt?]()
+* [Where does it Hurt?: Health and Disharmony in Organizational Ecosystems - Ora Grodsky](http://docs.just-works.com/Where-Does-It-Hurt.pdf)
+* [Facilitative Leadership for Social Change - How to plan a successful meeting](../../../assets/files/FL4SC–PlanningASuccessfulMeeting.pdf)
+* [the cycle of liberation — Bobbie Harro](https://geography.washington.edu/sites/geography/files/documents/harro-cycle-of-liberation.pdf)
 
 ## check in questions 
 

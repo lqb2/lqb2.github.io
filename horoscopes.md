@@ -8,6 +8,46 @@ nav-menu: true
 
 _Note: All horoscopes below are from [Chani Nicholas](http://chaninicholas.com/horoscopes/). I just paste the two here that are my signs (Aries and Aquarius Rising) so that I can keep track for myself._
 
+## [Mars Retrograde and Full Moon Horoscopes – June 2018](http://chaninicholas.com/2018/06/mars-retrograde-full-moon-horoscopes/)
+
+### Horoscope for _Aries_ & Aries Rising
+
+What needs to be cut out of your life should be done so carefully, consciously and with great consideration.
+
+As Mars stations retrograde, your ruling planet points to the social roles that might be running you ragged or just draining a precious battery you need for other things.
+
+Something in your social life needs to be trimmed, cut back, and considered for the time, energy, and expense it is on your systems. It’s not that anything is necessarily wrong, its just that there are priorities you need to serve and in order to do so you need to recall some aspect of your energy.
+
+Fomo needs to be fought with long-term strategy sessions, vision boards, and remembering that big dreams require many small sacrifices, shifts, and reassessments.
+
+Mars’s movement backwards may spark a desire for greater autonomy or point to the importance of it. What needs to be done by you, and you alone, awaits your attention. This may prove to be a time when you feel a distance, discomfort, or shift occurring in your communal interactions. Disagreements that arise will prove themselves to be important portals for your personal growth and overall development over the next couple of months.
+
+Be patient with the process.
+
+The full moon in Capricorn on June 27th sets the stage for your bigger accomplishments to get noticed. The efforts you have made, the barriers you come up against, and the importance of developing a doubt-resistant patience towards your progress are made apparent. Whether this lunation proves to be encouraging or inhibiting for your projects, the information you receive in regards to your professional life is what’s important to focus on. Listening to the adjustments that the full moon reveals can make your life a little easier and, given the astrology, we want to work with whatever is on our side.
+
+### Aquarius & *Aquarius Rising*
+
+The astrology of the next month is incredibly strong for Water Bearers. It’s potent. Poignant. Powerful. Possibly a little overbearing.
+
+Easy does it.
+
+Like all medicines, this cosmic potion needs to be taken in reasonable doses. This is no time to overdo. Over-exert. Over-stretch. In fact, it’s a time to redirect some aspect of your energy. Notice what happens when some part of your life pulls inwards a little. Notice what happens when you identify and then cut back on unconscious ways you waste your energy. Notice what happens when you take a moment to reflect on your direction.
+
+It’s time to reclaim your energy.
+
+Withdraw from what threatens to burn you out. As Mars settles into its retrograde motion, it tries to school you on all the ways in which your systems are unnecessarily inflamed.
+
+Simplify. Streamline. Say goodbye to excess with full faith that you are making room for something much more fitting for you. You are undergoing an important transformation, one that will span across this next season. You are meant to be a little lighter on the other side of it. This process may ask you to reckon with the trauma, pain, or shame that your body has had to carry. Our bodies keep score and most of us are not winning in the systems we are forced to exist within. 
+
+The full moon in Capricorn on June 27th asks you to come to terms with some aspect of your vulnerability. If we have no control over how others treat us, may we at the very least understand how to treat ourselves. May we at the very least learn to make a life in honor of all we have suffered through, lost, and learned about love regardless. 
+
+This full moon comments on all of the psychological work that you have been doing behind the scenes since December 2017. This shift of focus inwards is balanced by an equally dramatic expansion outwards. As your career and public roles gain prominence, your inner life beckons you to explore its vast, hidden resources. The two may seem unrelated, but are actually incredible affirming of each other. As you work to uproot and understand the tensions within, you are able to more freely express them in your professional work, creating something truly unique to you and captivating to everyone else.
+
+For an in-depth exploration of your natal Mars and how best to work with this Mars retrograde over the next 9 weeks, please join me for A Journey Through Mars Retrograde. It’s an incredibly rich time to be learning about all things to do with this energy, including understanding the mark that Mars has made and continues to make on your life.
+
+---
+
 ## [Affirmation Horoscopes for the New Moon in Gemini – June 2018](http://chaninicholas.com/2018/06/horoscopes-new-moon-gemini-june-2018/)
 
 ### Horoscope for _Aries_ & Aries Rising
