@@ -8,6 +8,69 @@ nav-menu: true
 
 _Note: All horoscopes below are from [Chani Nicholas](http://chaninicholas.com/horoscopes/). I just paste the two here that are my signs (Aries and Aquarius Rising) so that I can keep track for myself._
 
+---
+
+## [Horoscopes for the Total Lunar Eclipse in Aquarius – July 2018](http://chaninicholas.com/2018/07/horoscopes-total-lunar-eclipse-aquarius-2018/)
+
+### _Aries_ & Aries Rising
+
+Pulling focus on your social roles, your social sphere, and the ways in which you connect with others, the blood moon reminds you of the importance of shedding certain aspects of your life every once in a while.
+
+Notice the roles that you cling to for validation. Notice the ones that you stay in out of obligation. Notice the ones that you now have to contort yourself to fit into that you didn’t used to. What felt good once won’t always. How you align with others is changing. How you work within your communities is changing. How you work towards your dream, vision and hope for the future is changing.
+
+Change is constant; your resistant to it is optional.
+
+Get friendly with the discomfort that might accompany these shifts. They impact how you make money, who you partner with professionally, and how you work with your creative energy in general.
+
+Mercury’s current retrograde is asking you to review the ways in which you channel your talents. It’s asking you to review the ways in which you communicate your desires. It’s asking you to rethink what you are spending your energy creating. If it doesn’t in turn create a quality of life for you to enjoy, this astrology will amplify the agitation created by such an inequity.
+
+Allow these shifts to move your focus from working with others in ways that aren’t that generative, to working with others in ways that are more attuned to your sensibilities, needs, and talents at this moment.
+
+
+
+### Aquarius & _Aquarius Rising_
+
+With a total lunar eclipse in your sign, it is fair to say that this moment marks an important one for you. What you divest from at this point in your life is just as important as what you invest in. You are not here to apologize for the way you were made. You are not here to withhold any part of your talent. You are not here to deny yourself any expression of love that moves through you.
+
+You are here to move closer to the core of your own humanity and to share the gift of such work with the rest of us. You are here to tell stories of truth and the beauty of being honest. Love and the horror of living without it. Growth and the pains and joys that it produces.
+
+The blood red light of the lunar eclipse articulates what you need to release yourself from. What you have struggled with has taught you much, but at a certain point it becomes unnecessary to keep wrestling the same beasts, at least in the same way. In fact, to hold onto the old struggles inhibits you from being able to step into the ring with more appropriate opponents at this stage in your evolution. Any confidence acquired needs to be cultivated so that you can move in the direction of more compelling problems.
+
+Mine your life for the most interesting predicaments to ponder.
+
+As Mercury stations retrograde, it asks you to review the relationship dynamics that get your wires tangled. This is no time to pretend that things are working between you and another if they aren’t. When you invest in unpacking the problems you face in partnerships, you’ll get to discover the deeper meanings of your unions. We are attracted to others by means of hormones and the healing we know we need deep in our bones. To get the benefit of one and not the other is an opportunity missed that is a betrayal of the body and soul.
+
+---
+
+
+### _Aries_ & Aries Rising
+
+I purge my life of all things that drag me down. That wear me out. That leave me feeling like life is too heavy to transform.
+
+I clear my closets of any uniforms that feel oppressive. Any suits that no longer suit me. Any capes that cover up my curves in shame.
+
+I am here to proclaim my love for the entirety of my figure.
+
+I clear my libraries of any stories passed down to me that do not hold my name in high regard. Any catalogues of failures that frame them as shameful instead of insightful. Any collections of condemnation that halt me from trying new things. 
+
+I welcome the empty spaces that this purge creates. I remember that releasing what is burdensome yet familiar is far from comfortable, but completely necessary if I am to grow. I am willing to deepen my relationship to what I need, knowing that I might have to distance myself from those that want my energy but don’t supply me with much support in return. At this point I’d rather rally around my long-term growth than placate my aches and pains with nutrient-lacking doses of immediate gratification.
+
+With Thursday’s eclipse, I commit to tending to my inner world. Watering its landscape. Nourishing my inner-child. Reminding them that they are perfect as is, no lie. Reminding them that their needs are valid, no exceptions. Reminding any part of myself in need that even if family members are incapable of understanding my situation, I am dedicated to making sure that I get to be as fully expressed as possible.
+
+### Aquarius & _Aquarius Rising_
+
+Thursday’s solar eclipse reminds me of the power of showing up for my most important projects. Whatever I begin now sets the tone for many future endeavors. I spend time in the present nurturing what I most want to work on in the future. I make extra effort developing what still fragile, growing, new, but noteworthy.
+
+_this feels like a validation for my facilitation consulting work._
+
+I know that care is an incredibly powerful currency, the kind I spend liberally on what matters most. Care is attractive. Alluring. All consuming. What I care for piques the curiosity of others. What I direct my care towards captivates the imagination of dream-team collaborations. What I care for creates a vortex of energy that others are inexplicably drawn towards.
+
+With Thursday’s new moon I pour all my love into the work projects that I wish to see more of in the world. So that others might see a way forward. So that those like me see themselves in the world. So that no matter what, I leave this place having opened up more options than what was offered to me. 
+
+_personal commentary: yes, this is totally about my shift towards doing more care work for men in my community *and* about my learning from the future about how to compost patriarchy sci-fi project._
+
+---
+
 ## [Mars Retrograde and Full Moon Horoscopes – June 2018](http://chaninicholas.com/2018/06/mars-retrograde-full-moon-horoscopes/)
 
 ### Horoscope for _Aries_ & Aries Rising
