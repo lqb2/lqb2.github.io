@@ -30,14 +30,13 @@ nav-menu: false
 			<div class="inner">
 				<header class="major">
 					<h3>For Anger</h3>
-				</header>				
-			        * exercise (at home or at the gym)
-			        * strength train
-			        * go for a walk in the arboretum or around jamaica pond
-			        * my anger is often a cover for sadness. listen to [my cry playlist](https://open.spotify.com/user/1213286621/playlist/72MjFhb2rhgknJs2KcmenT)
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				</header>
+                <ul>
+                    <li>exercise (at home or at the gym)</li>
+                    <li>strength train</li>
+                    <li>go for a walk in the arboretum or around jamaica pond</li>
+                    <li>my anger is often a cover for sadness. listen to [my cry playlist](https://open.spotify.com/user/1213286621/playlist/72MjFhb2rhgknJs2KcmenT)</li>
+                </ul>							        
 			</div>
 		</div>
 	</section>
@@ -69,9 +68,6 @@ nav-menu: false
                     <h3>For Anxiety</h3>
                 </header>
                 <p>remember what adrienne said: bring my attention closer, back to things i can put my hands on, things i can touch and have an impact on or feel directly. text or call someone i love and let them know i love them</p>
-                <ul class="actions">
-                    <li><a href="generic.html" class="button">Learn more</a></li>
-                </ul>
             </div>
         </div>
     </section>
@@ -108,7 +104,7 @@ nav-menu: false
                     <li>do <a href="https://mijente.net/2017/11/02/ancestral-spiritual-resistance-zine/">eroc's meditation practice</a></li>
                     <li>burn incense</li>
                     <li>take a bath</li>
-                    <li>Remember reasons why I can:</li>
+                    <li>remember <i>reasons why I can</i></li>
                 </ul>
 			</div>
 		</div>
@@ -124,11 +120,8 @@ nav-menu: false
 		<li>read a book (time travel)</li>
         <li>stretch (get back in my body)</li>
         <li>change perspective (discreate my current reality, create a new reality)</li>
-        <li>sirsasana</reality)>
-        <li>find a way to put my hands in soil (all this pass)</li>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
+        <li>sirsasana (flip reality)</li>
+        <li>find a way to put my hands in soil (all this, too, shall pass)</li>
 	</div>
 </section>
 
