@@ -5,7 +5,20 @@ description:
 image: assets/images/pic03.jpg
 ---
 
-last updated: 2 june 2018
+last updated: 11 august 2018
+
+## [radical hope]()
+
+i felt like i had to read this book given the radical imagination work grant and i have been interested in doing lately. it's a lovely collection of letters and  a quick read that i probably read too fast. has past, present, and future directed letters and the range of voices and letter recipients is wonderful. i should go back and find some of my favorites and mark them for future teaching materials 
+
+
+## [bloodchild and other stories]()
+
+it’s pretty insane that butler can pack just as much into her short stories as she does with her novels. she does it repeatedly in this collection. the opening story, bloodchild - the title for the collection, whops a mind bending wallop and the final story, martha’s book, a story about the nature of divinity, hit me so powerfully at exactly the right moment (during the evolutionary leadership workshop at chanel rock on cortes island). butler’s ability to take the basic underlying premises of our lives, keep them, but bend them just enough to make me rethink the whole world is astounding. 
+
+## [jackson rising: the struggle for economic democracy and black self-determination in jackson, mississippi]()
+
+
 
 ## [the dispossessed](https://www.goodreads.com/book/show/6602919-the-dispossessed)
 

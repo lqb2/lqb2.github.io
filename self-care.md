@@ -1,7 +1,7 @@
 ---
 title: Self-care Strategies
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: ''
 image: assets/images/pic07.jpg
 nav-menu: false
 ---
@@ -35,7 +35,7 @@ nav-menu: false
                     <li>exercise (at home or at the gym)</li>
                     <li>strength train</li>
                     <li>go for a walk in the arboretum or around jamaica pond</li>
-                    <li>my anger is often a cover for sadness. listen to [my cry playlist](https://open.spotify.com/user/1213286621/playlist/72MjFhb2rhgknJs2KcmenT)</li>
+                    <li>my anger is often a cover for sadness. listen to <a href="https://open.spotify.com/user/1213286621/playlist/72MjFhb2rhgknJs2KcmenT">my cry playlist</a></li>
                 </ul>							        
 			</div>
 		</div>
