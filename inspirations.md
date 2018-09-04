@@ -13,7 +13,7 @@ nav-menu: true
 
 ## Firms of one (people I admire and maybe want to be like)
 
-* [Mistinguette Smith](TBD) 
+* [Mistinguette Smith](http://www.msmithconsulting.net/) 
 * [Linda Gonzales](http://www.lindagonzalez.net/)
     - into the site because of the clarity and language around the different lines of service
 * [The Justice Collective](http://www.thejusticecollective.org/)
@@ -21,6 +21,7 @@ nav-menu: true
 * [Darren Calhoun](http://darrencalhoun.com/)
 
 ## Other inspiration
+* [joy boulaweni's timeline of public-facing presentations, talks, etc.](http://poetofcode.com/presentations)
 * [Tiny Habits](http://tinyhabits.com/join/)
 * [Farnham Street: What I'm Reading](https://www.fs.blog/reading/)
 * [Joe Buhlig: Now page and more](http://now.joebuhlig.com/hello)

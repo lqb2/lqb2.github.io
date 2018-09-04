@@ -10,6 +10,49 @@ _Note: All horoscopes below are from [Chani Nicholas](http://chaninicholas.com/h
 
 ---
 
+## [Horoscopes for the Full Moon in Pisces – 2018](https://chaninicholas.com/2018/08/horoscopes-full-moon-pisces-2018/)
+
+### _Aries_ & Aries Rising
+
+**The full moon in Pisces highlights the distance that you have travelled along the healing roads that you have tread. This full moon illuminates what you have been able to reclaim your energy from. It lifts up how you have mastered some of the hardest lessons you have had to learn recently.** It makes a point of praising you for taking the time to process what hurts.
+
+**The full moon reminds you that it’s OK to feel old feelings. It’s OK to re-live a situation you thought you outgrew. It’s OK to lose sight of how far you have come and how fast.**
+
+**That’s often part of the healing process.**
+
+To lose hope in the face of major triumphs is part of winning at life. To not know how to recognize the most important aspects of your journey, the keys to your success, or the pivotal moments of your trajectory, momentarily, is all part of the process.
+
+It’s second nature to know what worldly validation looks like, but it takes time to recognize and appreciate the achievements made in your inner life.
+
+Over the next two weeks you get to appreciate both.
+
+**While the full moon highlights the work you have done within, Mars and Saturn are busy redefining what it means to live out your purpose loud and clear. From August 27th – September 6th, Mars, and then Saturn, station direct. Both in Capricorn and your 10th house of career, these two pull the professional into prominent focus. With their change of direction, you get the chance to put your ambition, drive, and decisiveness back to work.**
+
+**Over the past couple of months, as these two retraced their steps, you were asked to review your roles, responsibilities, and desired way of taking up space in the world. You may notice that after this trip your work is more streamlined. Sophisticated. Stripped down. You may notice that you are more aware of why you desire to do what you do. What tools you have to work with in order to do so. What energetic inspiration drives you.**
+
+**Honor these keys to your success.**
+
+**Keep coming back to them. Keep asking yourself if what you are doing has any energy behind it. If it excites your being. If it clarifies your reasons for advancing along the lines that you are. If it doesn’t lift your spirit in some major way, it’s not going to have the stamina to work in the long run.**
+
+### Aquarius & _Aquarius Rising_
+
+**The full moon brings with it a boon, a bounty, and a bonus. This could impact your bank account, your roles at work, or your feelings about what it is you are doing. Whatever the tangible result, use it as an affirmation of your healing.**
+
+**You are what you choose to develop.**
+
+**Learning how to sit with what is uncomfortable is the only way to build the psychological awareness needed for great growth spurts. As the things that you have been working on behind the scenes get green-lit to go ahead, celebrate and keep your eye on the emotional material that gets stirred in the process.**
+
+**What does it mean to get to live, even a teeny-tiny part, of your dream? What demons awaken to tell you that you cannot pass the threshold to success? What old doubts wriggle around in the dark corners of your life, barely noticeable but all too destructive in their wear and tear of your soul?**
+
+As Mars and then Saturn station direct (August 27th and September 6th), these issues get clarified. **We have to know what plagues us in order to understand the remedy to remediate.** You have done an incredible amount of work on these issues over the spring and summer of this year. It has been an unpacking of epic proportions, but now it’s time to take what you have been given and put it to work.
+
+**We are only able to use what we are able to integrate.**
+
+**Every great creation is so because it touches all aspects of being human.** The same is true of your life. The more you are able to explore all aspects of your being, the clearer you’ll be about who you are and what makes you feel fulfilled. **If your life is going to be great it will be because you have lived it fully, widely, deeply, and with little resistance to what it is trying to teach you.**
+
+
+---
+
 ## [Horoscopes for the Total Lunar Eclipse in Aquarius – July 2018](http://chaninicholas.com/2018/07/horoscopes-total-lunar-eclipse-aquarius-2018/)
 
 ### _Aries_ & Aries Rising

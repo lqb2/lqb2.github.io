@@ -103,7 +103,7 @@ nav-menu: false
                 <ul>
                     <li>do <a href="https://mijente.net/2017/11/02/ancestral-spiritual-resistance-zine/">eroc's meditation practice</a></li>
                     <li>burn incense</li>
-                    <li>take a bath</li>
+                    <li>take a bath (<a href="https://jaxislearning.tumblr.com/post/176884232000/on-calling-energy-back-to-ourselves" target="new">and put sprigs of rosemary in it</a>)</li>
                     <li>remember <i>reasons why I can</i></li>
                 </ul>
 			</div>

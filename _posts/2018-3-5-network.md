@@ -24,6 +24,7 @@ you can also get in touch with any of my favorite collaborators below. shout out
 * [john kidenda](https://twitter.com/johnkidenda)
 * [abe lateiner](http://www.risksomething.org/)
 * [curtis ogden]()
+* [aisha shillingford]
 
 ## people i haven't formally worked with but are dope
 
@@ -32,6 +33,7 @@ you can also get in touch with any of my favorite collaborators below. shout out
 * eroc arroyo-montano
 * luana morales
 * [glenn johnson](https://gettingchangedone.com/) <!-- I’ve got pretty good mastery Microsoft Word, Excel, and PowerPoint. I also have some basic Photoshop skills. And I can coordinate events “like a boss.” 😊 -->
+* [alia lahlou]()
 
 ---
 
