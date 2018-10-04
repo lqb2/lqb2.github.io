@@ -30,7 +30,7 @@ I have been trained by the [Interaction Institute for Social Change](http://inte
 
 * “I SO appreciate you taking the time to offer very insightful feedback for me for the Masterful Trainer workshop.  It's very clear that you are a deeply skilled observer and facilitator Lawrence!” — [Shoshanna Cogan](http://www.shoshannacogan.com/), Master Trainer
 * “You're an excellent facilitator - patient, inclusive....I will learn from you!” - Renée Vassilos
-* “...I think you did an excellent job managing the situation that came up at the end of the workshop.  It was a very difficult situation but you handled it beautifully. With assertiveness, respect, honesty and kindness.” — Personal Storytelling for Social Change workshop participant (situation: a white woman using the n-word)
+* “...I think you did an excellent job managing the situation that came up at the end of the workshop.  It was a very difficult situation but you handled it beautifully. With assertiveness, respect, honesty and kindness.” — [Personal Storytelling for Social Change work](https://www.podcastgarage.org/events/2017/8/5/personal-storytelling-for-social-change) participant (situation: a white woman using the n-word)
 
 ---
 
