@@ -6,6 +6,12 @@ image:
 nav-menu: false
 ---
 
+## info for the live events
+
+* [Here's the facebook link for this Friday](https://www.facebook.com/events/495248480939867/)
+* [Here's the Podcast Garage link for the Dudley event.](https://www.podcastgarage.org/events/2018/10/19/chinatown-presents-personal-storytelling-for-social-change-with-prx-podcast-garage-at-dudley-cafe)
+* [Here's the Podcast Garage link for the Pao event.](https://www.podcastgarage.org/events/2018/10/19/chinatown-presents-personal-storytelling-for-social-change-with-prx-podcast-garage-at-dudley-cafe-esdwl)
+
 ![Imgur](https://i.imgur.com/zMlE8yT.jpg)
 
 ## PLEASE GIVE FEEDBACK
@@ -23,11 +29,9 @@ most of you filled out the feedback form, but if you haven't yet, please fill it
 
 ## ways to stay in touch with the group
 
-* **going to see the moth live**: please fill out [this doodle]() to see which upcoming boston dates work for most/all of us: nov 1, dec 4, dec 18. if we can't find a 2018 date, we'll look for 2019!
+* **going to see the moth live**: please fill out [this doodle](https://doodle.com/poll/fiinp3wefgq5b7bf) to see which upcoming boston dates work for most/all of us. if we can't find a good-enough 2018 date, i'll look towards 2019!
 * **dinner at rosann's**: i'll be in touch with rosann to get more details about how this could work and then i'll be in touch with yall. 
-* **like moths to a flame**: this is a fun storytelling side-project of mine. the goal is to build (verbal) storytelling muscles by practicing making up a 5-minute story once a month. how does it work? at the beginning of each month, i grab a prompt from the moth and email it to the group. then, each of us uploads an audio recording of our story to a private soundcloud account. i include the account info for the account in the emails to the group and all the files remain private so only people who have login access can listen. the only requests are that (a) you keep your story to five minutes or less and (b) you give feedback to at least one other story per month. the next round starts nov 1 and will be 3 months: nov 2018, dec 2018, and jan 2019. after that, i'll decide if another round should open up or if the project will evolve. 
-
-if you're interested in participating, email me by oct 31 so i can add you to the list. 
+* **like moths to a flame**: this is a fun storytelling side-project of mine. the goal is to build (verbal) storytelling muscles by practicing making up a 5-minute story once a month. how does it work? at the beginning of each month, i grab a prompt from the moth and email it to the group. then, each of us uploads an audio recording of our story to a private soundcloud account. i include the account info for the account in the emails to the group and all the files remain private so only people who have login access can listen. the only requests are that (a) you keep your story to five minutes or less and (b) you give feedback to at least one other story per month. the next round starts nov 1 and will be 3 months: nov 2018, dec 2018, and jan 2019. after that, i'll decide if another round should open up or if the project will evolve. _if you're interested in participating, email me by oct 31 so i can add you to the list._
 * **here are everyone's emails**:
     * tammarrah1@gmail.com,
     * janereed55@verizon.net,
@@ -47,7 +51,7 @@ if you're interested in participating, email me by oct 31 so i can add you to th
 * [week 3 - 22 oct 2018](https://drive.google.com/drive/folders/1cBEQ-hc2jNNO0GpXsgsXITB620wBAyB4?usp=sharing)
 * [week 4 - 6 nov 2018](https://drive.google.com/drive/folders/1YCHpV2CDzxGZ5bn68OCD9DZkALfVvJgg?usp=sharing)
 
-## boston and regional place to practice/learn storytelling
+## boston and regional places to practice/learn storytelling
 * [Sound Education conference, 1-3 November, 2018](https://www.soundeducation.fm/) @ Harvard
 * [The Moth: Boston](https://themoth.org/events/results?eventLocations=6433&typesOfEvents&eventDate)
 * [Mass Mouth Story Slams](http://www.massmouth.org/read-me/)
@@ -56,6 +60,8 @@ if you're interested in participating, email me by oct 31 so i can add you to th
 * [Grubb Street](https://grubstreet.org/) (has awesome programs, workshops, and classes)
 
 ## storytelling resource exchange
+
+if you have resources you want to share with the group, email me and i'll add them here. 
 
 * from lawrence
     * [The Neighborhood Story Project: Our Stories Told by Us](https://www.neighborhoodstoryproject.org/) 
