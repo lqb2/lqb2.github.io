@@ -3,7 +3,7 @@ layout: post
 title: Work With Me
 description: “Virtual” Assistant Job Description 
 # image: assets/images/pic11.jpg_backup
-nav-menu: true
+nav-menu: false
 ---
 
 ## “Virtual” Assistant Job Description 
@@ -42,8 +42,8 @@ I’m imagining supporting you on a project you are moving forward or want to ge
 
 ### Money
 
-* $15-20/hr for 4-6 hours a week for starters. 
-* If my income grows and/or our work together feels really good for both of us, I’m interested in switching the hourly pay to a retainer-style package (I pay for access to your support and whether or not I use up 4-6/hours a week is my responsibility; you get paid either way. 
+* $15-20/hr for 4-6 hours a week.
+* If my income grows and/or our work together feels really good for both of us, I’m interested in switching to a retainer-style package (I pay for access to your support and whether or not I use up 4-6/hours a week is my responsibility; you get paid either way.)
 * Sidenote: It’s possible that other people in my consultant network would be interested in hiring you if your and my work together gets off to a good start. 
 
 ### Process
