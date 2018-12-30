@@ -1,21 +1,10 @@
 ---
 layout: post
-title: Work
-description: Work
-image: assets/images/pic11.jpg_backup
-nav-menu: false
+title: Facilitation 
+description: Facilitate means to make easier...
+image: assets/images/pic02.jpg
 ---
 
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/39707106@N02/40002748962/in/album-72157691925408784/" title="Unleashing Alternative Futures (Day 2)"></a>![Photo of Lawrence](https://farm5.staticflickr.com/4757/40002748962_0cbb1fc2de_k.jpg)
-<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-{:.image-caption}
-*Unleashing Alterative Futures (Day 2), Photo credit: Grant Williams*
-
-## Work
-
-I primarily work in the domains of communications and facilitation and I am happiest engaging projects that exist at their intersection. 
 
 ### Facilitation 
 
@@ -31,19 +20,6 @@ I have been trained by the [Interaction Institute for Social Change](http://inte
 * “I SO appreciate you taking the time to offer very insightful feedback for me for the Masterful Trainer workshop.  It's very clear that you are a deeply skilled observer and facilitator Lawrence!” — [Shoshanna Cogan](http://www.shoshannacogan.com/), Master Trainer
 * “You're an excellent facilitator - patient, inclusive....I will learn from you!” - Renée Vassilos
 * “...I think you did an excellent job managing the situation that came up at the end of the workshop.  It was a very difficult situation but you handled it beautifully. With assertiveness, respect, honesty and kindness.” — [Personal Storytelling for Social Change work](https://www.podcastgarage.org/events/2017/8/5/personal-storytelling-for-social-change) participant (situation: a white woman using the n-word)
-
----
-
-
-### Communications
-
-As a communications strategist, I deeply believe that shifting story can make new worlds possible and impossible. My communications work started in video and photography and has evolved to include web design, graphic design, social media, and, most recently, narrative strategy and strategic communications by the [Center for Story-Based Strategy](https://www.storybasedstrategy.org/). Recent communications clients include: the [MIT Community Innovators Lab](https://colab.mit.edu) and [Californians for Justice](http://caljustice.org/)  
-
-**Testimonials**
-
-* “do you know what what i get the most out of our talks? listening. which is funny because i talk a LOT during our chats… but i find that you’re one of the best listeners that i know and then *i* listen better when i’m talking to other people. it’s great.” — [spencer wilson](http://spewil.github.io/about/)
-* "I just wanted to say thanks, and to let you know I've turned into a (now not so) secret admirer.  I clicked through to your blog from facebook, and you are an incredible writer and thinker.  (The two definitely go hand in hand but are equally challenging in their own ways.) If you don't mind, I'm going to hang around for the inspiration and the motivation." - Craig Aubuchon 
-* “My goal is to establish a regular writing practice this month, that I can maintain over time, so I can be more prolific and rad. Like you. ;)” — [Angus Maguire](http://beclouded.net/)
 
 
 ---

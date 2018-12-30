@@ -3,7 +3,7 @@ layout: post
 title: collections
 description: Lorem ipsum dolor est
 image: 
-nav-menu: true
+nav-menu: false
 ---
 
 ## my tumblrs

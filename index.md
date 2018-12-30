@@ -1,10 +1,10 @@
 ---
 layout: home
 title: Home
-landing-title: 'lqb2.co is under major construction'
+landing-title: 'Welcome to lqb2 & co'
 description: null
 image: null
 author: null
 ---
 
-This site is undergoing major construction. But my [blog](/blog) is still up and running...
+<!-- This site is undergoing major construction. But my [blog](/blog) is still up and running... -->

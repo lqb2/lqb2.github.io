@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Art
-nav-menu: true
+nav-menu: false
 ---
 
 <!-- Main -->

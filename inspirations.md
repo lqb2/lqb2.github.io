@@ -3,7 +3,7 @@ layout: post
 title: Inspirations
 description: Lorem ipsum dolor est
 # image: assets/images/pic11.jpg_backup
-nav-menu: true
+nav-menu: false
 ---
 
 ## Values Inspiration

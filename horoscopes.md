@@ -3,7 +3,7 @@ layout: post
 title: Horoscopes
 description: Horoscopes from Chani Nicholas
 image: http://chaninicholas.com/wp-content/uploads/Moon-BannerBrighter.jpg
-nav-menu: true
+nav-menu: false
 ---
 
 _Note: All horoscopes below are from [Chani Nicholas](http://chaninicholas.com/horoscopes/). I just paste the two here that are my signs (Aries and Aquarius Rising) so that I can keep track for myself._

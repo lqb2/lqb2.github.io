@@ -3,7 +3,7 @@ layout: post
 title: In the World
 description: Lawrence around the internet
 image: assets/images/pic11.jpg_backup
-nav-menu: true
+nav-menu: false
 ---
 
 <!-- add all colab radio blog posts: http://colabradio.mit.edu/author/lawrence-barriner-ii/page/2/ -->
