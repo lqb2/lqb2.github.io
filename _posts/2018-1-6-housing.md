@@ -5,7 +5,17 @@ description: Who's needs a place to live? Or someone to take their place?
 image: assets/images/pic02.jpg
 ---
 
-## danya & eli, looking for 9/1
+## owen, looking for 3/1/2019
+
+There is a room available in our four bedroom apartment in Cambridge for March 1. It is a fairly communal house in terms of spaces, dishes, groceries, and cleaning responsibilities, and we tend to hang out in the kitchen together. Our apartment is conveniently located near Hampshire and Windsor in the Port, walking distance to both Central and Kendall. Rent is $645+utilities, usually totaling to around $700. There is no lease (month-to-month). Other details: several queer housemates, gas heat, gas oven/stove, coin-op washer in basement / in-unit dryer, old school projector and many plants in sunny living room, second floor / not accessible, no furry pets. 
+
+The room available is approx 10' x 12', with a big (for Cambridge) closet (approximately 4' x 4') It has one southeast facing window that gets excellent morning light. It is currently painted a purple-ish brown color, but you are welcome to repaint it. Furniture in room optional. Early move-in may be available as needed.
+
+contact: lawrence.barriner.ii+312019@gmail.com 
+
+---
+
+## ~~danya & eli, looking for 9/1~~
 
 Hello friends,
 
