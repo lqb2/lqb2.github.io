@@ -28,3 +28,12 @@ nav-menu: false
 * [Quotes On Design](https://quotesondesign.com/)
 * [Quotes and Accents](http://quotesandaccents.com/)
 * [Samuel Vásquez](http://www.samuelevazquez.com/) — I got the motivation to start my newsletter from listening to him on [Obsessed with Design](https://www.obsessedshow.com/episodes/samuel-e-vazquez)
+
+## Website inspirations
+
+* [erika totten](https://www.toliveunchained.com/about-erika-totten) – specifically, her bio.
+
+## Facilitation / work inspirations
+
+* [sandra kim - training: Healing from Internalized Whiteness](https://everydayfeminism.com/healing-from-internalized-whiteness/)
+* [aorta.coop sliding scale pricing](http://aorta.coop/rates/)
