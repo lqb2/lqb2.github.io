@@ -60,3 +60,8 @@ via the [youth development network](https://www.ydnetwork.org/). they have tons 
 1. What one thing would you like to learn how to cook?
 1. Who are your role models?
 1. What is the most significant problem facing the world?
+
+## other good questions
+
+1. share something that consistently makes you laugh
+2. share your favorite poem and why that's the one
