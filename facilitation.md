@@ -13,7 +13,7 @@ nav-menu: false
 		<header class="major">
 			<h1>Facilitation</h1>
 		</header>
-		<p>Hi! I'm excited you're interested in working with me. Below are my pricing guidelines along with a bit of extra info and some words from recent clients. Please check this out and then let's get on the phone (or video is even better!) and see if I can support you or your organization in your work. 
+		<p>Hi! I'm excited to support you or your organization in your work! Below are my pricing guidelines, some testimonials, my availability, and an abbreviated client list. Please check this out and then let's get on the phone (or video is even better!). Email is the best way to be in touch: lawrence@lqb2.co. Thanks and I'm looking forward to connecting. 
 
 <hr class="major" />
 
