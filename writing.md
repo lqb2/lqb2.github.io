@@ -6,17 +6,38 @@ description:
 nav-menu: false
 ---
 
-## what this is
 
-hello three lovely humans!
-
-i made this page just for yall. it's meant to a landing page for the duration of this habit-building exercise. what we do with it afterwards we can figure out later (which might just be deleting it).
-
-anywho, one of you has made a request to know who else is in this trio so could you each email me something like three sentences saying a little about yourself and why you're trying to build your public writing muscles? i'll share all three at the same time assuming you're each willing to share. if anyone is not, then the request just won't be granted. ^_^
 
 ## tracking
 
 [here's the spreadsheet i made for us to track our habits](https://docs.google.com/spreadsheets/d/1T2eOefpcQcxDYPir-f7UMtdAUmpdEwD0dkC7l-HQtZY/edit#gid=0). i'll be partcipating too but building a different habit. 
+
+## who you are
+
+![jo](https://i-h1.pinimg.com/280x280_RS/a2/dc/3d/a2dc3d9634b530f3c36a7fbec643e7d3.jpg)  
+**Joanna Miller**  
+Coach | Facilitator | Writer  
+I spend my time in many ways but ultimately I'm striving to live the party I want to be to. 
+
+I've been afraid to write for as long as I've felt the urge to. Over the past few years I've built a (almost) daily practice of writing morning pages. During that time I've gone from feeling like I have nothing to say to worrying about what will happen if those thoughts are shared aloud. I'm focused on two principles as I dip my toe into the well of public writing: 
+* create shared practice - we learn through the work; we build connection through the learning.  I have a deep appreciation for Lawrence and my fellow learners. 
+* the scar is the subject - my scars and imperfections should be studied not hidden. learning how we've healed may help understand what hurt us. 
+
+**joanna (joey) gattuso**
+I'm a Leo, an empath, a facilitator, an aspiring parent and independent consultant living in Salem, MA. The work I've been building focuses on partnering with organizations to design values-driven work that centers imagination and vision. That said, I feel a bubbling of creative energy that I'm not sure where to place and I've been told a writing practice will help.  I want to find my words.
+
+
+---
+
+old things
+----------
+
+## what this is
+
+hello lovely humans!
+
+i made this page just for yall. it's meant to a landing page for the duration of this habit-building exercise. what we do with it afterwards we can figure out later (which might just be deleting it).
+
 
 ## pick a right-sized commitment!
 
@@ -29,9 +50,9 @@ so. between now and monday, which is when we'll begin, pick a writing habit that
 ok, that's enough for now. please send me sentences about yourselves so i can share them here. 
 
 
-## who you are
 
-coming soon pending consent.
+
+
 
 ---
 
@@ -49,3 +70,5 @@ these are examples of some folks who do some sort of writing daily or inspiratio
     1. <https://jamesclear.com/one-sentence-habits>
     1. <https://jamesclear.com/maya-angelou>
     2. <https://jarche.com/2014/11/working-and-learning-out-loud/>
+3.  **other resources**
+    4. [Mark Matousek and Maria Sirois: Writing For Resilience: The Life Saving Power of Changing Your Story](https://www.garrisoninstitute.org/event/mark-matousek-and-maria-sirois-writing-for-resilience-the-life-saving-power-of-changing-your-story/)
