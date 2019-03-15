@@ -14,7 +14,8 @@ nav-menu: false
 
 ## who you are
 
-![jo](https://i-h1.pinimg.com/280x280_RS/a2/dc/3d/a2dc3d9634b530f3c36a7fbec643e7d3.jpg)  
+
+![jo](https://i.imgur.com/uz64egs.jpg) 
 **Joanna Miller**  
 Coach | Facilitator | Writer  
 I spend my time in many ways but ultimately I'm striving to live the party I want to be to. 
