@@ -133,7 +133,7 @@ nav-menu: false
 
 
 <!-- Elements -->
-<h2 id="elements">Client List</h2>
+<h2 id="elements">2018 Client List</h2>
 
 <ul>
  <li><a href="https://www.spitfirestrategies.com">Spitfire Strategies</a></li>
@@ -145,5 +145,12 @@ nav-menu: false
  <li><a href="https://www.podcastgarage.org">PRX Podcast Garage</a></li>
 </ul>
 
+<hr>
 
-<!-- I have been trained by the Interaction Institute for Social Change in Facilitative Leadership and the Fundamentals of Facilitation for Racial Justice Work, by Interaction Associates as a Masterful Trainer and as a Manager, by adrienne maree brown in emergent strategy facilitation. -->
+<!-- Elements -->
+<h2 id="elements">Training/Background</h2>
+
+<blockquote>To facilitate means 'to make easier.' — adrienne maree brown</blockquote>
+
+
+I have been trained by the <a href="http://interactioninstitute.org"><b>Interaction Institute for Social Change</b></a> in <a href="http://interactioninstitute.org/training/facilitative-leadership-for-social-change/">Facilitative Leadership</a> and the <a href="http://interactioninstitute.org/training/fundamentals-of-facilitation-for-racial-justice-work/">Fundamentals of Facilitation for Racial Justice Work</a>, by <a href="http://interactionassociates.com"><b>Interaction Associates</b></a> as a <a href="http://interactionassociates.com/training/masterful-trainer">Masterful Trainer</a> and as a <a href="http://interactionassociates.com/training/managing-impact">Manager</a>, and by <a href="http://adriennemareebrown.net/"><b>adrienne maree brown</b></a> in <a href="https://www.akpress.org/emergentstrategy.html">emergent strategy facilitation</a>. 
