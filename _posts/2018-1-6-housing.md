@@ -5,7 +5,21 @@ description: Who's needs a place to live? Or someone to take their place?
 image: assets/images/pic02.jpg
 ---
 
-## owen, looking for 3/1/2019
+## jax, looking for asap, $700-750
+
+Hi friends, 
+
+I am in the process of looking for housing in Field's Corner. Over the past few years and especially the past year, yoga practice has become increasingly a foundation for my life. I've been going steadily to JP Centre, but at some level it always leaves me with the ickiness of white supremacy. 
+
+And so, I'm looking for a place near 4 corners yoga studio. I recently came across this posting: https://boston.craigslist.org/gbs/nfb/d/boston-large-newly-renovated-4bed-2bath/6872550751.html. I'm also open to taking an open room in another apt. Timeline flexible.
+
+I'd love to live with other self-aware, emotionally intelligent people who have some kind of community values/orientation.
+
+If you could forward along to people you know who may be interested, I'd appreciate it. I can be reached out to via e-mail or via text at 401-451-7736.
+
+---
+
+## ~~owen, looking for 3/1/2019~~
 
 There is a room available in our four bedroom apartment in Cambridge for March 1. It is a fairly communal house in terms of spaces, dishes, groceries, and cleaning responsibilities, and we tend to hang out in the kitchen together. Our apartment is conveniently located near Hampshire and Windsor in the Port, walking distance to both Central and Kendall. Rent is $645+utilities, usually totaling to around $700. There is no lease (month-to-month). Other details: several queer housemates, gas heat, gas oven/stove, coin-op washer in basement / in-unit dryer, old school projector and many plants in sunny living room, second floor / not accessible, no furry pets. 
 
