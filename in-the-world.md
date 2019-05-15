@@ -10,6 +10,12 @@ nav-menu: false
 
 ## Me around the world/internet
 
+### 2019
+
+* [Workshop: Planning for Freedom at the Harvard Graduate School of Design with Danya Sherman](https://imgur.com/5yy2v1g) (3 March & 18 April 2019)
+* [MFA City Talks: Narratives of Resistance](https://www.mfa.org/programs/special-event/the-city-talks-narratives-of-resistance) (22 May 2019)
+* [Everyday Time Travel: Ancient Technology for Embodied Transformation](http://worldfellowship.org/event/everyday-time-travel-ancient-technology-for-embodied-transformation/) (28 Aug 2019)
+
 ### 2018
 * [Mapping Ecosystems of Care](http://oldoakdojo.com/event/mapping-our-ecosystems-of-care/) (19 Aug 2018)
 * [Blueprint for Imagining (Y)our Futures](https://medium.com/predict/blueprint-for-imagining-y-our-futures-18bc90758793) (9 Aug 2018)
@@ -38,3 +44,13 @@ nav-menu: false
 ### 2008
 
 * [MIT Admissions Blog: In Their Own Words (Part 2) by Paul B. '11](https://mitadmissions.org/blogs/entry/in_their_own_words_part_2/) (30 June 2008)
+
+
+## bios/taglines
+
+* For FII website: Network Engagement Coordinator, [Center for Story-based Strategy](https://www.storybasedstrategy.org/); Independent Consultant, [lqb2 & co](http://www.lawrencebarrinerii.com/), Board Chair, [Resist](http://resist.org/)
+* For MFA City Talks: Narratives of Resistance
+    - Lawrence is a facilitator, coach, network weaver, and narrative strategist. He believes in the power of love to create justice and the power of story to make new worlds possible. His work is towards worlds where liberation is experienced is to support transformation at all scales. 
+* Narrative: Personal, Political, Planetary
+    * Lawrence is a narrative strategist, connector, and systems thinker. His  paid work includes coaching, facilitation, education, as well as serving as the Network Engagement Coordinator at the Center for Story-Based Strategy. His unpaid work includes visionary fiction, healing justice, and (r)evolutionary uncling. He loves meditating, quotes, baking bread, feeding his worms, and cooking/eating good food with good friends. His previous work includes communications strategy, food systems & food justice research and consulting, web design, and graphic design. He has undergraduate and graduate degrees in City Planning from MIT.
+    * Lawrence is a narrative strategist, connector, and systems thinker. His  paid work includes coaching, facilitation, and serving as the Network Engagement Coordinator at the Center for Story-Based Strategy. His unpaid work includes visionary fiction, healing justice, and (r)evolutionary uncling. He loves meditating, quotes, baking bread, and feeding his worms. He has undergraduate and graduate degrees in City Planning from MIT.
