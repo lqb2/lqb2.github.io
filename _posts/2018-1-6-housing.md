@@ -5,7 +5,15 @@ description: Who's needs a place to live? Or someone to take their place?
 image: assets/images/pic02.jpg
 ---
 
-## jax, looking for asap, $700-750
+## Looking for housing near MIT for sept-dec 2019
+
+Hi, I'm [Tara Roberts](https://www.tararoberts.me/about). I am looking for something under $1k per month (ideally) and in walking distance of MIT. And I’ll be there from Sept - December definitely. Maybe for the second semester as well. Depends on whether I can get adjusted to the cold! :) I’d love to build community with a few roommates that respect and honor space for creative expression and thoughtful conversations. It would also be great to have a private bath. I know that’s asking a lot, but you never know!
+
+Alternatively, I might have an opportunity to move with another woman who will be running a new VR lab at MIT.  A cozy 2-bedroom, furnished, also within walking distance of MIT for $2500 or less, would also be of interest to us both.
+
+---
+
+## ~~jax, looking for asap, $700-750~~
 
 Hi friends, 
 
@@ -54,7 +62,7 @@ Danya & Eli
 
 ---
 
-## 1br/1ba on Clinton st in Cambridge ($1800)
+## ~~1br/1ba on Clinton st in Cambridge ($1800)~~
 
 Hey folks!
  

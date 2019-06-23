@@ -2,7 +2,7 @@
 layout: post
 title: Facilitation 
 description: Facilitate means to make easier...
-image: assets/images/pic02.jpg
+image: https://i.imgur.com/CPnq1Ve.jpg
 ---
 
 
