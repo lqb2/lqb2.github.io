@@ -20,7 +20,7 @@ nav-menu: false
 <!-- Content -->
 <h2 id="content">Pricing</h2>
 <p>
-	This sliding scale rate sheet is inspired by <a href="http://aorta.coop/rates/">Aorta</a>. I am very open to negotiating pricing based on budget constraints, <a href="http://www.lawrencebarrinerii.com/vision" target="_blank">values alignment</a>, opportunities for future work, travel to places I've never been (!!!), and more. 
+	This sliding scale rate sheet is inspired by <a href="http://aorta.coop/rates/">Aorta</a> and <a href="https://docs.google.com/document/d/1eiT7EbIf300i_iTJtfzi7aoXUuvSj9hXJVWNG-NRiuo/edit">generative somatics</a>. I am very open to negotiating pricing based on budget constraints, <a href="http://www.lawrencebarrinerii.com/vision" target="_blank">values alignment</a>, opportunities for future work, travel to places I've never been (!!!), and more. 
 </p>
 <p>My day rate includes 8 hours of delivery and up to 8 hours of prep + follow up work. The day rate doesn't include travel/transportation or lodging costs. Depending on the distance and complexity of travel from Boston, I may or may not request an additional 1/4 to 1/2 day travel fee (this is a single fee for both ends of a trip).</p>
 <div class="row">
