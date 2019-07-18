@@ -65,3 +65,13 @@ via the [youth development network](https://www.ydnetwork.org/). they have tons 
 
 1. share something that consistently makes you laugh
 2. share your favorite poem and why that's the one
+
+## games
+
+1. 4x4 (groups of four finding four things in common)
+
+## emergent strategy principles
+
+* http://adriennemareebrown.net/2013/12/14/principles-of-emergent-processes-in-facilitation/
+![image of emergent strategy principles](https://explorationsinthedivinefeminine.files.wordpress.com/2018/04/emergent-best.jpg?w=563&h=729)
+source: https://explorationsinthedivinefeminine.com/2018/04/21/sitting-in-a-cauldron-of-magic/

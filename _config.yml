@@ -1,7 +1,7 @@
 # site settings
 title: lqb2 & co.
 subtitle: 
-email: lqb@alum.mit.edu
+email: lawrence@lqb2.co
 description: everything changes, everything is connected, pay attention.<br /> — jane hirshfield
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
