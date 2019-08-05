@@ -18,6 +18,7 @@ nav-menu: false
 * [Everyday Time Travel: Ancient Technology for Embodied Transformation](http://worldfellowship.org/event/everyday-time-travel-ancient-technology-for-embodied-transformation/) (28 Aug 2019)
 
 ### 2018
+* [City Awake Fierce Urgency of Now (#FUNinBOS) – Valuing Our Workforce: How the Nonprofit Sector Can Support Millennials of Color (panelist)](https://www.tsne.org/blog/7-things-nonprofits-can-do-support-millennials-color-sector) (20 Sept 2018)
 * [Mapping Ecosystems of Care](http://oldoakdojo.com/event/mapping-our-ecosystems-of-care/) (19 Aug 2018)
 * [Blueprint for Imagining (Y)our Futures](https://medium.com/predict/blueprint-for-imagining-y-our-futures-18bc90758793) (9 Aug 2018)
 * [Wall text in the M.C. Escher exhibition at the Boston MFA](https://www.instagram.com/p/BixhjbGnU6H/?taken-by=lqb2) (14 May 2018)

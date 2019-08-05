@@ -75,3 +75,8 @@ via the [youth development network](https://www.ydnetwork.org/). they have tons 
 * http://adriennemareebrown.net/2013/12/14/principles-of-emergent-processes-in-facilitation/
 ![image of emergent strategy principles](https://explorationsinthedivinefeminine.files.wordpress.com/2018/04/emergent-best.jpg?w=563&h=729)
 source: https://explorationsinthedivinefeminine.com/2018/04/21/sitting-in-a-cauldron-of-magic/
+
+## retributive, restorative, and transformative justice questions
+
+![Imgur](https://imgur.com/adAylHG)
+source: eroc
