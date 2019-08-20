@@ -14,6 +14,7 @@ nav-menu: false
 
 * [Workshop: Planning for Freedom at the Harvard Graduate School of Design with Danya Sherman](https://imgur.com/5yy2v1g) (3 March & 18 April 2019)
 * [MFA City Talks: Narratives of Resistance](https://www.mfa.org/programs/special-event/the-city-talks-narratives-of-resistance) (22 May 2019)
+* [Conscious Construction: Facilitating Time Travel with Lawrence Barriner II (Enneagram 2)](https://consciousconstruction.libsyn.com/facilitating-time-travel-with-lawrence-barriner-ii-enneagram-2)
 * [Celebrating Resist's Radical Philanthropy Series (Moderator)](https://www.eventbrite.com/e/celebrating-resists-radical-philanthropy-series-tickets-60629380108#) (11 July 2019)
 * [Everyday Time Travel: Ancient Technology for Embodied Transformation](http://worldfellowship.org/event/everyday-time-travel-ancient-technology-for-embodied-transformation/) (28 Aug 2019)
 

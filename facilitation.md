@@ -13,9 +13,164 @@ nav-menu: false
 		<header class="major">
 			<h1>Facilitation</h1>
 		</header>
-		<p>Hi! I'm excited to support you or your organization in your work! Below are my pricing guidelines, some testimonials, my availability, and an abbreviated client list. Please check this out and then let's get on the phone (or video is even better!). Email is the best way to be in touch: lawrence@lqb2.co. Thanks and I'm looking forward to connecting. 
+		
+
+
+
+		<p>Hi! I'm excited to support you or your organization in your work! Below is info about my background, areas of expertise, clients, testimonials, availability, and my pricing guidelines. Please check this out and then let's get on the phone (or video is even better!). Email is the best way to initiate a conversation: lawrence@lqb2.co. Thanks and I'm looking forward to connecting. 
+
+		<blockquote>To facilitate means 'to make easier.' — adrienne maree brown</blockquote>
 
 <hr class="major" />
+
+<!-- Elements -->
+<h2 id="elements">Training/Background</h2>
+
+
+
+<ul>
+	
+	<li><b><a href="http://www.faireconomy.org">United for a Fair Economy</a></b> as a <a href="http://www.faireconomy.org/spring19">Trainer</a></li>
+	
+	<li><a href="http://adriennemareebrown.net/"><b>adrienne maree brown</b></a> in <a href="https://www.akpress.org/emergentstrategy.html">emergent strategy facilitation</a></li>
+	
+	<li><a href="https://storybasedstrategy.org"><b>Center for Story-based Strategy</b></a> in <a href="https://www.storybasedstrategy.org/the-advanced-training">Story-based Strategy</a></li>
+	
+	<li><a href="http://interactionassociates.com"><b>Interaction Associates</b></a> as a <a href="http://interactionassociates.com/training/masterful-trainer">Masterful Trainer</a> and as a <a href="http://interactionassociates.com/training/managing-impact">Manager</a></li>
+
+	<li><a href="http://interactioninstitute.org"><b>Interaction Institute for Social Change</b></a> in <a href="http://interactioninstitute.org/training/facilitative-leadership-for-social-change/">Facilitative Leadership</a> and the <a href="http://interactioninstitute.org/training/fundamentals-of-facilitation-for-racial-justice-work/">Fundamentals of Facilitation for Racial Justice Work</a></li>
+	
+	<li><b><a href="http://dusp.mit.edu/department/about">MIT: Department of Urban Studies & Planning</a></b>, <a href="http://dusp.mit.edu/degrees/masters">Master in City Planning</a> and <a href="http://dusp.mit.edu/degrees/undergraduate">Bachelor of Science in Planning</a></li>
+</ul>
+
+
+
+<hr class="major" />
+
+<div class="row">
+	<div class="6u 12u$(small)">
+		<!-- <h2 id="content">Testimonials</h2> -->
+
+		<h2 id="elements">Areas of Expertise / Offerings</h2>
+
+			<ul>
+				<li>Productivity systems (Personal and Organizational)</li>
+				<li>Storytelling & Narrative Strategy (Personal and Collective)</li>
+				<li>Organizational Development</li>
+				<li>Racial Justice: Anti-racist practice and theory</li>
+				<li>Difficult Conversations & Generative Conflict</li>
+				<li>Systems Thinking & Complexity theory</li>
+				<li>Training of trainers</li>
+				
+			</ul>
+	</div>
+
+	<div class="6u$ 12u$(small)">
+		<h2 id="elements">Partial 2018 Client List</h2>
+
+			<ul>
+			 <li><a href="https://www.spitfirestrategies.com">Spitfire Strategies</a></li>
+			 <li><a href="https://www.ypo.org">Young Presidents Organization</a></li>
+			 <li><a href="https://www.meadowbrook-ma.org">The Meadowbrook School</a></li>
+			 <li><a href="http://www.multiculturalteaching.org">Multicultural Teaching Institute</a></li>
+			 <li><a href="https://grist.org">Grist.org</a></li>
+			 <li><a href="https://www.wri.org">World Resources Institute</a></li>
+			 <li><a href="https://www.podcastgarage.org">PRX Podcast Garage</a></li>
+			</ul>
+
+			
+
+			
+	</div>
+
+	
+
+</div>
+<hr>
+
+
+
+
+
+<!-- <h2 id="content">Testimonials</h2> -->
+<!-- <p></p> -->
+
+<div class="row">
+	<div class="6u 12u$(small)">
+		<h2 id="content">Testimonials</h2>
+
+		<!-- <h3>January 2019</h3> -->
+		<blockquote>I just wanted to thank you for being such a dynamic and thoughtful leader for us this week. As you know, I had deep anxiety and I am not only relieved but excited about what is to come. You created a safe space that I was unsure was possible -- one where we could all connect and be honest and display vulnerability and learn from each other. Thank you.</blockquote>
+		– 2019 Leadership team retreat
+		<hr> 
+		<blockquote>I also wanted to mention, that I think you did an excellent job managing the situation that came up at the end of the workshop.  It was a very difficult situation but you handled it beautifully.  With assertiveness, respect, honesty and kindness.</blockquote>
+		— Personal Storytelling for Social Change workshop participant, 2018
+	</div>
+
+	<div class="6u$ 12u$(small)">
+		<h2 id="elements">Availability</h2>
+		<p>Partial days available. I generally charge by the day or half-day, but hourly pricing is available on a case-by-case basis.</p>
+
+			<div class="table-wrapper">
+				<table class="alt">
+					<thead>
+						<tr>
+							<th>Month</th>
+							<th>Delivery days available</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>March</td>
+							<td><s>0</s></td>
+						</tr>
+						<tr>
+							<td>April</td>
+							<td><s>1</s></td>
+						</tr>
+						<tr>
+							<td>May</td>
+							<td><s>2</s></td>
+						</tr>
+						<tr>
+							<td>June</td>
+							<td><s>4</s></td>
+						</tr>
+						<tr>
+							<td>July</td>
+							<td><s>0</s></td>
+						</tr>
+						<tr>
+							<td>August</td>
+							<td>0</td>
+						</tr>
+						<tr>
+							<td>September</td>
+							<td>2</td>
+						</tr>
+						<tr>
+							<td>October</td>
+							<td>4</td>
+						</tr>
+						<tr>
+							<td>November</td>
+							<td>2</td>
+						</tr>
+						<tr>
+							<td>December</td>
+							<td>2</td>
+						</tr>
+					</tbody>
+				</table>
+						
+			</div>
+	</div>
+</div>
+
+<hr class="major" />
+
+
+
 
 <!-- Content -->
 <h2 id="content">Pricing</h2>
@@ -52,105 +207,3 @@ nav-menu: false
 
 	
 
-<hr class="major" />
-
-<!-- <h2 id="content">Testimonials</h2> -->
-<!-- <p></p> -->
-
-<div class="row">
-	<div class="6u 12u$(small)">
-		<h2 id="content">Testimonials</h2>
-
-		<!-- <h3>January 2019</h3> -->
-		<blockquote>I just wanted to thank you for being such a dynamic and thoughtful leader for us this week. As you know, I had deep anxiety and I am not only relieved but excited about what is to come. You created a safe space that I was unsure was possible -- one where we could all connect and be honest and display vulnerability and learn from each other. Thank you.</blockquote>
-		– 2019 Leadership team retreat
-		<hr> 
-		<blockquote>I also wanted to mention, that I think you did an excellent job managing the situation that came up at the end of the workshop.  It was a very difficult situation but you handled it beautifully.  With assertiveness, respect, honesty and kindness.</blockquote>
-		— Personal Storytelling for Social Change workshop participant, 2018
-	</div>
-
-	<div class="6u$ 12u$(small)">
-		<h2 id="elements">Availability</h2>
-		<p>Partial days available. I generally charge by the day or half-day, but hourly pricing is available on a case-by-case basis.</p>
-
-<div class="table-wrapper">
-	<table class="alt">
-		<thead>
-			<tr>
-				<th>Month</th>
-				<th>Days available</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>March</td>
-				<td>0</td>
-			</tr>
-			<tr>
-				<td>April</td>
-				<td>1</td>
-			</tr>
-			<tr>
-				<td>May</td>
-				<td>2</td>
-			</tr>
-			<tr>
-				<td>June</td>
-				<td>4</td>
-			</tr>
-			<tr>
-				<td>July</td>
-				<td>0</td>
-			</tr>
-			<tr>
-				<td>August</td>
-				<td>4</td>
-			</tr>
-			<tr>
-				<td>September</td>
-				<td>4</td>
-			</tr>
-			<tr>
-				<td>October</td>
-				<td>4</td>
-			</tr>
-			<tr>
-				<td>November</td>
-				<td>2</td>
-			</tr>
-			<tr>
-				<td>December</td>
-				<td>4</td>
-			</tr>
-		</tbody>
-	</table>
-			
-</div>
-	</div>
-</div>
-
-<hr class="major" />
-
-
-<!-- Elements -->
-<h2 id="elements">2018 Client List</h2>
-
-<ul>
- <li><a href="https://www.spitfirestrategies.com">Spitfire Strategies</a></li>
- <li><a href="https://www.ypo.org">Young Presidents Organization</a></li>
- <li><a href="https://www.meadowbrook-ma.org">The Meadowbrook School</a></li>
- <li><a href="http://www.multiculturalteaching.org">Multicultural Teaching Institute</a></li>
- <li><a href="https://grist.org">Grist.org</a></li>
- <li><a href="https://www.wri.org">World Resources Institute</a></li>
- <li><a href="https://www.podcastgarage.org">PRX Podcast Garage</a></li>
-</ul>
-
-<hr>
-
-<!-- Elements -->
-<h2 id="elements">Training/Background</h2>
-
-<blockquote>To facilitate means 'to make easier.' — adrienne maree brown</blockquote>
-
-
-I have been trained by the <a href="http://interactioninstitute.org"><b>Interaction Institute for Social Change</b></a> in <a href="http://interactioninstitute.org/training/facilitative-leadership-for-social-change/">Facilitative Leadership</a> and the <a href="http://interactioninstitute.org/training/fundamentals-of-facilitation-for-racial-justice-work/">Fundamentals of Facilitation for Racial Justice Work</a>, by <a href="http://interactionassociates.com"><b>Interaction Associates</b></a> as a <a href="http://interactionassociates.com/training/masterful-trainer">Masterful Trainer</a> and as a <a href="http://interactionassociates.com/training/managing-impact">Manager</a>, by <a href="http://adriennemareebrown.net/"><b>adrienne maree brown</b></a> in <a href="https://www.akpress.org/emergentstrategy.html">emergent strategy facilitation</a>, and by <b><a href="http://www.faireconomy.org">United for a Fair Economy</a></b> as a <a href="http://www.faireconomy.org/spring19">Trainer</a>. 
