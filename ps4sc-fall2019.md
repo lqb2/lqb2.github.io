@@ -7,10 +7,45 @@ nav-menu: false
 ---
 
 
+## course overview
+
+### week 1: listening and intro to strategic storytelling
+
+* Introductions + review of course
+* Group Agreements
+* Just Listen & Levels of Listening
+* What is Strategic Storytelling?
+* Logistics: Starting with the end in mind
+
+
+### week 2: stories with social impact
+
+* Stories with Social Impact
+* Deep/Generative Interviewing
+* Battle of the Story vs Story of the Battle
+
+
+### week 3: digging into your story
+
+* Rapidfire Story Analysis
+* Peer story coaching
+* Story Arcs
+
+
+### week 4: endings and beginnings
+
+* Story coaching
+* “Run-of-show” for performances
+* Feedback and Evaluation
+* Endings and Beginnings
+
+--- 
 
 ## group photos
 
 [coming soon]
+
+--- 
 
 ## photos of the boards
 
@@ -32,9 +67,14 @@ most of you filled out the feedback form, but if you haven't yet, please fill it
 * blog: [lqb2writes](http://lqb2.co/blog)
 * weekly newsletter: [lqb2weekly](http://tinyletter.com/lqb2) -->
 
+--- 
+
 ## ways to stay in touch with the group
 
 [TBD by the group]
+
+
+--- 
 
 ## info for the live events
 
@@ -44,6 +84,7 @@ links coming later
 * Here's the Podcast Garage link for the Pao event.
  -->
 
+--- 
 
 ## boston and regional places to practice/learn storytelling
 
@@ -57,6 +98,7 @@ links coming later
 * [House Slam at Haley House](https://www.houseslamboston.org/)
 * [Grubb Street](https://grubstreet.org/) (has awesome programs, workshops, and classes)
 * [Stories from the Stage](https://www.facebook.com/StoriesFromTheStage/)
+
 
 
 ## storytelling resource exchange
