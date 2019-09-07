@@ -9,35 +9,53 @@ nav-menu: false
 
 ## course overview
 
-### week 1: listening and intro to strategic storytelling
+### week 1 (7 sept): listening and intro to strategic storytelling
 
 * Introductions + review of course
 * Group Agreements
 * Just Listen & Levels of Listening
 * What is Strategic Storytelling?
 * Logistics: Starting with the end in mind
+* **Resources**
+   * <!-- ![levels of listening by kelvy bird](https://www.kelvybird.com/wp-content/uploads/2016/06/Slide7-1.jpg)
+source:  -->[levels of listening from otto scharmer, illustrated by kelvy bird](https://www.kelvybird.com/listening-applied/slide7-2/)
 
 
-### week 2: stories with social impact
+### week 2 (14 sept): stories with social impact
 
 * Stories with Social Impact
 * Deep/Generative Interviewing
 * Battle of the Story vs Story of the Battle
 
 
-### week 3: digging into your story
+### week 3 (5 oct): digging into your story
 
 * Rapidfire Story Analysis
 * Peer story coaching
 * Story Arcs
 
 
-### week 4: endings and beginnings
+### week 4 (12 oct): endings and beginnings
 
 * Story coaching
 * “Run-of-show” for performances
 * Feedback and Evaluation
 * Endings and Beginnings
+
+### pao performance (25 oct)
+
+storytellers: 
+
+* TBD
+
+### dudley performance (8 nov)
+
+storytellers: 
+
+* TBD
+
+
+
 
 --- 
 
