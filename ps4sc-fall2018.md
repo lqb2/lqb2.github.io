@@ -58,6 +58,12 @@ most of you filled out the feedback form, but if you haven't yet, please fill it
 * [East Meets Words](http://www.emwbookstore.com/east-meets-words/) (open mic)
 * [House Slam at Haley House](https://www.houseslamboston.org/)
 * [Grubb Street](https://grubstreet.org/) (has awesome programs, workshops, and classes)
+* additions from rosann
+    - [Now Listen Here](https://www.facebook.com/nowlistenherestories/) at the [Home.stead bakery & cafe](https://www.facebook.com/homesteaddot/), 1448 Dorchester Ave! 
+    - [MassMouth](https://www.facebook.com/groups/33726411140/) 
+    - [Stories from the Stage](https://www.facebook.com/StoriesFromTheStage/)
+    - Stories to Scenes: MassMouth storytellers join performers from the Riot Improv in a night where storytelling and improv collide. Stories to Scenes sees four Massmouth tellers share their personal stories, which Riot Improv turns into an improvised scene.
+        - For tickets and more information, visit the [Riot Theater website](https://www.theriottheater.com/improvjones.html).
 
 ## storytelling resource exchange
 
