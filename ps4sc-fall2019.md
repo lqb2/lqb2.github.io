@@ -9,6 +9,17 @@ nav-menu: false
 
 ## course overview
 
+### goals
+
+participants will: 
+
+* learn how to analyze and construct strategic personal stories
+* learn how to use/tell your story within a local context that connects to an issue in your community
+* learn how to interview others in a way that reveals their stories and experiences
+* share a story at the Pao Arts Center in Chinatown or Dudley Cafe in Roxbury, which will be recorded and shared in a podcast and through public installations 
+
+---
+
 ### week 1 (7 sept): listening and intro to strategic storytelling
 
 * Introductions + review of course
@@ -16,10 +27,12 @@ nav-menu: false
 * Just Listen & Levels of Listening
 * What is Strategic Storytelling?
 * Logistics: Starting with the end in mind
+* **Homework to bring to session #2:** 
+    - start thinking about which date (oct 25 or nov 8) and location (dudley square or pao arts center) you want to perform your story at. 
+    * come to class with a draft of the goal you want telling your story to achieve. it should be as specific as possible and time-bound. examples: (a) i want to keep all of my neighbors from being evicted this rent cycle. (b) i want my family to take a vacation together to north carolina by the end of 2020. (c) i want to rid boston of islamaphobia by voting day in 2030. 
 * **Resources**
-   * <!-- ![levels of listening by kelvy bird](https://www.kelvybird.com/wp-content/uploads/2016/06/Slide7-1.jpg)
-source:  -->[levels of listening from otto scharmer, illustrated by kelvy bird](https://www.kelvybird.com/listening-applied/slide7-2/)
-
+    - [photos of all the boards and flipcharts](https://drive.google.com/drive/folders/1D_EFYijHq7U9lPwyKHP2E7ZSC9fegS7w?usp=sharing)
+    - [levels of listening from the presencing institute, illustrated by kelvy bird](https://www.kelvybird.com/listening-applied/slide7-2/)
 
 ### week 2 (14 sept): stories with social impact
 
@@ -67,10 +80,11 @@ storytellers:
 
 ## photos of the boards
 
-* [week 1 - 7 sept 2019]()
-* [week 2 - 14 sept 2019]()
+* [week 1 - 7 sept 2019](https://drive.google.com/drive/folders/1D_EFYijHq7U9lPwyKHP2E7ZSC9fegS7w?usp=sharing)
+
+<!-- * [week 2 - 14 sept 2019]()
 * [week 3 - 5 oct 2019]()
-* [week 4 - 12 oct 2019]()
+* [week 4 - 12 oct 2019]() -->
 
 <!-- ## PLEASE GIVE FEEDBACK
 
@@ -89,7 +103,19 @@ most of you filled out the feedback form, but if you haven't yet, please fill it
 
 ## ways to stay in touch with the group
 
-[TBD by the group]
+#### emails
+
+| Beyza Burcak | beyzaburcak@gmail.com | 
+| Ziyan Li  | ziyanli90@gmail.com | 
+| Elga Santiago | elgasantiago84@gmail.com | 
+| Crystal Lee | crystal.jj.lee@gmail.com | 
+| Cynthia Lin | hello@taiwanesediaspora.com | 
+| Chetan Tiwari | ctiwari@tiwarilaw.com | 
+| R* S* | ****** | 
+| Frederico Lapa | fredericolapa@gmail.com | 
+| Chien-chi Huang | cch@asianwomenforhealth.org | 
+| Kenny Sui-Fung Yim | kenny.s.yim@gmail.com | 
+| Barbara Sahli | mariam14@aol.com | 
 
 
 --- 
@@ -134,6 +160,9 @@ if you have resources you want to share with the group, email me and i'll add th
     * 
 
 
+## class library books
+
+![Imgur](https://i.imgur.com/l3RXblP.jpg)
 
 
 ## some books/resources i recommend related to storytelling...
