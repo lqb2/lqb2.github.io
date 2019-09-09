@@ -28,11 +28,13 @@ participants will:
 * What is Strategic Storytelling?
 * Logistics: Starting with the end in mind
 * **Homework to bring to session #2:** 
-    - start thinking about which date (oct 25 or nov 8) and location (dudley square or pao arts center) you want to perform your story at. 
-    * come to class with a draft of the goal you want telling your story to achieve. it should be as specific as possible and time-bound. examples: (a) i want to keep all of my neighbors from being evicted this rent cycle. (b) i want my family to take a vacation together to north carolina by the end of 2020. (c) i want to rid boston of islamaphobia by voting day in 2030. 
+    - start thinking about which date (oct 25 or nov 8) and location (dudley square or pao arts center) you want to perform your story. 
+    * come to class with a draft of the goal you want telling your story to achieve. it should be as specific as possible and time-bound. examples: (a) i want to keep all of my neighbors from being evicted this rent cycle. (b) i want my family to take a vacation together to north carolina by the end of 2020. (c) i want to rid boston of islamaphobia by voting day in 2028. note: these are not exhaustive examples!
 * **Resources**
     - [photos of all the boards and flipcharts](https://drive.google.com/drive/folders/1D_EFYijHq7U9lPwyKHP2E7ZSC9fegS7w?usp=sharing)
     - [levels of listening from the presencing institute, illustrated by kelvy bird](https://www.kelvybird.com/listening-applied/slide7-2/)
+    - The Public Narrative: [How to develop yours](https://www.ndi.org/sites/default/files/Public%20Narrative%20Participant%20Guide.pdf) and [a visual model of it](https://www.techsoupcanada.ca/sites/default/files/public_narrative.png)
+    - [working narratives: how do we develop a storytelling strategy](https://workingnarratives.org/article/strategy/)
 
 ### week 2 (14 sept): stories with social impact
 
@@ -169,6 +171,7 @@ if you have resources you want to share with the group, email me and i'll add th
 
 * [re:imagining change](https://www.storybasedstrategy.org/the-book)
 * [how your story sets you free](http://www.millionpersonproject.org/how-your-story-sets-you-free)
+* [[working narratives] storytelling and social change: a strategy guide](https://workingnarratives.org/story-guide/)
 * [neighborhood storytelling project](https://www.neighborhoodstoryproject.org)
 * [Personal Storytelling: Discovering the Extraordinary in the Ordinary](https://www.goodreads.com/book/show/22725916-personal-storytelling?from_search=true)
 * [The Storytelling Animal: How Stories Make Us Human](https://www.goodreads.com/book/show/12743473-the-storytelling-animal?from_search=true)
