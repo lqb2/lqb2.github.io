@@ -35,6 +35,9 @@ participants will:
     - [levels of listening from the presencing institute, illustrated by kelvy bird](https://www.kelvybird.com/listening-applied/slide7-2/)
     - The Public Narrative: [How to develop yours](https://www.ndi.org/sites/default/files/Public%20Narrative%20Participant%20Guide.pdf) and [a visual model of it](https://www.techsoupcanada.ca/sites/default/files/public_narrative.png)
     - [working narratives: how do we develop a storytelling strategy](https://workingnarratives.org/article/strategy/)
+* resources added by participants
+    - [the red tent](https://www.goodreads.com/book/show/4989.The_Red_Tent)
+    - [a tale for the time being](https://www.goodreads.com/book/show/15811545-a-tale-for-the-time-being)
 
 ### week 2 (14 sept): stories with social impact
 
