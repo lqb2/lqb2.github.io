@@ -45,6 +45,15 @@ participants will:
 * Deep/Generative Interviewing
 * Battle of the Story vs Story of the Battle
 
+#### objectives for today
+
+* Have heard examples of stories with social impact
+* Understand basics of interviewing for revealing stories and experiences
+* Understand how narrative filters influence how your audience hears your message 
+
+
+
+
 
 ### week 3 (5 oct): digging into your story
 
