@@ -42,14 +42,25 @@ participants will:
 ### week 2 (14 sept): stories with social impact
 
 * Stories with Social Impact
-* Deep/Generative Interviewing
-* Battle of the Story vs Story of the Battle
+* ~~Deep/Generative Interviewing~~
+* ~~Battle of the Story vs Story of the Battle~~
 
-#### objectives for today
+##### objectives for today
 
 * Have heard examples of stories with social impact
-* Understand basics of interviewing for revealing stories and experiences
+* ~~Understand basics of interviewing for revealing stories and experiences~~
 * Understand how narrative filters influence how your audience hears your message 
+
+##### resources
+
+* [The Six Main Arcs in Storytelling, as Identified by an A.I.](https://www.theatlantic.com/technology/archive/2016/07/the-six-main-arcs-in-storytelling-identified-by-a-computer/490733/)
+* [How to develop your public narrative (jump to page 10)](https://www.ndi.org/sites/default/files/Public%20Narrative%20Participant%20Guide.pdf)
+
+##### homework to bring to session 3
+
+* ideally: bring a 5-7m story to get feedback on in small groups. 
+* at least: bring whatever you have so the group can support you getting to the place of having a story to share during session 4. 
+
 
 
 
