@@ -55,6 +55,8 @@ participants will:
 
 * [The Six Main Arcs in Storytelling, as Identified by an A.I.](https://www.theatlantic.com/technology/archive/2016/07/the-six-main-arcs-in-storytelling-identified-by-a-computer/490733/)
 * [How to develop your public narrative (jump to page 10)](https://www.ndi.org/sites/default/files/Public%20Narrative%20Participant%20Guide.pdf)
+* [SMART goal framework](https://process.filepicker.io/APHE465sSbqvbOIStdwTyz/rotate=deg:exif/resize=fit:crop,height:283,width:472/output=quality:80,compress:true,strip:true,format:jpg/cache=expiry:max/https://cdn.filestackcontent.com/hLh0ZgbARwSkbvaRi26q)
+    - note that this acronym has TONS of different iterations. they're all (well, mostly all) good. if you find one you like better, run with it!
 
 ##### homework to bring to session 3
 
@@ -86,7 +88,7 @@ storytellers:
 
 * TBD
 
-### dudley performance (8 nov)
+### dudley performance (~~8~~  23 nov)
 
 storytellers: 
 
@@ -106,6 +108,7 @@ storytellers:
 ## photos of the boards
 
 * [week 1 - 7 sept 2019](https://drive.google.com/drive/folders/1D_EFYijHq7U9lPwyKHP2E7ZSC9fegS7w?usp=sharing)
+* [week 2 - 14 sept 2019]()
 
 <!-- * [week 2 - 14 sept 2019]()
 * [week 3 - 5 oct 2019]()
