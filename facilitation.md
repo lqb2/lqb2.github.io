@@ -142,15 +142,15 @@ nav-menu: false
 						</tr>
 						<tr>
 							<td>August</td>
-							<td>0</td>
+							<td><s>0</s></td>
 						</tr>
 						<tr>
 							<td>September</td>
-							<td>2</td>
+							<td><s>2</s></td>
 						</tr>
 						<tr>
 							<td>October</td>
-							<td>4</td>
+							<td>2</td>
 						</tr>
 						<tr>
 							<td>November</td>
