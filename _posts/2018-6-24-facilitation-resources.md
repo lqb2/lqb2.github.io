@@ -14,6 +14,12 @@ of Multnomah County Health Department](https://www.orpca.org/OEW%20Training/PE_M
 * [Facilitative Leadership for Social Change - How to plan a successful meeting](../../../assets/files/FL4SC–PlanningASuccessfulMeeting.pdf)
 * [the cycle of liberation — Bobbie Harro](https://geography.washington.edu/sites/geography/files/documents/harro-cycle-of-liberation.pdf)
 
+## group agreements
+
+* [circle of trust touchstones](http://www.couragerenewal.org/touchstones/)
+* emergent strategy groundrules
+* [sister corita's (and john cage's) 10 classroom rules](https://www.brainpickings.org/2012/08/10/10-rules-for-students-and-teachers-john-cage-corita-kent/)
+
 ## check in questions 
 
 via the [youth development network](https://www.ydnetwork.org/). they have tons of other [energizers and ice breakers](https://www.ydnetwork.org/icebreakers-and-energizers).
