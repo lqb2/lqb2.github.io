@@ -7,6 +7,12 @@ nav-menu: false
 ---
 
 
+# [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSerQvmnHNHTTWzhFS7dxqEICZXSNkamlEn3qYGpYBx3hO496g/viewform?usp=sf_link)
+
+[link](https://docs.google.com/forms/d/e/1FAIpQLSerQvmnHNHTTWzhFS7dxqEICZXSNkamlEn3qYGpYBx3hO496g/viewform?usp=sf_link)
+
+
+
 ## course overview
 
 ### goals
@@ -139,7 +145,7 @@ most of you filled out the feedback form, but if you haven't yet, please fill it
 | Crystal Lee | crystal.jj.lee@gmail.com | 
 | Cynthia Lin | hello@taiwanesediaspora.com | 
 | Chetan Tiwari | ctiwari@tiwarilaw.com | 
-| R* S* | ****** | 
+| Richard Sanon | rsanon@yahoo.com | 
 | Frederico Lapa | fredericolapa@gmail.com | 
 | Chien-chi Huang | cch@asianwomenforhealth.org | 
 | Kenny Sui-Fung Yim | kenny.s.yim@gmail.com | 
