@@ -11,7 +11,21 @@ nav-menu: false
 
 [link](https://docs.google.com/forms/d/e/1FAIpQLSerQvmnHNHTTWzhFS7dxqEICZXSNkamlEn3qYGpYBx3hO496g/viewform?usp=sf_link)
 
+# photos 
 
+## of us
+
+|![participant smile photo](https://i.imgur.com/Y5Ydwlr.jpg)|![participant sass photo](https://i.imgur.com/E4mseWY.jpg)|
+
+## of the boards
+
+* [week 1 - 7 sept 2019](https://drive.google.com/drive/folders/1D_EFYijHq7U9lPwyKHP2E7ZSC9fegS7w?usp=sharing)
+* [week 2 - 14 sept 2019](https://drive.google.com/open?id=1gZFq0G6uuMSgv6scEOrnn3GcBcTRtiEN)
+* [week 3 - 5 oct 2019](https://drive.google.com/open?id=1djBNz83WbSi3zA3bd8Gh5t157UAnAaD_)
+* [week 4 - 12 oct 2019](https://drive.google.com/open?id=1CRLe5n-zzYNDJn00mm55eBV4vzVnaMoY)
+
+
+---
 
 ## course overview
 
@@ -80,6 +94,10 @@ participants will:
 * Peer story coaching
 * Story Arcs
 
+##### resources
+
+* [photos from session 3](https://drive.google.com/open?id=1djBNz83WbSi3zA3bd8Gh5t157UAnAaD_)
+
 
 ### week 4 (12 oct): endings and beginnings
 
@@ -88,33 +106,44 @@ participants will:
 * Feedback and Evaluation
 * Endings and Beginnings
 
+##### resources
+
+* [photos from session 4](https://drive.google.com/open?id=1CRLe5n-zzYNDJn00mm55eBV4vzVnaMoY)
+
+
+
 ### pao performance (25 oct)
 
 storytellers: 
 
-* TBD
+* Chetan Tiwari 
+* Lawrence Barriner II
+* Kenny Sui-Fung Yim
+* Cynthia Lin
+* Ziyan Li
+* Beyza Burcak
 
-### dudley performance (~~8~~  23 nov)
+### dudley performance (23 nov)
 
 storytellers: 
 
-* TBD
+* Chien-chi Huang
+* Crystal Lee
+* Frederico Lapa
+* Elga Santiago
+* Barbara Sahli
+* Richard Sanon
+
+
+
 
 
 
 
 --- 
 
-## group photos
 
-[coming soon]
 
---- 
-
-## photos of the boards
-
-* [week 1 - 7 sept 2019](https://drive.google.com/drive/folders/1D_EFYijHq7U9lPwyKHP2E7ZSC9fegS7w?usp=sharing)
-* [week 2 - 14 sept 2019]()
 
 <!-- * [week 2 - 14 sept 2019]()
 * [week 3 - 5 oct 2019]()
@@ -139,6 +168,7 @@ most of you filled out the feedback form, but if you haven't yet, please fill it
 
 #### emails
 
+| **Participants** |
 | Beyza Burcak | beyzaburcak@gmail.com | 
 | Ziyan Li  | ziyanli90@gmail.com | 
 | Elga Santiago | elgasantiago84@gmail.com | 
@@ -150,13 +180,18 @@ most of you filled out the feedback form, but if you haven't yet, please fill it
 | Chien-chi Huang | cch@asianwomenforhealth.org | 
 | Kenny Sui-Fung Yim | kenny.s.yim@gmail.com | 
 | Barbara Sahli | mariam14@aol.com | 
+| **Instructors** |
+| Lawrence Barriner II | lawrence.barriner.ii@gmail.com |
+| Heidi Shin | heidi.shin@gmail.com | 
+| Eric Liao | eric.liao@prx.org| 
 
+facebook group and/or email list coming soon
 
 --- 
 
-## info for the live events
+## info and flyers for the live events
 
-links coming later
+links and images coming later
 
 <!-- * Here's the Podcast Garage link for the Dudley event.
 * Here's the Podcast Garage link for the Pao event.
