@@ -6,6 +6,27 @@ image:
 nav-menu: false
 ---
 
+--- 
+
+## info and flyers for the live events
+
+**template text**
+
+<p class="message">What if we treat our life stories like the most powerful tools for social change we have? PRX Podcast Garage, the BCNC Pao Arts Center, and Dudley Café join together to showcase stories about immigration, identity, community health, housing/gentrification, and representation in education as told by everyday community members.
+
+After four weeks of workshops focusing on harnessing the power of personal narratives to shift the way people around us see the world and communities, participants are ready to debut their work! These stories will be shared at the BCNC Pao Arts Center on October 25 and Dudley Cafe on November 23 from 6:30 - 8:30 p.m.. We hope you can join us at both locations and celebrate these stories with us!
+
+Suggested donation of $10. You can find tickets here.</p>
+
+<img src="https://i.imgur.com/fUPVDNi.png" width="400">
+
+[PDF flyer](https://drive.google.com/file/d/0B_VvOEA19QgNNnRJZGRDbjg4WkxpTE40V3lzcERaUFY4Yjk4/view)
+
+<!-- * Here's the Podcast Garage link for the Dudley event.
+* Here's the Podcast Garage link for the Pao event.
+ -->
+
+---
 
 # [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSerQvmnHNHTTWzhFS7dxqEICZXSNkamlEn3qYGpYBx3hO496g/viewform?usp=sf_link)
 
@@ -187,15 +208,7 @@ most of you filled out the feedback form, but if you haven't yet, please fill it
 
 facebook group and/or email list coming soon
 
---- 
 
-## info and flyers for the live events
-
-links and images coming later
-
-<!-- * Here's the Podcast Garage link for the Dudley event.
-* Here's the Podcast Garage link for the Pao event.
- -->
 
 --- 
 
