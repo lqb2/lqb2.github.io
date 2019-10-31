@@ -18,14 +18,17 @@ nav-menu: false
 * [Celebrating Resist's Radical Philanthropy Series (Moderator)](https://www.eventbrite.com/e/celebrating-resists-radical-philanthropy-series-tickets-60629380108#) (11 July 2019)
 * [poeddictions](https://soundcloud.com/lawrence-barriner-ii/poeddictions-lawrence-barriner-ii-17-july-2019/s-UP7oX) (17 July 2019)
 * [Everyday Time Travel: Ancient Technology for Embodied Transformation](http://worldfellowship.org/event/everyday-time-travel-ancient-technology-for-embodied-transformation/) (28 Aug 2019)
+* [Black Freedom Beyond Borders: Re-imagining Gender in Wakanda](https://www.wakandadreamlab.com/re-imaginegender) Story: you embody me (Oct 2019)
+* [Personal Storytelling for Social Change workshop (4-week workshop)](https://www.podcastgarage.org/events/personal-storytelling-for-social-change-zrj3n), including showcases at [Pao Art Center](https://www.podcastgarage.org/events/2019/11/8/personal-storytelling-for-social-change-showcase-dudley-cafe-px8s4) and [Dudley Cafe](https://www.podcastgarage.org/events/2019/11/8/personal-storytelling-for-social-change-showcase-dudley-cafe) (7 Sept - 23 Nov 2019)
 
 ### 2018
 * [City Awake Fierce Urgency of Now (#FUNinBOS) – Valuing Our Workforce: How the Nonprofit Sector Can Support Millennials of Color (panelist)](https://www.tsne.org/blog/7-things-nonprofits-can-do-support-millennials-color-sector) (20 Sept 2018)
+* [Personal Storytelling for Social Change workshop (4-week workshop)](https://www.podcastgarage.org/events/personal-storytelling-for-social-change) (8 Sept - 19 Oct)
 * [Mapping Ecosystems of Care](http://oldoakdojo.com/event/mapping-our-ecosystems-of-care/) (19 Aug 2018)
 * [Blueprint for Imagining (Y)our Futures](https://medium.com/predict/blueprint-for-imagining-y-our-futures-18bc90758793) (9 Aug 2018)
 * [Wall text in the M.C. Escher exhibition at the Boston MFA](https://www.instagram.com/p/BixhjbGnU6H/?taken-by=lqb2) (14 May 2018)
 * [(Speculative) Futures of Libraries & Archives Workshop](https://twitter.com/sofiayleung/status/988883562597441537) (1 May 2018)
-    - Other links: [Unleashing Alternative Futures website], [MIT calendar]
+    - Other links: [Unleashing Alternative Futures website](https://unleashingalternativefutures.wordpress.com), [MIT calendar](https://calendar.mit.edu/event/unleashing_alternative_futures_constructing_new_worlds_through_imagination_narrative_and_radical_hope)
 * [Interview: Lawrence Barriner II exploring the CSS Netwerk](https://www.storybasedstrategy.org/blog-full/2018/4/26/interview-lawrence-barriner-ii-exploring-the-css-netwerk) (26 April 2018)
 * [Panel Interview: MIT SPXCE – Media, Activism & Social Justice Panel](https://soundcloud.com/colab-radio/mit-spxce-media-activism-social-justice-panel) (7 Mar 2018)
 * [getting my question answered on food 4 thot](https://overcast.fm/+LP1XlrNc0/3:14)
@@ -50,7 +53,7 @@ nav-menu: false
 * [MIT Admissions Blog: In Their Own Words (Part 2) by Paul B. '11](https://mitadmissions.org/blogs/entry/in_their_own_words_part_2/) (30 June 2008)
 
 
-## bios/taglines
+<!-- ## bios/taglines
 
 * For FII website: Network Engagement Coordinator, [Center for Story-based Strategy](https://www.storybasedstrategy.org/); Independent Consultant, [lqb2 & co](http://www.lawrencebarrinerii.com/), Board Chair, [Resist](http://resist.org/)
 * For MFA City Talks: Narratives of Resistance
@@ -58,3 +61,4 @@ nav-menu: false
 * Narrative: Personal, Political, Planetary
     * Lawrence is a narrative strategist, connector, and systems thinker. His  paid work includes coaching, facilitation, education, as well as serving as the Network Engagement Coordinator at the Center for Story-Based Strategy. His unpaid work includes visionary fiction, healing justice, and (r)evolutionary uncling. He loves meditating, quotes, baking bread, feeding his worms, and cooking/eating good food with good friends. His previous work includes communications strategy, food systems & food justice research and consulting, web design, and graphic design. He has undergraduate and graduate degrees in City Planning from MIT.
     * Lawrence is a narrative strategist, connector, and systems thinker. His  paid work includes coaching, facilitation, and serving as the Network Engagement Coordinator at the Center for Story-Based Strategy. His unpaid work includes visionary fiction, healing justice, and (r)evolutionary uncling. He loves meditating, quotes, baking bread, and feeding his worms. He has undergraduate and graduate degrees in City Planning from MIT.
+ -->

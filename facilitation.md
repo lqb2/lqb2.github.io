@@ -57,7 +57,7 @@ nav-menu: false
 				<li>Productivity systems (Personal and Organizational)</li>
 				<li>Storytelling & Narrative Strategy (Personal and Collective)</li>
 				<li>Organizational Development</li>
-				<li>Anti-oppression theory, practice, and infrastructure building: Racial Equity and Gender Justice</li>
+				<li>Anti-oppression theory and practice: Racial Equity, Gender Equity</li>
 				<li>Difficult Conversations & Generative Conflict</li>
 				<li>Systems Thinking & Complexity theory</li>
 				<li>Training of trainers</li>
