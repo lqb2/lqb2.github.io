@@ -17,7 +17,7 @@ nav-menu: false
 
 
 
-		<p>Hi! I'm excited to support you or your organization in your work! Below is info about my background, areas of expertise, clients, testimonials, availability, and my pricing guidelines. Please check this out and then let's get on the phone (or video is even better!). Email is the best way to initiate a conversation: lawrence@lqb2.co. Thanks and I'm looking forward to connecting. 
+		<p>Hi! I'm excited to support you or your organization in your work! Below is info about my background, areas of expertise, clients, testimonials, availability, and my pricing guidelines. Please check this page out, look around at <a href="http://lqb2.co/in-the-world">the type of stuff I get up to</a> and then let's get on the phone (or video is even better!). Email is the best way to initiate a conversation: lawrence@lqb2.co. Thanks and I'm looking forward to connecting. 
 
 		<blockquote>To facilitate means 'to make easier.' — adrienne maree brown</blockquote>
 
