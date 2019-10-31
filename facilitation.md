@@ -57,7 +57,7 @@ nav-menu: false
 				<li>Productivity systems (Personal and Organizational)</li>
 				<li>Storytelling & Narrative Strategy (Personal and Collective)</li>
 				<li>Organizational Development</li>
-				<li>Racial Justice: Anti-racist practice and theory</li>
+				<li>Anti-oppression theory, practice, and infrastructure building: Racial Equity and Gender Justice</li>
 				<li>Difficult Conversations & Generative Conflict</li>
 				<li>Systems Thinking & Complexity theory</li>
 				<li>Training of trainers</li>
@@ -150,7 +150,7 @@ nav-menu: false
 						</tr>
 						<tr>
 							<td>October</td>
-							<td>2</td>
+							<td><s>2</s></td>
 						</tr>
 						<tr>
 							<td>November</td>
