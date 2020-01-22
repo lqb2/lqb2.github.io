@@ -21,12 +21,26 @@ I have been trained by the [Interaction Institute for Social Change](http://inte
 * “You're an excellent facilitator - patient, inclusive....I will learn from you!” - Renée Vassilos
 * “...I think you did an excellent job managing the situation that came up at the end of the workshop.  It was a very difficult situation but you handled it beautifully. With assertiveness, respect, honesty and kindness.” — [Personal Storytelling for Social Change work](https://www.podcastgarage.org/events/2017/8/5/personal-storytelling-for-social-change) participant (situation: a white woman using the n-word)
 
-**2018 Client List**
+**2019 Client List (Partial)**
 
-- World Resources Institute (Ani DasGupta & Jyot Chadha)
-<!-- - Our Future Learning Center -->
-- Meadowbrook Schools
-- [Multicultural Teaching Institute](http://multiculturalteaching.org/)
+* <a href="https://www.spitfirestrategies.com">Spitfire Strategies</a>
+* <a href="https://grist.org">Grist.org</a>
+* [Interaction Institute for Social Change](http://interactioninstitute.org/)
+* [Abortion Access Front](https://www.aafront.org/)
+* <a href="https://www.podcastgarage.org">PRX Podcast Garage</a></li>
+* [Harvard Graduate School of Design](https://www.gsd.harvard.edu/)
+
+<!-- **2018 Client List (Partial)**
+
+<ul>
+             <li><a href="https://www.spitfirestrategies.com">Spitfire Strategies</a></li>
+             <li><a href="https://www.ypo.org">Young Presidents Organization</a></li>
+             <li><a href="https://www.meadowbrook-ma.org">The Meadowbrook School</a></li>
+             <li><a href="http://www.multiculturalteaching.org">Multicultural Teaching Institute</a></li>
+             <li><a href="https://grist.org">Grist.org</a></li>
+             <li><a href="https://www.wri.org">World Resources Institute</a></li>
+             <li><a href="https://www.podcastgarage.org">PRX Podcast Garage</a></li>
+            </ul> -->
 
 ---
 

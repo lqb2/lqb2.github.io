@@ -20,7 +20,11 @@ Suggested donation of $10. You can find tickets here.</p>
 
 <img src="https://i.imgur.com/fUPVDNi.png" width="400">
 
-[PDF flyer](https://drive.google.com/file/d/0B_VvOEA19QgNNnRJZGRDbjg4WkxpTE40V3lzcERaUFY4Yjk4/view)
+
+[PDF flyer for showcase 1](https://drive.google.com/file/d/0B_VvOEA19QgNNnRJZGRDbjg4WkxpTE40V3lzcERaUFY4Yjk4/view)
+
+<img src="https://i.imgur.com/bkseF6V.png" width="400">
+
 
 <!-- * Here's the Podcast Garage link for the Dudley event.
 * Here's the Podcast Garage link for the Pao event.
@@ -239,6 +243,11 @@ if you have resources you want to share with the group, email me and i'll add th
     * [The Neighborhood Story Project: Our Stories Told by Us](https://www.neighborhoodstoryproject.org/) 
     * [Center for Story-based Strategy (CSS)](https://www.storybasedstrategy.org/)
     * The storytelling quotes I had up in the room [as an internet slideshow](https://lqb2.github.io/storytelling-quotes/), [as a printable set of pages](https://lqb2.github.io/storytelling-quotes/?print-pdf), and [my personal quote tumblr](http://lqb2quotes.tumblr.com/)
+    * linda stout series on storytelling
+        - [STEPPING STONES – STORYTELLING – PART 1](https://lindastout.org/latest-news/stepping-stones-storytelling-part-1)
+        - [STEPPING STONES – AFTER THE KKK ATTACK – STORYTELLING PART 2
+](https://lindastout.org/latest-news/stepping-stones-after-the-kkk-attack-storytelling-part-2)
+        - [STEPPING STONES – THE FAMILY STORIES WE TELL ABOUT OURSELVES – STORYTELLING PART 3](https://lindastout.org/collective-visioning/stepping-stones-the-family-stories-we-tell-about-ourselves-storytelling-part-3)
 + from others...
     * 
 
