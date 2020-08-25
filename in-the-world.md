@@ -10,7 +10,7 @@ title: In the World
 ### 2020
 
 * [Hey Mom: Resources and strategies for recruiting white family as allies for Black liberation](http://bit.ly/hey-mom_) (5 June 2020)
-* [The Wilds Beyond Climate Justice: 2-part workshop - Unleashing Alternative Futures](https://www.wildsbeyondclimatejustice.com/public-schedule) (June 3 & 4 2020) 
+* [The Wilds Beyond Climate Justice: 2-part workshop - Unleashing Alternative Futures](https://unleashingalternativefutures.wordpress.com/wilds-beyond-climate-justice/) (June 3 & 4 2020) 
 * [The Full Set w Lawrence Barriner, II](https://open.spotify.com/episode/2bsAnHvKe6wKYaIDynzWhh?si=3Ba6Lo0XQFq53ZAUWFJhdA) (15 May 2020)
 * [Gibrán Rivera's Show: Men Need to be Held](https://www.gibranrivera.com/the-show/2020/5/21/lawrence-barriner-ii-men-need-to-be-held) (23 Jan 2020)
 
