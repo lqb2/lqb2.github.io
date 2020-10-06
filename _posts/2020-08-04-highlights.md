@@ -8,6 +8,8 @@ layout: post
 
 Here are some the highlights/notes from books I've read since ~2017.
 
+* [My Grandmother’s Hands: Racialized Trauma and the Pathway to
+Mending Our Hearts and Bodies by Resmaa Menakem](https://docs.google.com/document/d/1b2R-nzyBODuyE068x7dZIOccR71SQ2WvaP_jwjMKPjM/edit#heading=h.isk3d9mh6ws6)
 * [How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence by Michael Pollan](https://docs.google.com/document/d/1lfwPP5pNCrIhgM9tU7turLta0ObTBWYQQIHorE_Ptvw/edit?usp=sharing)
 * [M Archive - After The End of the World by Alexis Pauline Gumbs](https://docs.google.com/document/d/1Zp_8aM-i-ZcF1rpyIVHZXqtn-WZVEI3cOIEUTdvdCQ8/edit?usp=sharing)
 * [What the Mystics Know: Seven Pathways to Your Deeper Self by Richard Rohr](https://docs.google.com/document/d/18LUDk8vFoIwk2V08A2Ozg6V_XCl6l4OhoX4vRhG2HMQ/edit?usp=sharing)
