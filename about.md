@@ -19,4 +19,4 @@ title: About
 > I have a Master of City Planning and Bachelor of Science in Planning, both from MIT's Department of Urban Studies and Planning. My research while at MIT primarily focused on food systems and food justice. Teaching (and doing) photography scratched my creative itches. 
 
 
-> If you're interested to know more about me personally, you can see [my personal website](http://www.lawrencebarrinerii.com/), check out my [cv](http://lqb2.co/online-cv/), read [what I'm up to right now](http://lqb2.co/now/), see [my vision and values](http://www.lawrencebarrinerii.com/vision), or sign up for [my newsletter](http://www.tinyletter.com/lqb2).
+> If you're interested to know more about me personally, you can see [my personal website](http://www.lawrencebarrinerii.com/), check out my [cv](http://lqb2.co/online-cv/), read [what I'm up to right now](http://lqb2.co/now/), see [my vision and values](http://www.lawrencebarrinerii.com/vision), see [my book highlights]({{ site.baseurl}}highlights), or sign up for [my newsletter](http://www.tinyletter.com/lqb2).
