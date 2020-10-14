@@ -37,7 +37,7 @@ most of you filled out the feedback form, but if you haven't yet, please fill it
     * janereed55@verizon.net,
     * Krina Patel <stiramemory@gmail.com>,
     * Julia Chen <juliaschen11@gmail.com>,
-    * "B.A.O." <sobdee@gmail.com>,
+    * "B.A.O." <>,
     * Katherine Jenkins <kjd100@gmail.com>,
     * Monica S <scrobotovici_monica@yahoo.com>,
     * rosann tung <rosann.tung@gmail.com>,
