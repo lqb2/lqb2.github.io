@@ -5,11 +5,12 @@ title: In the World
 
 ### Upcoming
 
-* [Webinar: Personal and Collective Healing for Liberation](http://www.faireconomy.org/personal_and_collective_healing_for_liberation) (8 Oct 2020)
+
 
 ### 2020
 
-* [Webinar: Narrative - Personal, Political, Planetary](https://docs.google.com/document/d/1gj5brsToP5Q7m7zKR745XZAbu2k0QOAXWDaZXJlDcnQ/edit) (24 Sept 2020)
+* [Webinar: Personal and Collective Healing for Liberation](http://www.faireconomy.org/personal_and_collective_healing_for_liberation) (8 Oct 2020)
+* [Webinar: Narrative - Personal, Political, Planetary](https://www.wearecocreative.com/post/narrative-personal-political-planetary-september-2020) (24 Sept 2020)
 * [Call Your Girlfriend: Power of Community: Summer of Friendship #8](https://overcast.fm/+FfB3ExW2M/28:57) (mentioned on podcast) (21 Aug 2020)
 * [Hey Mom: Resources and strategies for recruiting white family as allies for Black liberation](http://bit.ly/hey-mom_) (5 June 2020)
 * [The Wilds Beyond Climate Justice: 2-part workshop - Unleashing Alternative Futures](https://unleashingalternativefutures.wordpress.com/wilds-beyond-climate-justice/) (June 3 & 4 2020) 
