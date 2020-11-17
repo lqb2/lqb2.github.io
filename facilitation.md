@@ -3,7 +3,7 @@ layout: page
 title: Facilitation
 ---
 
-Hi! I'm excited to support you or your organization in your work! Below is info about my background, areas of expertise, clients, testimonials, availability, and my pricing guidelines. Dig in and reach out when you're ready to work on something together. Email is best: lawrence [at] lqb2.co. Thanks and I'm looking forward to connecting.
+Hi! I'm excited to support you or your organization in your work! Below is info about my background, areas of expertise, clients, testimonials, availability, and my pricing guidelines. Dig in and [reach out]({{ site.baseurl}}/contact) when you're ready to work on something together. Thanks and I'm looking forward to connecting.
 
 >To facilitate means 'to make easier.' — adrienne maree brown
 
