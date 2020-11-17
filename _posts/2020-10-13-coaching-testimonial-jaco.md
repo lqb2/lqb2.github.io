@@ -10,9 +10,13 @@ Lawrence is a special mix of enormous heart (e.g. deep listening, empathy), bril
 
 So much shifted when we were working together:
 
-⁃awareness of negative self-talk
-⁃ability to feel what my gut’s telling me
-⁃feeling at peace about leaving work earlier / on time
-⁃regularly stepping back and planning at work
-⁃connection to my body
-⁃self-love
+* awareness of negative self-talk
+* ability to feel what my gut’s telling me
+* feeling at peace about leaving work earlier / on time
+* regularly stepping back and planning at work
+* connection to my body
+* self-love
+
+
+
+[Back]({{ site.baseurl}}/coaching)
