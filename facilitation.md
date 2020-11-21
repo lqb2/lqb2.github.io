@@ -3,7 +3,7 @@ layout: page
 title: Facilitation
 ---
 
-Hi! I'm excited to support you or your organization in your work! Below is info about my background, areas of expertise, clients, testimonials, availability, and my pricing guidelines. Dig in and [reach out]({{ site.baseurl}}/contact) when you're ready to work on something together. Thanks and I'm looking forward to connecting.
+Hi! I'm excited to support you and/or your organization in your work! Below you'll find info about my background, areas of expertise, clients, testimonials, availability, and my pricing guidelines. Dig in and [reach out]({{ site.baseurl}}/contact) when you're ready to work on something together. Thanks and I'm looking forward to connecting.
 
 >To facilitate means 'to make easier.' — adrienne maree brown
 
@@ -15,7 +15,7 @@ Hi! I'm excited to support you or your organization in your work! Below is info 
 
 #### 2020
 
-* [**Visible Network Labs** (in progress)](https://visiblenetworklabs.com/): [Network Leadership Training Academy](https://visiblenetworklabs.com/network-leadership-training-academy/)
+* [**Visible Network Labs**](https://visiblenetworklabs.com/): [Network Leadership Training Academy](https://visiblenetworklabs.com/network-leadership-training-academy/)
 * [**Training for Change**](https://www.trainingforchange.org/): [Leading Online Trainings or Webinars](https://www.trainingforchange.org/public_workshops/leading-an-online-training-or-webinar/)
 
 #### Previous
