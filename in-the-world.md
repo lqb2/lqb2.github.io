@@ -5,11 +5,11 @@ title: In the World
 
 ### Upcoming
 
-<center>::crickets crickets::</center>
+I plan to have no public facing engagements until 20 March 2020 (the Spring Equinox).
 
 ### 2020
 
-* [Webinar: Personal and Collective Healing for Liberation](http://www.faireconomy.org/personal_and_collective_healing_for_liberation) (8 Oct 2020)
+* [Webinar: Personal and Collective Healing for Liberation](https://www.facebook.com/124504174237263/videos/2798741603744715) (8 Oct 2020)
 * [Webinar: Narrative - Personal, Political, Planetary](https://www.wearecocreative.com/post/narrative-personal-political-planetary-september-2020) (24 Sept 2020)
 * [Call Your Girlfriend: Power of Community: Summer of Friendship #8](https://overcast.fm/+FfB3ExW2M/28:57) (mentioned on podcast) (21 Aug 2020)
 * [Hey Mom: Resources and strategies for recruiting white family as allies for Black liberation](http://bit.ly/hey-mom_) (5 June 2020)
