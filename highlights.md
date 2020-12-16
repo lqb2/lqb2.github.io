@@ -3,8 +3,12 @@ layout: page
 title: Highlights
 ---
 
-Here are some the highlights/notes from books I've read since ~2017.
+Here are some highlights and notes from the books that most shape my thinking. 
 
+* [Love and Rage: The Path of Liberation Through Anger by Lama Rod Owens](https://docs.google.com/document/d/1eq45iy3pJZ1QJA2CtQnscie01xn29fyo64zJGZnkFlI/edit?usp=sharing)
+* [Post Traumatic Slave Syndrome: America's Legacy of Enduring Injury and Healing by Joy Degruy](https://docs.google.com/document/d/1TxGxLet1kBh7FzJYN-0oJpsFffpsfmFniovUkHAImO8/edit?usp=sharing)
+* [Cosmic Serpent: DNA and the Origins of Knowledge](https://docs.google.com/document/d/1blUCqC8qeo5NS-kvrfBssPrC5a3btahFoKXg_6rqfy0/edit?usp=sharing)
+* [Pedagogy of the Oppressed by Paolo Freire](https://docs.google.com/document/d/1JdNqWclvVZF-ANiL9dnQs6wZbcOBu_lIpf8cWXVRUR8/edit#)
 * [Difficult Conversations: How To Discuss What Matters Most by Douglas Stone, Bruce Patton, and Sheila Heen](https://docs.google.com/document/d/1mJI3mgNnbBCGcEwVfvY7CyqvskfUe8yG0JIvvbgsqY4/edit?usp=sharing
 )
 * [Conflict Is Not Abuse: Overstating Harm, Community Responsibility, and the Duty of Repair](https://docs.google.com/document/d/1YBRAbErgS86rKRQg8LGJaVDnHj6BQ3bd4bN3D1-CaWA/edit#)
