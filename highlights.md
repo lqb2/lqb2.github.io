@@ -11,7 +11,6 @@ Here are some highlights and notes from the books that most shape my thinking.
 * [Pedagogy of the Oppressed by Paolo Freire](https://docs.google.com/document/d/1JdNqWclvVZF-ANiL9dnQs6wZbcOBu_lIpf8cWXVRUR8/edit#)
 * [Difficult Conversations: How To Discuss What Matters Most by Douglas Stone, Bruce Patton, and Sheila Heen](https://docs.google.com/document/d/1mJI3mgNnbBCGcEwVfvY7CyqvskfUe8yG0JIvvbgsqY4/edit?usp=sharing
 )
-* [Conflict Is Not Abuse: Overstating Harm, Community Responsibility, and the Duty of Repair](https://docs.google.com/document/d/1YBRAbErgS86rKRQg8LGJaVDnHj6BQ3bd4bN3D1-CaWA/edit#)
 * [My Grandmother’s Hands: Racialized Trauma and the Pathway to
 Mending Our Hearts and Bodies by Resmaa Menakem](https://docs.google.com/document/d/1b2R-nzyBODuyE068x7dZIOccR71SQ2WvaP_jwjMKPjM/edit#heading=h.isk3d9mh6ws6)
 * [How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence by Michael Pollan](https://docs.google.com/document/d/1lfwPP5pNCrIhgM9tU7turLta0ObTBWYQQIHorE_Ptvw/edit?usp=sharing)
