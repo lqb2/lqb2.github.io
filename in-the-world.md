@@ -9,6 +9,7 @@ I plan to have no public facing engagements until 20 March 2020 (the Spring Equi
 
 ### 2020
 
+* [Webinar: Harvard Divinity School: "Commitment in community: what does Bonhoeffer’s monasticism have to say to us today?"](https://docs.google.com/document/d/1D98ESudM06yFoUZ1jrZhFqiK99FWN0k5Ate0q5bQ_UI/edit#) (9 Dec 2020)
 * [Webinar: Personal and Collective Healing for Liberation](https://www.facebook.com/124504174237263/videos/2798741603744715) (8 Oct 2020)
 * [Webinar: Narrative - Personal, Political, Planetary](https://www.wearecocreative.com/post/narrative-personal-political-planetary-september-2020) (24 Sept 2020)
 * [Call Your Girlfriend: Power of Community: Summer of Friendship #8](https://overcast.fm/+FfB3ExW2M/28:57) (mentioned on podcast) (21 Aug 2020)
@@ -16,6 +17,7 @@ I plan to have no public facing engagements until 20 March 2020 (the Spring Equi
 * [The Wilds Beyond Climate Justice: 2-part workshop - Unleashing Alternative Futures](https://unleashingalternativefutures.wordpress.com/wilds-beyond-climate-justice/) (June 3 & 4 2020) 
 * [How We Show Up: Reclaiming Family, Friendship, and Community by Mia Birdsong](http://www.miabirdsong.com/how-we-show-up) (friendship permaculture is included in the book) (2 Jun 2020)
 * [The Full Set w Lawrence Barriner, II](https://open.spotify.com/episode/2bsAnHvKe6wKYaIDynzWhh?si=3Ba6Lo0XQFq53ZAUWFJhdA) (15 May 2020)
+* [Pleasure Activism & Story-based Strategy: A Conversation with Jess St. Louis & Lawrence Barriner](https://www.storybasedstrategy.org/blog-full/2020/2/14/pleasure-activism-amp-story-based-strategy-a-conversation-with-jess-st-louis-amp-lawrence-barriner) (14 Feb 2020)
 * [Gibrán Rivera's Show: Men Need to be Held](https://www.gibranrivera.com/the-show/2020/5/21/lawrence-barriner-ii-men-need-to-be-held) (23 Jan 2020)
 
 
