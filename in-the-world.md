@@ -5,13 +5,13 @@ title: In the World
 
 ### Upcoming
 
-I plan to have no public facing engagements until 20 March 2020 (the Spring Equinox).
+I plan to have no public-facing engagements until 20 March 2020 (the Spring Equinox).
 
 ### 2020
 
-* [Webinar: Harvard Divinity School: "Commitment in community: what does Bonhoeffer’s monasticism have to say to us today?"](https://docs.google.com/document/d/1D98ESudM06yFoUZ1jrZhFqiK99FWN0k5Ate0q5bQ_UI/edit#) (9 Dec 2020)
-* [Webinar: Personal and Collective Healing for Liberation](https://www.facebook.com/124504174237263/videos/2798741603744715) (8 Oct 2020)
-* [Webinar: Narrative - Personal, Political, Planetary](https://www.wearecocreative.com/post/narrative-personal-political-planetary-september-2020) (24 Sept 2020)
+* [Webinar hosted by Harvard Divinity School + Sacred Design Lab: "Commitment in community: what does Bonhoeffer’s monasticism have to say to us today?"](https://docs.google.com/document/d/1D98ESudM06yFoUZ1jrZhFqiK99FWN0k5Ate0q5bQ_UI/edit#) (9 Dec 2020)
+* [Webinar hosted by CoCreatve: Personal and Collective Healing for Liberation](https://www.facebook.com/124504174237263/videos/2798741603744715) (8 Oct 2020)
+* [Webinar hosted by United for a Fair Economy: Narrative - Personal, Political, Planetary](https://www.wearecocreative.com/post/narrative-personal-political-planetary-september-2020) (24 Sept 2020)
 * [Call Your Girlfriend: Power of Community: Summer of Friendship #8](https://overcast.fm/+FfB3ExW2M/28:57) (mentioned on podcast) (21 Aug 2020)
 * [Hey Mom: Resources and strategies for recruiting white family as allies for Black liberation](http://bit.ly/hey-mom_) (5 June 2020)
 * [The Wilds Beyond Climate Justice: 2-part workshop - Unleashing Alternative Futures](https://unleashingalternativefutures.wordpress.com/wilds-beyond-climate-justice/) (June 3 & 4 2020) 

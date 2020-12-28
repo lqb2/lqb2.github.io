@@ -20,6 +20,3 @@ title: About
 
 
 > If you're interested to know more about me personally, you can see [my personal website](http://www.lawrencebarrinerii.com/), check out my [cv](http://lqb2.co/online-cv/), read [what I'm up to right now](http://lqb2.co/now/), see [my vision and values](http://www.lawrencebarrinerii.com/vision), see [my book highlights]({{ site.baseurl}}highlights), or sign up for [my newsletter](http://www.tinyletter.com/lqb2).
-
-
-> [Contact me]({{ site.baseurl }}/contact) 
