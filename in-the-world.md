@@ -17,6 +17,7 @@ I plan to have no public-facing engagements until 20 March 2020 (the Spring Equi
 * [The Wilds Beyond Climate Justice: 2-part workshop - Unleashing Alternative Futures](https://unleashingalternativefutures.wordpress.com/wilds-beyond-climate-justice/) (June 3 & 4 2020) 
 * [How We Show Up: Reclaiming Family, Friendship, and Community by Mia Birdsong](http://www.miabirdsong.com/how-we-show-up) (friendship permaculture is included in the book) (2 Jun 2020)
 * [The Full Set w Lawrence Barriner, II](https://open.spotify.com/episode/2bsAnHvKe6wKYaIDynzWhh?si=3Ba6Lo0XQFq53ZAUWFJhdA) (15 May 2020)
+* [Pax Christi: Reflection for Holy Thursday, April 9](https://paxchristiusa.org/2020/04/08/reflection-for-holy-thursday-april-9/) (9 April 2020)
 * [Pleasure Activism & Story-based Strategy: A Conversation with Jess St. Louis & Lawrence Barriner](https://www.storybasedstrategy.org/blog-full/2020/2/14/pleasure-activism-amp-story-based-strategy-a-conversation-with-jess-st-louis-amp-lawrence-barriner) (14 Feb 2020)
 * [Gibrán Rivera's Show: Men Need to be Held](https://www.gibranrivera.com/the-show/2020/5/21/lawrence-barriner-ii-men-need-to-be-held) (23 Jan 2020)
 
