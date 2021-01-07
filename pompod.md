@@ -4,13 +4,15 @@ title: Boston Pompod
 ---
 
 
-last updated: 5 jan 2021
+last updated: 7 jan 2021
 
-* [**meeting room**](https://hangouts.google.com/call/EuYYNj62gZMEfPQQmaRsACEE)
+* [**zoom meeting room**](https://us04web.zoom.us/j/72264463856?pwd=WGQ0NzB1ZHd5T3UxamxZaTBUM3E3dz09)
+    - meeting ID: 722 6446 3856
+    - passcode: 297729
 * [**text thread**](https://chat.whatsapp.com/LHUVc7H16M1BQ1tUI3bkWT)
 
 
-community infrastructure to get shit done! [the pomodoro technique](https://www.youtube.com/watch?v=VFW3Ld7JO0w) + collective accountability.
+community infrastructure to get shit done! [the pomodoro technique](https://www.youtube.com/watch?v=VFW3Ld7JO0w) + collective accountability. iterated from [gsd during covid-19](http://lqb2.co/blog///2020/03/16/gsd-during-covid-19-pomodoros/).
 
 
 use the text thread to let people know when you'll be on. join the meeting room. 
