@@ -5,7 +5,7 @@ title: In the World
 
 ### Upcoming
 
-I plan to have no public-facing engagements until 20 March 2020 (the Spring Equinox).
+I plan to have no public-facing engagements until 20 March 2021 (the Spring Equinox).
 
 ### 2020
 
