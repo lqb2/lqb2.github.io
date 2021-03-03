@@ -10,6 +10,10 @@ title: Collaborators
 * Maureen White [Consulting](https://www.maureenwhiteconsulting.com/) | [Coaching](https://www.maureenwhitecoaching.com/) | [Photography](https://www.maureenwhitephotography.com/)
 * [Danya Sherman](https://www.danyasherman.com/)
 * [Danielle Coates-Connor](https://infinitegrowth.rocks/)
+
+
+People in my communities of practice
+
 * [Deidra Montgomery](https://www.deidramontgomery.com/meet-deidra.html)
 
 

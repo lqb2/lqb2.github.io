@@ -15,6 +15,7 @@ Hi! I'm excited to support you and/or your organization in your work! Below you'
 
 #### 2020
 
+* [**Coaching for Healing, Justice, & Liberation**](https://www.healingjusticeliberation.org/): [Intro to Liberatory Coaching](https://www.healingjusticeliberation.org/ilc)
 * [**Visible Network Labs**](https://visiblenetworklabs.com/): [Network Leadership Training Academy](https://visiblenetworklabs.com/network-leadership-training-academy/)
 * [**Training for Change**](https://www.trainingforchange.org/): [Leading Online Trainings or Webinars](https://www.trainingforchange.org/public_workshops/leading-an-online-training-or-webinar/)
 
