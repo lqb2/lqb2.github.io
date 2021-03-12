@@ -5,6 +5,7 @@ title: Highlights
 
 Here are some highlights and notes from the books that most shape my thinking. 
 
+* [The Little Book of Race and Restorative Justice: Black Lives, Healing, and US Social Transformation by Fania E. Davis](https://docs.google.com/document/d/11yExu8JxBy6g1kSNQFIWf3JLI66xhKrRPpmr9W-pYV0/edit#heading=h.7xkwhkzd2adg)
 * [Love and Rage: The Path of Liberation Through Anger by Lama Rod Owens](https://docs.google.com/document/d/1eq45iy3pJZ1QJA2CtQnscie01xn29fyo64zJGZnkFlI/edit?usp=sharing)
 * [Post Traumatic Slave Syndrome: America's Legacy of Enduring Injury and Healing by Joy Degruy](https://docs.google.com/document/d/1TxGxLet1kBh7FzJYN-0oJpsFffpsfmFniovUkHAImO8/edit?usp=sharing)
 * [Cosmic Serpent: DNA and the Origins of Knowledge](https://docs.google.com/document/d/1blUCqC8qeo5NS-kvrfBssPrC5a3btahFoKXg_6rqfy0/edit?usp=sharing)
