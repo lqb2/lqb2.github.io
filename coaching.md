@@ -5,9 +5,9 @@ title: Coaching
 
 > "A great coach tells you what you need to hear not what you want to hear." — Sagi Kalev
 
-I offer both life coaching and professional coaching services. My life coaching practice almost always begins with a 3-session [intro package](https://docs.google.com/document/d/1TkkuWMfPaB0wcUFwisYbj-znRdkJl2mBFIUpMMeefSU/edit?usp=sharing){:target="_blank"}. Sessions can be added ad-hoc or in sets of three. Without a package, I typically book calls 6 weeks in advance. 
+I offer both life coaching and professional coaching services. My life coaching practice almost always begins with a 3-session [intro package](https://docs.google.com/document/d/1TkkuWMfPaB0wcUFwisYbj-znRdkJl2mBFIUpMMeefSU/edit?usp=sharing){:target="_blank"}. Sessions can be added ad-hoc or in sets of three. I typically book calls 6 weeks in advance. You can see my sliding scale rate sheet [here](https://docs.google.com/document/d/1sxujZckhY8eIfNRIc_MlCGRGsrQ9t5slfItcBJCF92w/edit?usp=sharing){:target="_blank"}.
 
-I offer professional coaching through employers via retainer. If you are an individual and need professional coaching or you are an employer looking for something other than a retainer, please [reach out]({{ site.baseurl}}/contact) and let's see what's possible. 
+I offer professional coaching for organizations or single departments through employers via retainer, using my [sliding scale consulting rates](https://docs.google.com/document/d/1X0WiPZ8srwWC6SZrD9qVsmDTNQ4gW6YWbDw4tammFU8/edit){:target="_blank"}. If you are an individual and need professional coaching or you are an employer looking for something other than a retainer, please [reach out]({{ site.baseurl}}/contact) and let's see what's possible. 
 
 <center><hr></center>
 
