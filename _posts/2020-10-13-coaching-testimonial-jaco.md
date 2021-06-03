@@ -17,6 +17,8 @@ So much shifted when we were working together:
 * connection to my body
 * self-love
 
+— [Jaco Cohen](https://www.linkedin.com/in/jaco-cohen){:target="_blank"}
 
+<br>
 
 [Back]({{ site.baseurl}}/coaching)

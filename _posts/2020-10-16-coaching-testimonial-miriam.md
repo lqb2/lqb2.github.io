@@ -19,4 +19,8 @@ Hands down, I appreciate Lawrence’s active listening and deep engagement with 
 A big shift was my ability to identify the small blocks on my life that added up to the major blocks. For example, Lawrence and I processed my writing blocks. I thought of it as one huge challenge, when really it was a composite of many many tiny blocks, some of which I have been able to shift over the years, and others of which I am still working on. This framing—paying attention to the small things that make a big thing, and shifting small things, which can lead to a big impact—has been monumental in helping me move though situations that I previously found prohibitively challenging.
 
 <br>
+
+— [Miriam Mack](https://www.linkedin.com/in/miriam-mack-58276223/){:target="_blank"}
+
+<br>
 [Back]({{ site.baseurl}}/coaching)
