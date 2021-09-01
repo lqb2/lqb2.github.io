@@ -58,15 +58,19 @@ Hi! I'm excited to support you and/or your organization in your work! Below you'
 <center><hr></center>
 
 
-### Partial 2019 Client list
+### Partial 2020 Client list
 
 <ul>
 <li><a href="http://interactioninstitute.org/">Interaction Institute for Social Change</a></li>
 <li><a href="https://www.gsd.harvard.edu/">Harvard Graduate School of Design</a></li>
-<li><a href="https://www.podcastgarage.org">PRX Podcast Garage</a></li>
-<li><a href="https://www.spitfirestrategies.com">Spitfire Strategies</a></li>
+<li><a href="https://ucsusa.org/">Union of Concerned Scientists</a></li>
+<li><a href="https://www.tides.org/">Tides Foundation</a></li>
 <li><a href="https://www.bc.edu/">Boston College</a></li>
-<li><a href="https://grist.org">Grist.org</a></li>
+<li><a href="https://walkboston.org">WalkBoston</a></li>
+<li><a href="https://www.wearecocreative.com/">CoCreative</a></li>
+<li><a href="https://grist.org">Grist</a></li>
+
+
 </ul>            
 
     
