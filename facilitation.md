@@ -28,6 +28,8 @@ Hi! I'm excited to support you and/or your organization in your work! Below you'
 
 <ul>
 
+    <li><b><a href="https://www.mindfulschools.org/">Mindful Schools</a></b> in Mindful Educator Essentials</li>
+
     <li><b><a href="http://www.faireconomy.org">United for a Fair Economy</a></b> as a <a href="http://www.faireconomy.org/spring19">Trainer</a></li>
     
     <li><a href="http://adriennemareebrown.net/"><b>adrienne maree brown</b></a> in <a href="https://www.akpress.org/emergentstrategy.html">emergent strategy facilitation</a></li>
