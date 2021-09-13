@@ -15,6 +15,13 @@ In either case, sessions can be added ad-hoc or in sets of three. I typically bo
 
 <center><hr></center>
 
+## Working with me in 2022
+
+My coaching plate for 2021 is full and I am beginning to plan out my coaching schedule for 2022. If you are interested in working with me as a coach next year, please add yourself to the waitlist <a href="https://forms.gle/SAMFbiTU4BwkXQi56" target="_blank">here</a>. You'll hear word in November or December about how to get yourself off the waitlist and into a slot!
+
+<center><hr></center>
+
+
 ## Testimonials
 
 
