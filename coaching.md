@@ -5,13 +5,15 @@ title: Coaching
 
 > "A great coach tells you what you need to hear not what you want to hear." — Sagi Kalev
 
-Coaching is my primary pathway to support individuals through transformative change processes. I offer both life coaching and professional coaching services. 
+Coaching is my primary pathway to support individuals through transformative change processes. Working with me as a coach generally starts with a free 15-minute consultation call ([bookable here](https://calendly.com/lqb2co/15-minute-meeting){:target="_blank"}) for us to explore if we are mutually excited to work together as coach and coach partner. 
 
-My **life coaching** practice will start with a free 15-minute consultation call for us to explore if we work together as coach and coach partner. I typically offer to coach partners [liberatory coaching](https://www.healingjusticeliberation.org/aboutus){:target="_blank"} (training scheduled to complete in Jan 2022) or [personal systems coaching](https://docs.google.com/document/d/1TkkuWMfPaB0wcUFwisYbj-znRdkJl2mBFIUpMMeefSU/edit?usp=sharing){:target="_blank"} (which I have been offering since 2016). We will discuss which pathway feels best for you on our consultation call. You can find pricing information [here](https://docs.google.com/document/d/1sxujZckhY8eIfNRIc_MlCGRGsrQ9t5slfItcBJCF92w/edit?usp=sharing){:target="_blank"} for individual coaching.
+I offer **personal systems coaching, liberatory life coaching**, and **professional coaching**. 
 
-I offer **professional coaching** for organizations or groups within organizations through employers via retainer using my [sliding scale consulting rates](https://docs.google.com/document/d/1X0WiPZ8srwWC6SZrD9qVsmDTNQ4gW6YWbDw4tammFU8/edit){:target="_blank"}. If you are an individual and need professional coaching or you are an employer looking for something other than a retainer, please [reach out]({{ site.baseurl}}/contact) and let's see what's possible. 
+I created my [personal systems coaching](https://docs.google.com/document/d/1TkkuWMfPaB0wcUFwisYbj-znRdkJl2mBFIUpMMeefSU/edit?usp=sharing){:target="_blank"} framework and have been offering it since 2016. I have been offering professional coaching since 2019 and [liberatory coaching](https://www.healingjusticeliberation.org/aboutus){:target="_blank"} (training scheduled to complete in Jan 2022) since 2021. I will describe the pathways on our consultation call and if we move forward, we'll make a decision on one or a blended apporach before our first full coaching session. You can find pricing information [here](https://docs.google.com/document/d/1sxujZckhY8eIfNRIc_MlCGRGsrQ9t5slfItcBJCF92w/edit?usp=sharing){:target="_blank"} for individual coaching.
 
-In either case, sessions can be added ad-hoc or in sets of three. I typically book calls at least 6 weeks in advance. 
+I also offer **professional coaching** for individuals looking for support in their work context(s). Most often employers hire me through a retainer to be available to anyone on their full staff or sub team or individuals using organizational resources to pay for coaching with me. In either case, I use [sliding scale organizational consulting rates](https://docs.google.com/document/d/1X0WiPZ8srwWC6SZrD9qVsmDTNQ4gW6YWbDw4tammFU8/edit){:target="_blank"}. If what you're looking for doesn't exactly fit how I typically offer professional coaching, please [reach out]({{ site.baseurl}}/contact) and let's see what's possible. 
+
+Whichever path we land choose, we will typically start with three sessions, usually over a span of 6-12 weeks. From there, sessions can be added in sets of three or ad-hoc as we find a rhythm that works for you and your budget. I typically book calls at least 6 weeks in advance and sometimes farther. 
 
 <center><hr></center>
 
