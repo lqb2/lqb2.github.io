@@ -6,6 +6,7 @@ title: Highlights
 Here are some highlights and notes from the books that most shape my thinking. 
 
 * [Race Talk and the Conspiracy of Silence: Understanding and Facilitating Difficult Dialogues on Race by Derald Wing Sue](https://docs.google.com/document/d/1YA_1m7G0MEq69vgHo_8AzLYD8Meb1PwqOnS2DpnuxE4/edit#heading=h.wxwqsqfxyxi9){:target="_blank"}
+* [Be Angry by His Holiness the Dalai Lama](https://docs.google.com/document/d/1dpzcxEIbHU7Jmi3XAzfPEB6pxRypa6YBL0EhOEzxqL0/edit){:target="_blank"}
 * [The Little Book of Race and Restorative Justice: Black Lives, Healing, and US Social Transformation by Fania E. Davis](https://docs.google.com/document/d/11yExu8JxBy6g1kSNQFIWf3JLI66xhKrRPpmr9W-pYV0/edit#heading=h.7xkwhkzd2adg){:target="_blank"}
 * [Love and Rage: The Path of Liberation Through Anger by Lama Rod Owens](https://docs.google.com/document/d/1eq45iy3pJZ1QJA2CtQnscie01xn29fyo64zJGZnkFlI/edit?usp=sharing){:target="_blank"}
 * [Post Traumatic Slave Syndrome: America's Legacy of Enduring Injury and Healing by Joy Degruy](https://docs.google.com/document/d/1TxGxLet1kBh7FzJYN-0oJpsFffpsfmFniovUkHAImO8/edit?usp=sharing){:target="_blank"}
