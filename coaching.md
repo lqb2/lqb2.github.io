@@ -7,7 +7,7 @@ title: Coaching
 
 Coaching is my primary pathway to support individuals through transformative change processes. Working with me as a coach generally starts with a free 15-minute consultation call ([bookable here](https://calendly.com/lqb2co/15-minute-meeting){:target="_blank"}) for us to explore if we are mutually excited to work together as coach and coach partner. 
 
-I offer **personal systems coaching, liberatory life coaching**, and **professional coaching**. 
+I offer **personal systems coaching**, **liberatory coaching**, and **professional coaching**. 
 
 I created my [personal systems coaching](https://docs.google.com/document/d/1TkkuWMfPaB0wcUFwisYbj-znRdkJl2mBFIUpMMeefSU/edit?usp=sharing){:target="_blank"} framework and have been offering it since 2016. I have been offering professional coaching since 2019 and [liberatory coaching](https://www.healingjusticeliberation.org/aboutus){:target="_blank"} (training scheduled to complete in Jan 2022) since 2021. I will describe the pathways on our consultation call and if we move forward, we'll make a decision on one or a blended apporach before our first full coaching session. You can find pricing information [here](https://docs.google.com/document/d/1sxujZckhY8eIfNRIc_MlCGRGsrQ9t5slfItcBJCF92w/edit?usp=sharing){:target="_blank"} for individual coaching.
 
@@ -27,10 +27,11 @@ My coaching plate for 2021 is full and I am beginning to plan out my coaching sc
 ## Testimonials
 
 
+> Lawrence is the first professional I have worked with, whom have made me feel safe enough to share myself all the way through. He masters the fine balance of sharing himself to ensure a safe space, while keeping it professional and the focus on you. He is amazing at feeling what is needed it the moment, while directing me forward, towards my goals. — [Niklas W.]({{ site.baseurl }}events/2021/10/24/coaching-testimonial-niklas.html) 
+
+> Lawrence is a great companion to walk alongside you in your journey toward self development and actualizing your career goals. With a radical & holistic approach, he can help you unearth the secrets you already have within. — [Sidra F.]({{ site.baseul }}events/2021/10/24/coaching-testimonial-sidra.html)
 
 > Lawrence has had a transformative effect on my life in the past few years... Life-coaching is at times an inadequate term for what this process looks like... And the remarkable thing has been that when we have set intentions, goals, and done these visioning exercises... usually within a year of me articulating an intention, my life transforms in such a manner that those intentions are realized. — [Huma G.]({{ site.baseurl}}events/2020/10/11/coaching-testimonial-huma.html)
-
-
 
 > Lawrence is a special mix of enormous heart (e.g. deep listening, empathy), brilliant mind (e.g. insights, connections), and connected soul (e.g. groundedness, *big* picture). What else could you want in a coach??<br>
 — [Jaco Cohen]({{ site.baseurl}}events/2020/10/13/coaching-testimonial-jaco.html)
