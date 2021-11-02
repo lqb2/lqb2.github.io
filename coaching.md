@@ -5,7 +5,7 @@ title: Coaching
 
 > "A great coach tells you what you need to hear not what you want to hear." — Sagi Kalev
 
-Coaching is my primary pathway to support individuals through transformative change processes. Working with me as a coach generally starts with a free 15-minute consultation call ([bookable here](https://calendly.com/lqb2co/15-minute-meeting){:target="_blank"}) for us to explore if we are mutually excited to work together as coach and coach partner. 
+Coaching is my primary pathway to support individuals through transformative change processes. Working with me as a coach generally starts with a free 15-minute chemistry call ([bookable here](https://calendly.com/lqb2co/coaching-chemistry-call){:target="_blank"}) for us to explore if we are mutually excited to work together.
 
 I offer **personal systems coaching**, **liberatory coaching**, and **professional coaching**. 
 
