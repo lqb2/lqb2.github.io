@@ -1,18 +1,22 @@
 - title: About
   url: /about.html
 
+- title: Blog
+  url: http://lqb2.co/blog/
+
 - title: Coaching
   url: /coaching.html
 
 - title: Facilitation
   url: /facilitation.html
 
-
 - title: In the World
   url: /in-the-world.html
 
 - title: Contact
   url: /contact.html
+
+
 
 # - title: Source
 #   url: https://github.com/patdryburgh/hitchens
