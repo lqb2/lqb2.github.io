@@ -8,6 +8,8 @@ published: true
 
 ---
 
+Note: please see updated list [here]({{ site.baseurl }}/highlights).
+
 Here are some the highlights/notes from books I've read since ~2017.
 
 * [My Grandmother’s Hands: Racialized Trauma and the Pathway to
