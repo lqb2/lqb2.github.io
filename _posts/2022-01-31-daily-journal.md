@@ -15,3 +15,7 @@ today i am doing my month and week kickoffs. well, i'm going to do half my month
 on the adminstrative side of things: i've got a bunch of doodles to send out, a few hefty group emails, and some travel to book. 
 
 problems: scheduling. dear sweet jesus, i hate spending time doing asynchronous scheduling. i'm currently focusing with my operations manager on financial things (tax season is coming) and getting set up with all (organizational and coaching) clients for the year, but as soon as that clears up, we're gonna turn attention towards evolving my scheduling systems. but also, i think the reason the scheduling is such a hassle is because everyone is just doing too much in chunks of time that are too fragmented. 
+
+---
+
+word count: 153
