@@ -5,6 +5,7 @@ title: Highlights
 
 Here are some highlights and notes from the books that most shape my thinking. 
 
+* [Impact Networks: Create Connection, Spark Collaboration, and Catalyze Systemic Change by David Ehrlichman](https://docs.google.com/document/d/1DM3OLi8twcjdwDHDGkN80sCLQYU-CGNJYnyPx0srj0E/edit#heading=h.vlth93734qlq){:target="_blank"}
 * [Race Talk and the Conspiracy of Silence: Understanding and Facilitating Difficult Dialogues on Race by Derald Wing Sue](https://docs.google.com/document/d/1YA_1m7G0MEq69vgHo_8AzLYD8Meb1PwqOnS2DpnuxE4/edit#heading=h.wxwqsqfxyxi9){:target="_blank"}
 * [Be Angry by His Holiness the Dalai Lama](https://docs.google.com/document/d/1dpzcxEIbHU7Jmi3XAzfPEB6pxRypa6YBL0EhOEzxqL0/edit){:target="_blank"}
 * [The Little Book of Race and Restorative Justice: Black Lives, Healing, and US Social Transformation by Fania E. Davis](https://docs.google.com/document/d/11yExu8JxBy6g1kSNQFIWf3JLI66xhKrRPpmr9W-pYV0/edit#heading=h.7xkwhkzd2adg){:target="_blank"}
