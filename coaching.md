@@ -5,23 +5,25 @@ title: Coaching
 
 > "A great coach tells you what you need to hear not what you want to hear." — Sagi Kalev
 
-Coaching is my primary pathway to support individuals through transformative change processes. Working with me as a coach generally starts with a free 15-minute chemistry call ([bookable here](https://calendly.com/lqb2co/coaching-chemistry-call){:target="_blank"}) for us to explore if we are mutually excited to work together.
+Coaching is my primary pathway to support individuals through transformative change processes. Working with me as a coach generally starts with a free 15-minute chemistry call ([bookable here](https://calendly.com/lqb2co/coaching-chemistry-call){:target="_blank"}) for us to explore if we are a good fit for working together.
 
 I offer **personal systems coaching**, **liberatory coaching**, and **professional coaching**. 
 
 I created my [personal systems coaching](https://docs.google.com/document/d/1TkkuWMfPaB0wcUFwisYbj-znRdkJl2mBFIUpMMeefSU/edit?usp=sharing){:target="_blank"} framework and have been offering it since 2016. I have been offering professional coaching since 2019 and [liberatory coaching](https://www.healingjusticeliberation.org/aboutus){:target="_blank"} (training scheduled to complete in Jan 2022) since 2021. I will describe the pathways on our consultation call and if we move forward, we'll make a decision on one or a blended apporach before our first full coaching session. You can find pricing information [here](https://docs.google.com/document/d/1sxujZckhY8eIfNRIc_MlCGRGsrQ9t5slfItcBJCF92w/edit?usp=sharing){:target="_blank"} for individual coaching.
 
-I also offer **professional coaching** to support people in their work context(s). Individuals often use organizational resources to pay for coaching with me. Organizations also hire me (using a retainer) to be available to anyone on their team (this works well for organizations that want to invest in all or frontline/lower-ranking staff). In both cases, I use my [sliding scale organizational consulting rates](https://docs.google.com/document/d/1X0WiPZ8srwWC6SZrD9qVsmDTNQ4gW6YWbDw4tammFU8/edit){:target="_blank"} to set a compensation amount. If what you're looking for doesn't exactly fit how I typically offer professional coaching, please [reach out]({{ site.baseurl}}/contact) and let's see what's possible. 
+For more about **liberatory coaching**, please see [the Coaching for Healing, Justice, and Liberation website](https://www.healingjusticeliberation.org/aboutus){:target="_blank"}. 
+
+I offer **professional coaching** to support people in their work context(s). Individuals often use organizational resources to pay for professional coaching with me. Organizations also hire me (using a retainer) to be available to anyone on their team. This works well for organizations that want to invest in all or frontline/lower-ranking staff. In both cases, I use my [sliding scale organizational consulting rates](https://docs.google.com/document/d/1X0WiPZ8srwWC6SZrD9qVsmDTNQ4gW6YWbDw4tammFU8/edit){:target="_blank"} to set a compensation amount. If what you're looking for doesn't exactly fit how I typically offer professional coaching, please [reach out]({{ site.baseurl }}/contact) and let's see what's possible. 
 
 For organizations with retainers, ad-hoc calls can be scheduled 1 or more at a time using specific calendly links for your organization. For anyone I work with individually, we will typically start with six sessions, usually over a span of 3-6 months. From there, sessions can be added in sets of three or ad-hoc as we find a rhythm that works for you and your budget. I typically book calls at least 6 weeks in advance and, depending on the season, sometimes farther. 
 
 <center><hr></center>
 
-## Working with me in 2022
+<!-- ## Working with me in 2022
 
 My coaching plate for 2021 is full and I am beginning to plan out my coaching schedule for 2022. If you are interested in working with me as a coach next year, please add yourself to the waitlist <a href="https://forms.gle/SAMFbiTU4BwkXQi56" target="_blank">here</a>. You'll hear word in November or December about how to get yourself off the waitlist and into a slot!
 
-<center><hr></center>
+<center><hr></center> -->
 
 
 ## Testimonials
