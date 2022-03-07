@@ -5,6 +5,13 @@ title: In the World
 
 ### Upcoming
 
+* [insert cricket sound]
+
+### 2022
+
+* [Networks That Build Black Futures](https://mailchi.mp/65a1981c738e/networks-that-build-black-futures-the-black-social-change-economy-5239456){:target="_blank"} (18 Feb)
+* [Podcast: Enough is Enough (6 episodes)](https://anchor.fm/enoughisenoughisenough){:target="_blank"} (20 Jan)
+
 ### 2021
 
 * [The Wonder Dome: #75 Making New Worlds Possible (with Lawrence Barriner II)](https://mindfulcreative.coach/the-wonder-dome/2021/10/19/75-lawrence-barriner){:target="_blank"} (19 Oct)
