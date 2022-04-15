@@ -3,14 +3,18 @@ layout: page
 title: Coaching
 ---
 
-<!--  -->> "A great coach tells you what you need to hear not what you want to hear." — Sagi Kalev
+<!-- "A great coach tells you what you need to hear not what you want to hear." — Sagi Kalev -->
+
+"A coach is thinking partner who helps you to see what's in the way of you moving forward." — Marcia Reynolds
 
 
 ### My coaching story
 
-I started coaching in 2016 after a 2-day retreat in the woods of new hampshire with a dear friend and collaborator, Ross Chanowski. In a conversation about the overlap between what we loved to do, what people around us needed, and what could resource us, we identified coaching as one of my sweet spots. That started me on a journey of experimentation of coaching my friends and, turns out, I loved it *and* it was helpful to my friends. 
+I started coaching in 2016 after a 2-day retreat in the woods of occupied Abenaki lands with a dear friend and collaborator, Ross Chanowski. In a conversation about the overlap between what we loved to do, what people around us needed, and what could resource us, we identified coaching as one of my sweet spots. That started me on a journey of experimentation of coaching my friends and, turns out, I loved it *and* it was helpful.
 
-Over the next 5 years, I coached 3-8 people a year, consistently and slowly learning about and improving my coaching through practice and feedback. While I started with my friends, within a few years, I'd coached everyone I could and those folks started to refer people to me. In 2020 and 2021, I took two coach trainings with [Coaching for Healing, Justice, and Liberation](https://healingjusticeliberation.org/){:target="_blank"}; my slow and consistent learning deepened and fast. With the support of the two [lead teachers](https://www.healingjusticeliberation.org/aboutus){:target="_blank"} (Sarah Jawaid, Damon Azali-Rojas), my coach mentor (Jamari white), and [all of my peers](https://www.instagram.com/p/CXfLCrarir2/){:target="_blank"}, I/we released all sorts of limiting beliefs, healed and reconnected parts of ourselves we'd lost access to, and gained or sharpened tools that help us liberate ourselves and support the liberation of others. Today, I improve my coaching (including self-coaching) by reading, listening to, and talking and practicing with other experienced coaches.
+Over the next 5 years, I coached 3-8 people a year, consistently and slowly learning about and improving my skills through practice and feedback. While I started with my friends, within a few years, I'd coached everyone I could and those folks started to refer people to me. Surprise, surprise; coaching people you aren't your friends is different. I was streched in beautiful ways and felt affirmed that I could successfully work with folks who I had no relationship to other than our coaching connection. 
+
+In 2020 and 2021, I took two coach trainings with [Coaching for Healing, Justice, and Liberation](https://healingjusticeliberation.org/){:target="_blank"}; my slow and consistent learning deepened and fast. With the support of the two [lead teachers](https://www.healingjusticeliberation.org/aboutus){:target="_blank"} (Sarah Jawaid, Damon Azali-Rojas), my coach mentor ([Jamari White](https://www.blackancestralhealing.com/about){:target="_blank"}), and [all of my peers](https://www.instagram.com/p/CXfLCrarir2/){:target="_blank"}, I/we released all sorts of limiting beliefs, healed and reconnected parts of ourselves we'd lost access to, and gained/sharpened tools that help us liberate ourselves and support the liberation of others. Today, I improve my coaching (including self-coaching) by reading, listening to, and talking and practicing with other experienced coaches.
 
 
 ### My coach approach
@@ -18,13 +22,13 @@ Over the next 5 years, I coached 3-8 people a year, consistently and slowly lear
 I am a dreamer, lover, time-traveler, and mystic. I lean heavily on imagination, laughter, joy, surprise, intuition, the wisdom of the body, metaphor, and moving through multiple time horizons at once. Together, we will get clear about where/how/who you want to be, see what's in the way, and explore generative pathways forward (or inward/backward, if that's what's needed). 
 
 
-### Who I work best with
+### Who I love working with
 
-My coaching is rooted in one key metaphor: the transformation of caterpillar into butterfly. I specialize in working with folks who know they are ready for a pivot. If you are someone who has been facing a barrier for months (or longer) and knows something bigger or deeper is needed to breakthrough, I'm your guy! 
+My coaching is rooted in one key metaphor: [the transformation of caterpillar into butterfly](https://www.youtube.com/watch?v=FS7Zuq6LScc){:target="_blank"}. I specialize in working with folks who know they are ready for a pivot that might require a little melting. If you are someone who has been facing a barrier for months (or longer) and knows something bigger or deeper is needed to breakthrough, I'm your guy! 
 
 If you are changing the world to make it a place where more beings can be free and thrive, we will likely fit well together. 
 
-Given my capacity, I prioritize working with BIPOC clients but love working with anyone who is ready to take a transformative leap. 
+I prioritize working with BIPOC clients but love working with anyone who is ready to take a transformative leap. 
 
 ### The Details
 
