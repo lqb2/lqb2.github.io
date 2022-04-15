@@ -3,19 +3,47 @@ layout: page
 title: Coaching
 ---
 
-> "A great coach tells you what you need to hear not what you want to hear." — Sagi Kalev
+<!--  -->> "A great coach tells you what you need to hear not what you want to hear." — Sagi Kalev
 
-Coaching is my primary pathway to support individuals through transformative change processes. Working with me as a coach generally starts with a free 15-minute chemistry call ([bookable here](https://calendly.com/lqb2co/coaching-chemistry-call){:target="_blank"}) for us to explore if we are a good fit for working together.
+
+### My coaching story
+
+I started coaching in 2016 after a 2-day retreat in the woods of new hampshire with a dear friend and collaborator, Ross Chanowski. In a conversation about the overlap between what we loved to do, what people around us needed, and what could resource us, we identified coaching as one of my sweet spots. That started me on a journey of experimentation of coaching my friends and, turns out, I loved it *and* it was helpful to my friends. 
+
+Over the next 5 years, I coached 3-8 people a year, consistently and slowly learning about and improving my coaching through practice and feedback. While I started with my friends, within a few years, I'd coached everyone I could and those folks started to refer people to me. In 2020 and 2021, I took two coach trainings with [Coaching for Healing, Justice, and Liberation](https://healingjusticeliberation.org/){:target="_blank"}; my slow and consistent learning deepened and fast. With the support of the two [lead teachers](https://www.healingjusticeliberation.org/aboutus){:target="_blank"} (Sarah Jawaid, Damon Azali-Rojas), my coach mentor (Jamari white), and [all of my peers](https://www.instagram.com/p/CXfLCrarir2/){:target="_blank"}, I/we released all sorts of limiting beliefs, healed and reconnected parts of ourselves we'd lost access to, and gained or sharpened tools that help us liberate ourselves and support the liberation of others. Today, I improve my coaching (including self-coaching) by reading, listening to, and talking and practicing with other experienced coaches.
+
+
+### My coach approach
+
+I am a dreamer, lover, time-traveler, and mystic. I lean heavily on imagination, laughter, joy, surprise, intuition, the wisdom of the body, metaphor, and moving through multiple time horizons at once. Together, we will get clear about where/how/who you want to be, see what's in the way, and explore generative pathways forward (or inward/backward, if that's what's needed). 
+
+
+### Who I work best with
+
+My coaching is rooted in one key metaphor: the transformation of caterpillar into butterfly. I specialize in working with folks who know they are ready for a pivot. If you are someone who has been facing a barrier for months (or longer) and knows something bigger or deeper is needed to breakthrough, I'm your guy! 
+
+If you are changing the world to make it a place where more beings can be free and thrive, we will likely fit well together. 
+
+Given my capacity, I prioritize working with BIPOC clients but love working with anyone who is ready to take a transformative leap. 
+
+### The Details
+
+Working with me as a coach generally starts with a free 15-minute chemistry call ([bookable here](https://calendly.com/lqb2co/coaching-chemistry-call){:target="_blank"}) for us to explore if we are a good fit for working together.
 
 I offer **personal systems coaching**, **liberatory coaching**, and **professional coaching**. 
 
-I created my [personal systems coaching](https://docs.google.com/document/d/1TkkuWMfPaB0wcUFwisYbj-znRdkJl2mBFIUpMMeefSU/edit?usp=sharing){:target="_blank"} framework and have been offering it since 2016. I have been offering professional coaching since 2019 and [liberatory coaching](https://www.healingjusticeliberation.org/aboutus){:target="_blank"} (training scheduled to complete in Jan 2022) since 2021. I will describe the pathways on our consultation call and if we move forward, we'll make a decision on one or a blended apporach before our first full coaching session. You can find pricing information [here](https://docs.google.com/document/d/1sxujZckhY8eIfNRIc_MlCGRGsrQ9t5slfItcBJCF92w/edit?usp=sharing){:target="_blank"} for individual coaching.
+I created my [personal systems coaching](https://docs.google.com/document/d/1TkkuWMfPaB0wcUFwisYbj-znRdkJl2mBFIUpMMeefSU/edit?usp=sharing){:target="_blank"} framework and have been offering it since 2016. In 2019, I began offering coaching in professional settings and in 2021, I evolved my practice towards [liberatory coaching](https://www.healingjusticeliberation.org/aboutus){:target="_blank"}.
 
-For more about **liberatory coaching**, please see [the Coaching for Healing, Justice, and Liberation website](https://www.healingjusticeliberation.org/aboutus){:target="_blank"}. 
+<!-- I have been offering professional coaching since 2019 and [liberatory coaching](https://www.healingjusticeliberation.org/aboutus){:target="_blank"} (training scheduled to complete in Jan 2022) since 2021. I will describe the pathways on our consultation call and if we move forward, we'll make a decision on one or a blended apporach before our first full coaching session. You can find pricing information [here](https://docs.google.com/document/d/1sxujZckhY8eIfNRIc_MlCGRGsrQ9t5slfItcBJCF92w/edit?usp=sharing){:target="_blank"} for individual coaching.
+ -->
 
-I offer **professional coaching** to support people in their work context(s). Individuals often use organizational resources to pay for professional coaching with me. Organizations also hire me (using a retainer) to be available to anyone on their team. This works well for organizations that want to invest in all or frontline/lower-ranking staff. In both cases, I use my [sliding scale organizational consulting rates](https://docs.google.com/document/d/1X0WiPZ8srwWC6SZrD9qVsmDTNQ4gW6YWbDw4tammFU8/edit){:target="_blank"} to set a compensation amount. If what you're looking for doesn't exactly fit how I typically offer professional coaching, please [reach out]({{ site.baseurl }}/contact) and let's see what's possible. 
+<!-- For more about **liberatory coaching**, please see [the Coaching for Healing, Justice, and Liberation website](https://www.healingjusticeliberation.org/aboutus){:target="_blank"}. 
+ -->
+<!-- I offer **professional coaching** to support people in their work context(s). --> Folks in professional settings often use organizational resources (ex: professional development funds) to pay for coaching with me. Organizations also occasionally hire me on retainer to be available to anyone on their team. This works well for organizations that want to invest in all or frontline/lower-ranking staff. <!-- In both cases, I use my [sliding scale organizational consulting rates](https://docs.google.com/document/d/1X0WiPZ8srwWC6SZrD9qVsmDTNQ4gW6YWbDw4tammFU8/edit){:target="_blank"} to set a compensation amount. If what you're looking for doesn't exactly fit how I typically offer professional coaching, please [reach out]({{ site.baseurl }}/contact) and let's see what's possible.  -->
 
-For organizations with retainers, ad-hoc calls can be scheduled 1 or more at a time using specific calendly links for your organization. For anyone I work with individually, we will typically start with six sessions, usually over a span of 3-6 months. From there, sessions can be added in sets of three or ad-hoc as we find a rhythm that works for you and your budget. I typically book calls at least 6 weeks in advance and, depending on the season, sometimes farther. 
+For organizations with retainers, ad-hoc calls can be scheduled 1 or more at a time using specific calendly links for your organization. 
+
+For anyone I work with individually (personal systems coaching or liberatory coaching), we will typically start with six sessions, usually over a span of 3-6 months. From there, sessions can be added in sets of three or ad-hoc as we find a rhythm that works for you and your budget. I often book calls 6 weeks in advance and, depending on the season, sometimes farther. 
 
 <center><hr></center>
 
