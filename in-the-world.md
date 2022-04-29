@@ -3,9 +3,12 @@ layout: post
 title: In the World
 ---
 
+this is a list of things i do out in the wide wild world. it's kind of like a CV but less uptight.
+
 ### Upcoming
 
-* [insert cricket sound]
+* [life radio](https://www.liferadiopodcast.com/){:target="_blank"} - Season 3! Est'd release: Fall 2022
+* [The Wonder Dome](https://mindfulcreative.coach/the-wonder-dome/){:target="_blank"} - Panel episode with Michael Bobbitt & Yotam Schachter
 
 ### 2022
 
