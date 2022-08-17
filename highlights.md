@@ -5,6 +5,9 @@ title: Highlights
 
 Here are some highlights and notes from the books that most shape my thinking. 
 
+* [No Bad Parts: Healing Trauma & Restoring Wholeness with The Internal Family Systems Model by Richard C. Schwartz, PhD](https://docs.google.com/document/d/1bp7DFUMSl09ZhPL5A4RaUVDTXLP81NUYyLyINLELZ6k/edit#heading=h.22cuij42hd15){:target="_blank"}
+* [A World Without Email: Reimagining Work In An Age of Communication Overload by Cal Newport](https://docs.google.com/document/d/1XAmsQQF1gbSB04DT3dCuOysfnLA_BxPO8jjJ1kv31e8/edit#heading=h.9d0p238cm00y){:target="_blank"}
+* [How We Show Up: Reclaiming Family, Friendship, and Community By Mia Birdsong](https://docs.google.com/document/d/1IOZcmGFJFHIWAXjU30tsqa6NOeR60Mk_8wbQKH7lCnI/edit#heading=h.ap0y27a36hg0){:target="_blank"}
 * [The Wild Edge of Sorrow: Rituals of Renewal and the Sacred Work of Grief by Francis Weller](https://docs.google.com/document/d/1jBGG1f5bqd-1Zon9cC_79UKKK99lDx6u2go_ZP1cawA/edit#heading=h.5q0x6ztg9ft3){:target="_blank"} (only partial notes)
 * [Impact Networks: Create Connection, Spark Collaboration, and Catalyze Systemic Change by David Ehrlichman](https://docs.google.com/document/d/1DM3OLi8twcjdwDHDGkN80sCLQYU-CGNJYnyPx0srj0E/edit#heading=h.vlth93734qlq){:target="_blank"}
 * [Race Talk and the Conspiracy of Silence: Understanding and Facilitating Difficult Dialogues on Race by Derald Wing Sue](https://docs.google.com/document/d/1YA_1m7G0MEq69vgHo_8AzLYD8Meb1PwqOnS2DpnuxE4/edit#heading=h.wxwqsqfxyxi9){:target="_blank"}
