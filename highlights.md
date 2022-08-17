@@ -5,6 +5,7 @@ title: Highlights
 
 Here are some highlights and notes from the books that most shape my thinking. 
 
+* [The Wild Edge of Sorrow: Rituals of Renewal and the Sacred Work of Grief by Francis Weller](https://docs.google.com/document/d/1jBGG1f5bqd-1Zon9cC_79UKKK99lDx6u2go_ZP1cawA/edit#heading=h.5q0x6ztg9ft3){:target="_blank"} (only partial notes)
 * [Impact Networks: Create Connection, Spark Collaboration, and Catalyze Systemic Change by David Ehrlichman](https://docs.google.com/document/d/1DM3OLi8twcjdwDHDGkN80sCLQYU-CGNJYnyPx0srj0E/edit#heading=h.vlth93734qlq){:target="_blank"}
 * [Race Talk and the Conspiracy of Silence: Understanding and Facilitating Difficult Dialogues on Race by Derald Wing Sue](https://docs.google.com/document/d/1YA_1m7G0MEq69vgHo_8AzLYD8Meb1PwqOnS2DpnuxE4/edit#heading=h.wxwqsqfxyxi9){:target="_blank"}
 * [Be Angry by His Holiness the Dalai Lama](https://docs.google.com/document/d/1dpzcxEIbHU7Jmi3XAzfPEB6pxRypa6YBL0EhOEzxqL0/edit){:target="_blank"}
