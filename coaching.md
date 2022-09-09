@@ -32,7 +32,7 @@ I prioritize working with BIPOC clients but love working with anyone who is read
 
 ### The Details
 
-Working with me as a coach generally starts with a free 15-minute chemistry call ([bookable here](https://calendly.com/lqb2co/coaching-chemistry-call){:target="_blank"}) for us to explore if we are a good fit for working together.
+Working with me as a coach generally starts with a free 30-minute chemistry call ([bookable here](https://calendly.com/lqb2co/coaching-chemistry-call){:target="_blank"}) for us to explore if we are a good fit for working together.
 
 I offer **personal systems coaching**, **liberatory coaching**, and **professional coaching**. 
 
@@ -51,11 +51,11 @@ For anyone I work with individually (personal systems coaching or liberatory coa
 
 <center><hr></center>
 
-<!-- ## Working with me in 2022
+## Working with me in 2023
 
-My coaching plate for 2021 is full and I am beginning to plan out my coaching schedule for 2022. If you are interested in working with me as a coach next year, please add yourself to the waitlist <a href="https://forms.gle/SAMFbiTU4BwkXQi56" target="_blank">here</a>. You'll hear word in November or December about how to get yourself off the waitlist and into a slot!
+My coaching plate for 2022 is full and I am beginning to plan out my coaching schedule for 2023. If you are interested in working with me as a coach next year, please add yourself to the waitlist <a href="https://forms.gle/hBX8mk92zdbox8UK9" target="_blank">here</a>. You'll hear word in November or December about how to get yourself off the waitlist and into a slot!
 
-<center><hr></center> -->
+<center><hr></center>
 
 
 ## Testimonials
