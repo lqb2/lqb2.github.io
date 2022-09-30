@@ -5,6 +5,7 @@ title: Highlights
 
 Here are some highlights and notes from the books that most shape my thinking. 
 
+* [Holding Change: The Way of Emergent Strategy Facilitation and Mediation by adrienne maree brown](https://docs.google.com/document/d/1CkM4y_ZosCujuKAOzplauHjTMfNsss65KXlxRfmqngc/edit?usp=sharing){:target="_blank"}
 * [No Bad Parts: Healing Trauma & Restoring Wholeness with The Internal Family Systems Model by Richard C. Schwartz, PhD](https://docs.google.com/document/d/1bp7DFUMSl09ZhPL5A4RaUVDTXLP81NUYyLyINLELZ6k/edit#heading=h.22cuij42hd15){:target="_blank"}
 * [A World Without Email: Reimagining Work In An Age of Communication Overload by Cal Newport](https://docs.google.com/document/d/1XAmsQQF1gbSB04DT3dCuOysfnLA_BxPO8jjJ1kv31e8/edit#heading=h.9d0p238cm00y){:target="_blank"}
 * [How We Show Up: Reclaiming Family, Friendship, and Community By Mia Birdsong](https://docs.google.com/document/d/1IOZcmGFJFHIWAXjU30tsqa6NOeR60Mk_8wbQKH7lCnI/edit#heading=h.ap0y27a36hg0){:target="_blank"}
