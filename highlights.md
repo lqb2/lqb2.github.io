@@ -30,7 +30,7 @@ Here are some highlights and notes from the books that most shape my thinking.
 * [Salvation: Black People and Love by bell hooks](https://docs.google.com/document/d/1Tlu1FER0lgfi_5jcKpOVEsn1lYBfxTLFjzK8vt5n_-A/edit#heading=h.2s1ptekzwbrg){:target="_blank"}
 * [The Will To Change: Men, Masculinity, and Love by Bell Hooks](https://docs.google.com/document/d/1UDLUyfHz8hn-xD9BVJkq2E7JQR8JWShSCxNa3x9vMu4/edit#){:target="_blank"}
 * [Leadership and the New Science: Rediscovering Order in a Chaotic World By Margaret J. Wheatley](https://docs.google.com/document/d/1X_no_DlAry3-qYBdXWASFDDYTR2aQA3T2VHxWbk2UcM/edit#heading=h.746op1vudv9){:target="_blank"}
-* [Albert Einstein: The Human Side | Edited by Helen Dukas & Banesh Hoffman](https://docs.google.com/document/d/1xgYK7_sZVQVE3DXt3t4_heAOO103ULR43XQweUinNkM/edit#heading=h.4t5ed69kf55c){:target="_blank"}
+* [Albert Einstein: The Human Side — Edited by Helen Dukas & Banesh Hoffman](https://docs.google.com/document/d/1xgYK7_sZVQVE3DXt3t4_heAOO103ULR43XQweUinNkM/edit#heading=h.4t5ed69kf55c){:target="_blank"}
 * [Jackson Rising The Struggle for Economic Democracy and Black Self-Determination in Jackson, Mississippi by Kali Akuno & AJamu Nangwaya](https://docs.google.com/document/d/1wAqgSDRjf6OgqVQUCycDbTXh_1Jwiada4JyJGR2lL48/edit#heading=h.sqxhv3er78mv){:target="_blank"}
 * [From Dictatorship to Democracy by Gene Sharp](https://docs.google.com/document/d/1ibNed-GrWYiLF0HaZ95GW1pSiQwaNr2ZQo7Ub4ROOt0/edit#heading=h.rk8vdhp6yht3){:target="_blank"}
 * [Radical Hope: Letters of Love and Dissent in Dangerous Times - Edited by Caroline de Roberts](https://docs.google.com/document/d/1g83M_dS2s2LUm4P4ZSnJN-ydTwJ7iHYMZLC-L_6pUFo/edit#heading=h.santp1fq4uy0){:target="_blank"}
@@ -49,6 +49,7 @@ Here are some highlights and notes from the books that most shape my thinking.
 * [Tell Me How Long the Train's Been Gone by James Baldwin](https://github.com/spewil/bookclub){:target="_blank"}
 * [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear](https://docs.google.com/document/d/1BXNjEWNht46wTHFlymfWy00b15RJYk2Kl0dGqUBVCRo/edit?usp=sharing){:target="_blank"}
 * [Conflict Is Not Abuse - Overstating Harm, Community Responsibility, and the Duty of Repair by Sarah Schulman](https://docs.google.com/document/d/1OFB88c6CzWG5kGXaccuTLzJV2MUjjH0lrA53lpcU8Uw/edit#heading=h.4krziu3nbdml){:target="_blank"}
+* [Betty-Anne's Helpful Household Hints by Betty-Anne Hastings with Mary-Beth Connors](https://docs.google.com/document/d/1fRRpLkOzo2mZGB-JXRdEi7ONLmgQtz7WE3tufleph8s/edit#heading=h.z833hyqi5oy){:target="_blank"}
 * [Power-Curve Society: The Future of Innovation, Opportunity and Social Equity in the Emerging Networked Economy by David Bollier, Raporteur](https://docs.google.com/document/d/174kniuH2Y60yt0-pjfuAK-JAtSBXUJQ1kPhJkiTdqM0/edit#heading=h.n69fg0cdulli){:target="_blank"}
 * [Deep Work: Rules for Focused Success in a Distracted World by Cal Newport](https://docs.google.com/document/d/1NZ3eAyPmGUQ_qSy5VktgXa94AuG6TlpZtUanl3Ntnwc/edit){:target="_blank"}
 
