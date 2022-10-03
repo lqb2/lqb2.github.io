@@ -8,9 +8,9 @@ title: About
 >I believe in the power of love to create justice and the power of story to make new worlds possible. I imagine radical alternatives to our existing reality not as an escape but as a strategy. I dream of a world where liberation is practiced all the time (not imagined as "over there" or "in the future"). My work in building that world is to support transformation at all scales. 
 
 <figure>
-  <a href="https://imgur.com/a/uLMYt3O" target="_blank"><img alt="Lawrence Barriner II" src="https://i.imgur.com/jEatYBg.jpg"/></a>
+  <a href="https://imgur.com/a/uLMYt3O" target="_blank"><img alt="Lawrence Barriner II" src="https://i.imgur.com/bzfe8H5.jpg"/></a>
   <figcaption>
-    Photo by <a href="https://www.maureenwhitephotography.com">Maureen White</a>.
+    Photo by <a href="https://www.peterforbes.org">Peter Forbes</a>.
   </figcaption>
 </figure>
 

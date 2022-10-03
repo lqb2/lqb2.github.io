@@ -5,8 +5,8 @@
     <description>transform yourself, transform the world — grace lee boggs</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed/index.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 16 May 2022 17:55:52 -0400</pubDate>
-    <lastBuildDate>Mon, 16 May 2022 17:55:52 -0400</lastBuildDate>
+    <pubDate>Sun, 02 Oct 2022 20:19:13 -0400</pubDate>
+    <lastBuildDate>Sun, 02 Oct 2022 20:19:13 -0400</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
     
       
@@ -29,7 +29,7 @@
 &lt;p&gt;word count: 169&lt;/p&gt;
 
           </description>
-          <pubDate>Tue, 01 Feb 2022 00:00:00 -0400</pubDate>
+          <pubDate>Tue, 01 Feb 2022 00:00:00 -0500</pubDate>
           <link>http://localhost:4000/blog/2022/02/01/daily-journal.html</link>
           <guid isPermaLink="true">http://localhost:4000/blog/2022/02/01/daily-journal.html</guid>
           
@@ -59,7 +59,7 @@
 &lt;p&gt;word count: 153&lt;/p&gt;
 
           </description>
-          <pubDate>Mon, 31 Jan 2022 00:00:00 -0400</pubDate>
+          <pubDate>Mon, 31 Jan 2022 00:00:00 -0500</pubDate>
           <link>http://localhost:4000/blog/2022/01/31/daily-journal.html</link>
           <guid isPermaLink="true">http://localhost:4000/blog/2022/01/31/daily-journal.html</guid>
           
@@ -401,7 +401,7 @@ For more info, please see my [bio](http://lqb2.co/about) or [my online CV](http:
  --&gt;
 
           </description>
-          <pubDate>Sun, 30 Dec 2018 00:00:00 -0400</pubDate>
+          <pubDate>Sun, 30 Dec 2018 00:00:00 -0500</pubDate>
           <link>http://localhost:4000/2018/12/30/coaching.html</link>
           <guid isPermaLink="true">http://localhost:4000/2018/12/30/coaching.html</guid>
           
