@@ -7,13 +7,15 @@ this is a list of things i do out in the wide wild world. it's kind of like a CV
 
 ### Upcoming
 
-* [life radio](https://www.liferadiopodcast.com/){:target="_blank"} - Season 3! Est'd release: Fall 2022
-* [The Wonder Dome](https://mindfulcreative.coach/the-wonder-dome/){:target="_blank"} - Panel episode with Michael Bobbitt & Yotam Schachter
+* [life radio](https://www.liferadiopodcast.com/){:target="_blank"} - Season 3! Estimated release date: TBD
+* [liberation tarot](https://pmpress.org/index.php?l=product_detail&p=1499){:target="_blank"} Estimated release date: TBD
+
 
 ### 2022
 
 * [Networks That Build Black Futures](https://mailchi.mp/65a1981c738e/networks-that-build-black-futures-the-black-social-change-economy-5239456){:target="_blank"} (18 Feb)
 * [Podcast: Enough is Enough (6 episodes)](https://anchor.fm/enoughisenoughisenough){:target="_blank"} (20 Jan)
+* [The Wonder Dome: #106 Facing the Violence Within (with Lawrence Barriner and Yotam Schachter)](https://podcasts.apple.com/us/podcast/106-facing-the-violence-within-with-lawrence/id1508389232?i=1000577093794){:target="_blank"} (23 Aug)
 
 ### 2021
 
