@@ -16,6 +16,7 @@ this is a list of things i do out in the wide wild world. it's kind of like a CV
 * [Networks That Build Black Futures](https://mailchi.mp/65a1981c738e/networks-that-build-black-futures-the-black-social-change-economy-5239456){:target="_blank"} (18 Feb)
 * [Podcast: Enough is Enough (6 episodes)](https://anchor.fm/enoughisenoughisenough){:target="_blank"} (20 Jan)
 * [The Wonder Dome: #106 Facing the Violence Within (with Lawrence Barriner and Yotam Schachter)](https://podcasts.apple.com/us/podcast/106-facing-the-violence-within-with-lawrence/id1508389232?i=1000577093794){:target="_blank"} (23 Aug)
+* [ManKind Project USA: Lawrence Barriner II: Creating a Post-Patriarchy Future](https://newengland.mkpusa.org/lawrence-barriner-ii-creating-a-post-patriarchy-future/){:target="_blank"} (5 Oct)
 
 ### 2021
 
