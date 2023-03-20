@@ -64,6 +64,8 @@ this is a list of things i do out in the wide wild world. it's kind of like a CV
 * [Unleashing Alternative Futures workshop w/ Grant Williams]() (24, 26, 30 Jan 2018)
 
 ### 2017
+* [Online Book Club - Collective Courage: A History of African American Cooperative Economic Thought and Practice](https://collectivecouragebookclub.wordpress.com/){:target="_blank"} (w/ Nene Igietseme) (Oct - Nov 2018)
+* [Podcast: The Intersectional Enneagram](https://intersectionalenneagram.tumblr.com/){:target="_blank"} (w/ Abraham Lateiner) (Aug 2017 - July 2019)
 * [#The4thBoxVideo](https://www.youtube.com/watch?v=5amBkni2TyY) (21 June 2017)
 - Personal Storytelling for Social Change @ the Podcast Garage ([Offering #1](https://www.podcastgarage.org/events/2017/8/5/personal-storytelling-for-social-change), [Offering #2](https://www.podcastgarage.org/events/2017/8/5/personal-storytelling-for-social-change-h3kpf))
 * [Talking about Race at Passovers Seders](http://bit.ly/TalkingAboutRaceAtPassoverSeders)
