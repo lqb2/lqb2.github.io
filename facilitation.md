@@ -13,9 +13,17 @@ Hi! I'm excited to support you and/or your organization in your work! Below you'
 
 ### Training/Background
 
-#### 2021
+#### 2023
+
+* [**SEEDS 40-Hour Conflict Resolution and Mediation Certification**](https://www.seedscrc.org/mediation-certification){:target="_blank"}
+
+#### 2022
 
 * [**Coaching for Healing, Justice, & Liberation**](https://www.healingjusticeliberation.org/){:target="_blank"}: [Intro to Liberatory Coaching](https://www.healingjusticeliberation.org/cohort){:target="_blank"} (2021 - 2022)
+
+
+#### 2021
+
 * [**Rockwood Leadership Institute**](https://rockwoodleadership.org/): [Virtual Art of Leadership](https://rockwoodleadership.org/vaol/){:target="_blank"}
 
 #### 2020
