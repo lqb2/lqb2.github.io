@@ -8,7 +8,7 @@ this is a list of things i do out in the wide wild world. it's kind of like a CV
 ### Upcoming
 
 * [life radio](https://www.liferadiopodcast.com/){:target="_blank"} - Season 3! Estimated release date: TBD
-* [liberation tarot](https://pmpress.org/index.php?l=product_detail&p=1499){:target="_blank"} Estimated release date: TBD
+* [liberation tarot](https://tinyurl.com/LiberationTarot){:target="_blank"} kickstarter live july & aug 2023
 
 
 ### 2022
@@ -16,6 +16,7 @@ this is a list of things i do out in the wide wild world. it's kind of like a CV
 * [ManKind Project USA: Lawrence Barriner II: Creating a Post-Patriarchy Future](https://newengland.mkpusa.org/lawrence-barriner-ii-creating-a-post-patriarchy-future/){:target="_blank"} (5 Oct)
 * [The Wonder Dome: #106 Facing the Violence Within (with Lawrence Barriner and Yotam Schachter)](https://podcasts.apple.com/us/podcast/106-facing-the-violence-within-with-lawrence/id1508389232?i=1000577093794){:target="_blank"} (23 Aug)
 * [A Taste of the Benefit Concert for Better Selves Fellowships 2022](https://www.youtube.com/watch?v=xe9oPMA2vMU&t=156s){:target="_blank"} (Aug)
+* [Zine: all that we touch we change – reflections on transformative networks](https://drive.google.com/file/d/1Zsgax5GdJTKe9xaIoV3_1fRQ2Pm4yPZz/view?usp=drive_link){:target="_blank"}
 * [Networks That Build Black Futures](https://mailchi.mp/65a1981c738e/networks-that-build-black-futures-the-black-social-change-economy-5239456){:target="_blank"} (18 Feb)
 * [Podcast: Enough is Enough (6 episodes)](https://anchor.fm/enoughisenoughisenough){:target="_blank"} (20 Jan)
 
