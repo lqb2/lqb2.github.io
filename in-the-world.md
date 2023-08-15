@@ -8,8 +8,11 @@ this is a list of things i do out in the wide wild world. it's kind of like a CV
 ### Upcoming
 
 * [life radio](https://www.liferadiopodcast.com/){:target="_blank"} - Season 3! Estimated release date: TBD
-* [liberation tarot](https://tinyurl.com/LiberationTarot){:target="_blank"} kickstarter live july & aug 2023
 
+
+### 2023
+
+* [liberation tarot](https://tinyurl.com/LiberationTarot){:target="_blank"} kickstarter live 17 july - 18 aug 2023
 
 ### 2022
 
