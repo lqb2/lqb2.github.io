@@ -7,12 +7,18 @@ this is a list of things i do out in the wide wild world. it's kind of like a CV
 
 ### Upcoming
 
-* [life radio](https://www.liferadiopodcast.com/){:target="_blank"} - Season 3! Estimated release date: TBD
+* [Life Radio](https://www.liferadiopodcast.com/){:target="_blank"} - Season 3! Estimated release date: TBD
 
+### 2024
+
+* TBD
 
 ### 2023
 
-* [liberation tarot](https://tinyurl.com/LiberationTarot){:target="_blank"} kickstarter live 17 july - 18 aug 2023
+* [Podcast: We are What we Practice](http://lqb2.co/practice){:target="_blank"} (Dec 2023 - Jan 2024)
+* [Liberation Tarot Kickstarter](https://tinyurl.com/LiberationTarot){:target="_blank"} (Kickstarter live 17 July - 18 Aug 2023)
+    * Buy the deck [here](https://pmpress.org/index.php?l=product_detail&p=1499){:target="_blank"}
+* [Boston Ujima Project Newsletter — #Men’sWork Edition](https://bostonujima.medium.com/menswork-edition-a27e37708bc8){:target="_blank"} (20 April 2023)
 
 ### 2022
 
