@@ -3,11 +3,13 @@ layout: page
 title: we are what we practice
 ---
 
-click [here](https://www.buzzsprout.com/2282592/share){:target="_blank"} to find it on your fav podcast platform (except for some reason it's not on apple podcasts yet).
+[click here to find it on your fav podcast platform](https://www.buzzsprout.com/2282592/share){:target="_blank"}.
 
-or you can listen below. 
+or you can listen right on this page down below. 
 
 =)
+
+---
 
 <div id='buzzsprout-large-player'></div><script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/2282592.js?container_id=buzzsprout-large-player&player=large'></script>
 
