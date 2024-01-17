@@ -23,7 +23,7 @@ this is a list of things i do out in the wide wild world. it's kind of like a CV
 ### 2022
 
 * [ManKind Project USA: Lawrence Barriner II: Creating a Post-Patriarchy Future](https://newengland.mkpusa.org/lawrence-barriner-ii-creating-a-post-patriarchy-future/){:target="_blank"} (5 Oct)
-* [The Wonder Dome: #106 Facing the Violence Within (with Lawrence Barriner and Yotam Schachter)](https://podcasts.apple.com/us/podcast/106-facing-the-violence-within-with-lawrence/id1508389232?i=1000577093794){:target="_blank"} (23 Aug)
+* [The Wonder Dome: #106 Facing the Violence Within (with Lawrence Barriner and Yotam Schachter)](https://wonderdome.substack.com/p/106-facing-the-violence-within-with-2be){:target="_blank"} (23 Aug)
 * [A Taste of the Benefit Concert for Better Selves Fellowships 2022](https://www.youtube.com/watch?v=xe9oPMA2vMU&t=156s){:target="_blank"} (Aug)
 * [Zine: all that we touch we change – reflections on transformative networks](https://drive.google.com/file/d/1Zsgax5GdJTKe9xaIoV3_1fRQ2Pm4yPZz/view?usp=drive_link){:target="_blank"}
 * [Networks That Build Black Futures](https://mailchi.mp/65a1981c738e/networks-that-build-black-futures-the-black-social-change-economy-5239456){:target="_blank"} (18 Feb)
@@ -31,7 +31,7 @@ this is a list of things i do out in the wide wild world. it's kind of like a CV
 
 ### 2021
 
-* [The Wonder Dome: #75 Making New Worlds Possible (with Lawrence Barriner II)](https://mindfulcreative.coach/the-wonder-dome/2021/10/19/75-lawrence-barriner){:target="_blank"} (19 Oct)
+* [The Wonder Dome: #75 Making New Worlds Possible (with Lawrence Barriner II)](https://wonderdome.substack.com/p/75-making-new-worlds-possible-with-910){:target="_blank"} (19 Oct)
 * [6-week POC Meditation & Storytelling series](https://docs.google.com/document/d/1X0WiPZ8srwWC6SZrD9qVsmDTNQ4gW6YWbDw4tammFU8/edit){:target="_blank"} (May 6 - June 10)
 
 ### 2020
