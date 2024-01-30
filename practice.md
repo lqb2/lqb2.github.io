@@ -3,6 +3,13 @@ layout: page
 title: we are what we practice
 ---
 
+we are what we practice is hosted by me, lawrence barriner ii, produced and sound designed by ray pang. our music was created by justin jiménez (aka [savio](https://soundcloud.com/saviofromboston){:target="_blank"}). the name of this show is inspired by a line i heard from [alta starr](https://makingandbeing.com/chapters/entry-points/cultivating-the-self.html){:target="_blank"}:
+
+> We become what we practice. And we are always practicing something. 
+
+the show is also inspired by the work of prentis hemphill and the late podcast: irresistible. 
+
+
 [click here to find it on your fav podcast platform](https://www.buzzsprout.com/2282592/share){:target="_blank"}.
 
 or you can listen right on this page down below. 
