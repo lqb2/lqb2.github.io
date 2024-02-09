@@ -30,6 +30,8 @@ If you are changing the world to make it a place where more beings can be free a
 
 I prioritize working with BIPOC clients but love working with anyone who is ready to take a transformative leap. 
 
+I especially find resonance working with men who are working or wanting to work towards dismantling patriarchy in and around themselves.
+
 ### The Details
 
 Working with me as a coach generally starts with a free 30-minute chemistry call ([bookable here](https://calendly.com/lqb2co/coaching-chemistry-call){:target="_blank"}) for us to explore if we are a good fit for working together.
