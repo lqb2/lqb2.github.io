@@ -11,7 +11,7 @@ this is a list of things i do out in the wide wild world. it's kind of like a CV
 
 ### 2024
 
-* TBD
+* [Liberation Tarot Deck](https://pmpress.org/index.php?l=product_detail&p=1499){:target="_blank"}
 
 ### 2023
 

@@ -1,17 +1,20 @@
 - title: About
   url: /about.html
 
-- title: Blog
-  url: http://lqb2.co/blog/
+- title: Work with Me
+  url: /work.html
 
-- title: Coaching
-  url: /coaching.html
+# - title: Coaching
+#   url: /coaching.html
 
-- title: Facilitation
-  url: /facilitation.html
+# - title: Facilitation
+#   url: /facilitation.html
 
 - title: In the World
   url: /in-the-world.html
+
+- title: Blog
+  url: http://lqb2.co/blog/
 
 - title: Contact
   url: /contact.html

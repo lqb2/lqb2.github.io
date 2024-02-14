@@ -5,9 +5,14 @@ title: Collaborators
 
 > Show me your friends and I'll show you your future. — Unknown
 
+## 2023 Collaborators
+
+* [Maureen White Consulting](https://www.maureenwhiteconsulting.com/){:target="_blank"}
+* [Yoojin Lee](https://www.linkedin.com/in/leeyoojin){:target="_blank"}
+
 ## 2022 Collaborators
 
-* Maureen White: [Consulting](https://www.maureenwhiteconsulting.com/){:target="_blank"}, [Coaching](https://www.maureenwhitecoaching.com/){:target="_blank"}
+* [Maureen White Consulting](https://www.maureenwhiteconsulting.com/){:target="_blank"}
 
 
 ## 2021 Collaborators
