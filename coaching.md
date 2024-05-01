@@ -57,6 +57,9 @@ For anyone I work with individually (personal systems coaching or liberatory coa
 
 I will wrapping up with my current slate of incredible coach partners sometime around April 2024.  I have 1-2 slots available starting in January and then a whole slew (slough? sloo?) of slots open starting in May/June. If you're interested, let's do a ([chemistry call](https://calendly.com/lqb2co/coaching-chemistry-call){:target="_blank"} by the end of April 2024 so we can see if we're a good match. 
 
+UPDATE 1 May 2024: my coaching plate is approaching full. Chemistry calls booked after today may be canceled once my coaching plate is full. My next availability for new coach partners will likely be late 2024/early 2025. 
+
+
 <!-- <a href="https://docs.google.com/document/d/13xo9AVBAwLvDvbbsAz75qYpcb1vpnCh_IYxLE8zlRbA/edit#heading=h.u8d6ynd4gbr2" target="_blank">Here's a rundown of what it could look like to work with me in 2023.</a> -->
 
 <!-- My coaching plate for 2022 is full and I am beginning to plan out my coaching schedule for 2023. If you are interested in working with me as a coach next year, please add yourself to the waitlist <a href="https://forms.gle/hBX8mk92zdbox8UK9" target="_blank">here</a>. You'll hear word in November or December about how to get yourself off the waitlist and into a slot! -->
