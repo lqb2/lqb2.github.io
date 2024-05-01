@@ -55,7 +55,7 @@ For anyone I work with individually (personal systems coaching or liberatory coa
 
 ## Working with me in 2024
 
-I will wrapping up with my current slate of incredible coach partners sometime around April 2024.  I have 1-2 slots available starting in January and then a whole slew (slough? sloo?) of slots open starting in May/June. If you're interested, let's do a ([chemistry call](https://calendly.com/lqb2co/coaching-chemistry-call){:target="_blank"} by the end of April 2024 so we can see if we're a good match. 
+I will wrapping up with my current slate of incredible coach partners sometime around April 2024.  I have 1-2 slots available starting in January and then a whole slew (slough? sloo?) of slots open starting in May/June. If you're interested, let's do a ([resonance call](https://calendly.com/lqb2co/coaching-chemistry-call){:target="_blank"} by the end of April 2024 so we can see if we're a good match (thanks to Jen Kiok for the inspiration to use the word resonance here, rather than 'chemistry check' which is the word I previously used).
 
 UPDATE 1 May 2024: my coaching plate is approaching full. Chemistry calls booked after today may be canceled once my coaching plate is full. My next availability for new coach partners will likely be late 2024/early 2025. 
 
