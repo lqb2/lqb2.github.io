@@ -25,6 +25,7 @@ Hi! I'm excited to support you and/or your organization in your work! Below you'
 #### 2021
 
 * [**Rockwood Leadership Institute**](https://rockwoodleadership.org/): [Virtual Art of Leadership](https://rockwoodleadership.org/vaol/){:target="_blank"}
+* [**Personal Knowledge Mastery**](https://jarche.com/pkm/){:target="_blank"}
 
 #### 2020
 
@@ -67,20 +68,61 @@ Hi! I'm excited to support you and/or your organization in your work! Below you'
 
 <center><hr></center>
 
+### Partial 2023 Client list
+
+<ul>
+<li><a href="https://neighborhoodbirthcenter.org/" target="_blank">Neighborhood Birth Center</a></li>
+<li><a href="https://managementcenter.org/" target="_blank">The Management Center</a></li>
+<li><a href="https://www.urbanfarminginstitute.org/" target="_blank">Urban Farming Institute</a></li>
+<li><a href="https://chorusfoundation.org/" target="_blank">Chorus Foundation</a></li>
+<li><a href="https://www.thecityschool.org/" target="_blank">The City School</a></li>
+<li><a href="https://www.ujimaboston.com/" target="_blank">Ujima</a></li>
+</ul> 
+
+### Partial 2022 Client list
+
+<ul>
+<li><a href="https://nefoclandtrust.org/" target="_blank">Northeast Farmers of Color Land Trust</a></li>
+<li><a href="https://www.rsclark.org/" target="_blank">Robert Sterling Clark Foundation</a></li>
+<li><a href="https://foodsolutionsne.org/" target="_blank">Food Solutions New England</a></li>
+<li><a href="https://communityrootshousing.org/" target="_blank">Community Roots Housing</a></li>
+<li><a href="https://peoplesaction.org/" target="_blank">People's Action (Coaching)</a></li>
+<li><a href="https://resourcegeneration.org/" target="_blank">Resource Generation</a></li>
+<li><a href="https://birthcenterequity.org/" target="_blank">Birth Center Equity</a></li>
+<li><a href="https://thelennyzakimfund.org/" target="_blank">Lenny Zakim Fund</a></li>
+<li><a href="https://www.newtonma.gov/" target="_blank">City of Newton</a></li>
+<li><a href="https://theupcenter.org/" target="_blank">The Up Center</a></li>
+<li><a href="https://www.agrariantrust.org/" target="_blank">Agrarian Trust</a></li>
+<li><a href="https://www.bostonfarms.org/" target="_blank">Boston Farms</a></li>
+<li><a href="https://www.nearness.coop/" target="_blank">The Nearness</a></li>
+<li><a href="https://wearesage.org/" target="_blank">Sage</a></li>
+
+</ul> 
+
+### Partial 2021 Client list
+
+<ul>
+<li><a href="https://sustainmovements.org/" target="_blank">Movement Sustainability Commons</a></li>
+<li><a href="https://www.storybasedstrategy.org/" target="_blank">Center for Story-based Strategy</a></li>
+<li><a href="https://roddenberryfellowship.org/" target="_blank">Roddenberry Fellowship (Coaching)</a></li>
+<li><a href="https://ucsusa.org/" target="_blank">Union of Concerned Scientists</a></li>
+<li><a href="https://www.beautifulventures.com/" target="_blank">Beautiful Ventures</a></li>
+<li><a href="https://www.bc.edu/" target="_blank">Boston College</a></li>
+<li><a href="https://www.wearecocreative.com/" target="_blank">CoCreative</a></li>
+<li><a href="https://grist.org" target="_blank">Grist</a></li>
+</ul> 
 
 ### Partial 2020 Client list
 
 <ul>
-<li><a href="http://interactioninstitute.org/">Interaction Institute for Social Change</a></li>
-<li><a href="https://www.gsd.harvard.edu/">Harvard Graduate School of Design</a></li>
-<li><a href="https://ucsusa.org/">Union of Concerned Scientists</a></li>
-<li><a href="https://www.tides.org/">Tides Foundation</a></li>
-<li><a href="https://www.bc.edu/">Boston College</a></li>
-<li><a href="https://walkboston.org">WalkBoston</a></li>
-<li><a href="https://www.wearecocreative.com/">CoCreative</a></li>
-<li><a href="https://grist.org">Grist</a></li>
-
-
+<li><a href="http://interactioninstitute.org/" target="_blank">Interaction Institute for Social Change</a></li>
+<li><a href="https://www.gsd.harvard.edu/" target="_blank">Harvard Graduate School of Design</a></li>
+<li><a href="https://ucsusa.org/" target="_blank">Union of Concerned Scientists</a></li>
+<li><a href="https://www.tides.org/" target="_blank">Tides Foundation</a></li>
+<li><a href="https://www.bc.edu/" target="_blank">Boston College</a></li>
+<li><a href="https://walkboston.org" target="_blank">WalkBoston</a></li>
+<li><a href="https://www.wearecocreative.com/" target="_blank">CoCreative</a></li>
+<li><a href="https://grist.org" target="_blank">Grist</a></li>
 </ul>            
 
     
@@ -89,6 +131,13 @@ Hi! I'm excited to support you and/or your organization in your work! Below you'
 
 
 ### Testimonials
+
+> “Really liked the adaptability and flexibility in the [retreat] design. I think that it really modeled an emergent kind of practice.” <br> — _2022 BIPOC team retreat participant_
+
+> “Lawrence, your joy is contagious, and I appreciate that you brought your whole self to the workshop.” <br> — _2022 workshop participant_
+
+> “You are among the most authentic presenters I have experienced on Zoom. It felt as far away from Zoom as one can feel. Your message and content from the slides are evident that they come true from the heart.” <br> — _2022 workshop participant_
+
 
 > Hi Lawrence,
 A note to say I appreciate you so much.  Thank you for your sensitive, generous and creative facilitation.  You have a very special presence. <br> _— 2020 Spring workshop participant_
