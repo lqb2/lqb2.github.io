@@ -13,13 +13,17 @@ Hi! I'm excited to support you and/or your organization in your work! Below you'
 
 ### Training/Background
 
+#### 2024
+
+* [**The Management Center**](https://www.managementcenter.org/): [Managing to Change the World](https://www.managementcenter.org/trainings/){:target="_blank"}
+
 #### 2023
 
-* [**SEEDS 40-Hour Conflict Resolution and Mediation Certification**](https://www.seedscrc.org/mediation-certification){:target="_blank"}
+* [**SEEDS: 40-Hour Conflict Resolution and Mediation Certification**](https://www.seedscrc.org/mediation-certification){:target="_blank"}
 
 #### 2022
 
-* [**Coaching for Healing, Justice, & Liberation**](https://www.healingjusticeliberation.org/){:target="_blank"}: [Intro to Liberatory Coaching](https://www.healingjusticeliberation.org/cohort){:target="_blank"} (2021 - 2022)
+* [**Coaching for Healing, Justice, & Liberation**](https://www.healingjusticeliberation.org/){:target="_blank"}: [Liberatory Coaching Certification Program](https://healingjusticeliberation.org/liberatory-coaching-certification-program){:target="_blank"} (2021 - 2022)
 
 
 #### 2021
