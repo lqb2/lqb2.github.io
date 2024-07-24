@@ -59,6 +59,8 @@ I will wrapping up with my current slate of incredible coach partners sometime a
 
 UPDATE 1 May 2024: my coaching plate is approaching full. Chemistry calls booked after today may be canceled once my coaching plate is full. My next availability for new coach partners will likely be late 2024/early 2025. 
 
+UPDATE 24 July 2024: my 2024 coaching plate is full. You are welcome to book a resonance call with me whenever feels right for you. My next openings for coaching begin in Feb 2025. 
+
 
 <!-- <a href="https://docs.google.com/document/d/13xo9AVBAwLvDvbbsAz75qYpcb1vpnCh_IYxLE8zlRbA/edit#heading=h.u8d6ynd4gbr2" target="_blank">Here's a rundown of what it could look like to work with me in 2023.</a> -->
 
