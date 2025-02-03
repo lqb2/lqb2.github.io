@@ -11,11 +11,20 @@ title: Coaching Testimonials
 
 “I appreciate that Lawrence helped me expand my vision for what is possible in my and our collective futures! He has helped me identify what is important to me on a deeper level and gain confidence to pursue my dreams.”
 
+
+
+
 “Your sense of humor, your honesty, your curiosity and your ability to push back when you need to.”
+
+<br>
 
 “I appreciate Lawrence’s presence and curiosity.”
 
+<br>
+
 “I appreciate your ability to turn any moment into a moment of coaching, learning, building or celebration.”
+
+<br>
 
 “I very much started to open more ways to coach myself through challenges or learn what small steps I needed to create for myself when I was having a hard time.”
 
