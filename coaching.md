@@ -53,13 +53,15 @@ For anyone I work with individually (personal systems coaching or liberatory coa
 
 <center><hr></center>
 
-## Working with me in 2024
+## Working with me in 2025
 
-I will wrapping up with my current slate of incredible coach partners sometime around April 2024.  I have 1-2 slots available starting in January and then a whole slew (slough? sloo?) of slots open starting in May/June. If you're interested, let's do a ([resonance call](https://calendly.com/lqb2co/coaching-chemistry-call){:target="_blank"} by the end of April 2024 so we can see if we're a good match (thanks to Jen Kiok for the inspiration to use the word resonance here, rather than 'chemistry check' which is the word I previously used).
+I am excited to open to begin work with 4 new coach partners in 2025. I will be doing intake in Feb/March and starting with the new folks in March/April. If you're interested, go ahead and book a [resonance call](https://calendly.com/lqb2co/coaching-resonance){:target="_blank"} by the end of Feb (thanks to Jen Kiok for the inspiration to use the word resonance here, rather than 'chemistry check' which is what I used to say).
+
+<!-- I will wrapping up with my current slate of incredible coach partners sometime around April 2024.  I have 1-2 slots available starting in January and then a whole slew (slough? sloo?) of slots open starting in May/June. If you're interested, let's do a ([resonance call](https://calendly.com/lqb2co/coaching-resonance){:target="_blank"} by the end of April 2024 so we can see if we're a good match (thanks to Jen Kiok for the inspiration to use the word resonance here, rather than 'chemistry check' which is the word I previously used).
 
 UPDATE 1 May 2024: my coaching plate is approaching full. Chemistry calls booked after today may be canceled once my coaching plate is full. My next availability for new coach partners will likely be late 2024/early 2025. 
 
-UPDATE 24 July 2024: my 2024 coaching plate is full. You are welcome to book a resonance call with me whenever feels right for you. My next openings for coaching begin in Feb 2025. 
+UPDATE 24 July 2024: my 2024 coaching plate is full. You are welcome to book a resonance call with me whenever feels right for you. My next openings for coaching begin in Feb 2025.  -->
 
 
 <!-- <a href="https://docs.google.com/document/d/13xo9AVBAwLvDvbbsAz75qYpcb1vpnCh_IYxLE8zlRbA/edit#heading=h.u8d6ynd4gbr2" target="_blank">Here's a rundown of what it could look like to work with me in 2023.</a> -->
@@ -84,7 +86,7 @@ UPDATE 24 July 2024: my 2024 coaching plate is full. You are welcome to book a r
 > I appreciate Lawrence’s active listening and deep engagement with what I expressed as my goals, struggles, and challenges. While his practice had its own shape, it felt very much like Lawrence adapted his coaching practice to the goals that I wanted to achieve, the problems I identified, and the shifts I wanted to make (and learned that I wanted to make through coaching!)...
 — [Miriam M.]({{ site.baseurl }}events/2020/10/16/coaching-testimonial-miriam.html)
 
-
+[More Testimonials]({{ site.baseurl }}coaching-testimonials)
 
 
 <center><hr></center>
