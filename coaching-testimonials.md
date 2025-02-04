@@ -17,11 +17,11 @@ title: Coaching Testimonials
 
 <br>
 
-“I very much started to open more ways to coach myself through challenges or learn what small steps I needed to create for myself when I was having a hard time.”
+**While we worked together, what changed or shifted for you?:** “I very much started to open more ways to coach myself through challenges or learn what small steps I needed to create for myself when I was having a hard time.”
 
 <br>
 
-What did you like about coaching with me? What worked for you?: “the intuitiveness; the spirituality; the magic; the surrender to timing; the time travel”
+**What did you like about coaching with me? What worked for you?:** “the intuitiveness; the spirituality; the magic; the surrender to timing; the time travel”
 
 <br>
 
@@ -30,6 +30,8 @@ What did you like about coaching with me? What worked for you?: “the intuitive
 <br>
 
 **While we worked together, what changed or shifted for you?:** “I feel more profoundly more confidence and trust in the landscape I am transforming in my internal and external life and that the pain I felt at not fitting into the world before isn’t the pain of me being broken or wrong but the signposts to build the world that serves my soul.”
+
+<br>
 
 **While we worked together, what changed or shifted for you?:** “I very much started to open more ways to coach myself through challenges or learn what small steps I needed to create for myself when I was having a hard time.”
 
