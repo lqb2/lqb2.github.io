@@ -56,5 +56,9 @@ title: Coaching Testimonials
 
 <center><hr></center>
 
-<center>[Back to Coaching]({{ site.baseurl }}coaching)</center>
+<center> 
+
+[Back to Coaching]({{ site.baseurl }}coaching)
+ 
+ </center>
 
