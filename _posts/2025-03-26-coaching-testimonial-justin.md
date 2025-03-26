@@ -25,5 +25,6 @@ Your ability to turn any moment into a moment of coaching, learning, building or
 — [Justin Jiménez](https://www.instagram.com/saviofromboston?igsh=MTBqc3NjdHMwOHZjOA==){:target="_blank"}
 
 <br>
+
 [Back]({{ site.baseurl}}/coaching)
 

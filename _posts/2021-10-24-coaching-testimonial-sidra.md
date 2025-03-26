@@ -17,4 +17,5 @@ Lawrence is a great companion to walk alongside you in your journey toward self 
 — [Sidra F.](https://www.linkedin.com/in/sidrafatima/){:target="_blank"}
 
 <br>
+
 [Back]({{ site.baseurl}}/coaching)
