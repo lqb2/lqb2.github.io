@@ -74,9 +74,11 @@ UPDATE 24 July 2024: my 2024 coaching plate is full. You are welcome to book a r
 ## Testimonials
 
 
+> Coaching has helped me develop sustainable systems that as I continue to work on them become more resilient and capable of operating in a way that is continuous, steady, adaptable, open, celebratory, and grounded. — [Justin J.]({{ site.baseurl }}events/2025/03/26/coaching-testimonial-justin.html)
+
 > Lawrence is the first professional I have worked with, whom have made me feel safe enough to share myself all the way through. He masters the fine balance of sharing himself to ensure a safe space, while keeping it professional and the focus on you. He is amazing at feeling what is needed it the moment, while directing me forward, towards my goals. — [Niklas W.]({{ site.baseurl }}events/2021/10/24/coaching-testimonial-niklas.html) 
 
-> Lawrence is a great companion to walk alongside you in your journey toward self development and actualizing your career goals. With a radical & holistic approach, he can help you unearth the secrets you already have within. — [Sidra F.]({{ site.baseul }}events/2021/10/24/coaching-testimonial-sidra.html)
+> Lawrence is a great companion to walk alongside you in your journey toward self development and actualizing your career goals. With a radical & holistic approach, he can help you unearth the secrets you already have within. — [Sidra F.]({{ site.baseurl }}events/2021/10/24/coaching-testimonial-sidra.html)
 
 > Lawrence has had a transformative effect on my life in the past few years... Life-coaching is at times an inadequate term for what this process looks like... And the remarkable thing has been that when we have set intentions, goals, and done these visioning exercises... usually within a year of me articulating an intention, my life transforms in such a manner that those intentions are realized. — [Huma G.]({{ site.baseurl}}events/2020/10/11/coaching-testimonial-huma.html)
 
