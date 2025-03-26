@@ -33,10 +33,6 @@ title: Coaching Testimonials
 
 <br>
 
-**What do you appreciate about me as a coach?:** “Your sense of humor, your honesty, your curiosity and your ability to push back when you need to.”
-
-<br>
-
 **What do you appreciate about me as a coach?:** “You are tuned in. The phenomenons we encounter in being human are held with a generous easeful sense of care that enlightens and lightens the weight of events that in other spaces may only be diagnosed as trauma. There is an enormous sense of 'everything is possible.' And in every session I am relieved of a tremendous heavy”
 
 <br>
