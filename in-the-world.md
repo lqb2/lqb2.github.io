@@ -9,9 +9,10 @@ this is a list of things i do out in the wide wild world. it's kind of like a CV
 
 * [Life Radio](https://www.liferadiopodcast.com/){:target="_blank"} - Season 3! Estimated release date: TBD
 
-### 2024
 
-* [Grief Ritual for Men](https://www.eventbrite.com/e/mens-grief-ritual-tickets-1104884181329){:target='_blank'}(15 Feb)
+### 2025
+
+* [Grief Ritual for Men](https://www.eventbrite.com/e/mens-grief-ritual-tickets-1104884181329){:target='_blank'} (15 Feb)
 
 
 ### 2024
