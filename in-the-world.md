@@ -11,14 +11,19 @@ this is a list of things i do out in the wide wild world. it's kind of like a CV
 
 ### 2024
 
+* [Grief Ritual for Men](https://www.eventbrite.com/e/mens-grief-ritual-tickets-1104884181329){:target='_blank'}(15 Feb)
+
+
+### 2024
+
 * [Liberation Tarot Deck](https://pmpress.org/index.php?l=product_detail&p=1499){:target="_blank"}
 
 ### 2023
 
 * [Podcast: We are What we Practice](http://lqb2.co/practice){:target="_blank"} (Dec 2023 - Feb 2024)
-* [Liberation Tarot Kickstarter](https://tinyurl.com/LiberationTarot){:target="_blank"} (Kickstarter live 17 July - 18 Aug 2023)
+* [Liberation Tarot Kickstarter](https://tinyurl.com/LiberationTarot){:target="_blank"} (Kickstarter live 17 July - 18 Aug)
     * Buy the deck [here](https://pmpress.org/index.php?l=product_detail&p=1499){:target="_blank"}
-* [Boston Ujima Project Newsletter — #Men’sWork Edition](https://bostonujima.medium.com/menswork-edition-a27e37708bc8){:target="_blank"} (20 April 2023)
+* [Boston Ujima Project Newsletter — #Men’sWork Edition](https://bostonujima.medium.com/menswork-edition-a27e37708bc8){:target="_blank"} (20 April)
 
 ### 2022
 
