@@ -55,6 +55,8 @@ For anyone I work with individually (personal systems coaching or liberatory coa
 
 ## Working with me in 2025
 
+UPDATE 8 May 2025: My spring and summer coaching plate is full. My next availability for new coach partners will open in August 2025. Feel free to book a resonance call any time this spring or summer and if we're a match, we'll begin in August or September. 
+
 I am excited to open to begin work with 4 new coach partners in 2025. I will be doing intake in Feb/March and starting with the new folks in March/April. If you're interested, go ahead and book a [resonance call](https://calendly.com/lqb2co/coaching-resonance){:target="_blank"} by the end of Feb (thanks to Jen Kiok for the inspiration to use the word resonance here, rather than 'chemistry check' which is what I used to say).
 
 <!-- I will wrapping up with my current slate of incredible coach partners sometime around April 2024.  I have 1-2 slots available starting in January and then a whole slew (slough? sloo?) of slots open starting in May/June. If you're interested, let's do a ([resonance call](https://calendly.com/lqb2co/coaching-resonance){:target="_blank"} by the end of April 2024 so we can see if we're a good match (thanks to Jen Kiok for the inspiration to use the word resonance here, rather than 'chemistry check' which is the word I previously used).
