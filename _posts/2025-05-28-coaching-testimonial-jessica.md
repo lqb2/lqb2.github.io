@@ -17,9 +17,7 @@ I feel profoundly more confident and trusting in the landscape I am transforming
 
 
 
-<br>
 
-— Jessica Almasy
 
 <br>
 
