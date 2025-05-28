@@ -76,7 +76,7 @@ UPDATE 24 July 2024: my 2024 coaching plate is full. You are welcome to book a r
 ## Testimonials
 
 
-> [After our coaching] I feel profoundly more confident and trusting in the landscape I am transforming in my internal and external life... the pain I felt at not fitting into the world before isn’t the pain of me being broken or wrong, but the signposts to build the world that serves my soul. — [Jessica A.]({{ site.baseurl }})
+> [After our coaching] I feel profoundly more confident and trusting in the landscape I am transforming in my internal and external life... the pain I felt at not fitting into the world before isn’t the pain of me being broken or wrong, but the signposts to build the world that serves my soul. — [Jessica A.]({{ site.baseurl }}events/2025/05/28/coaching-testimonial-jessica.html)
 
 > Coaching has helped me develop sustainable systems that as I continue to work on them become more resilient and capable of operating in a way that is continuous, steady, adaptable, open, celebratory, and grounded. — [Justin J.]({{ site.baseurl }}events/2025/03/26/coaching-testimonial-justin.html)
 
