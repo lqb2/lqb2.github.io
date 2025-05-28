@@ -76,6 +76,8 @@ UPDATE 24 July 2024: my 2024 coaching plate is full. You are welcome to book a r
 ## Testimonials
 
 
+> [After our coaching] I feel profoundly more confident and trusting in the landscape I am transforming in my internal and external life... the pain I felt at not fitting into the world before isn’t the pain of me being broken or wrong, but the signposts to build the world that serves my soul. — [Jessica A.]({{ site.baseurl }})
+
 > Coaching has helped me develop sustainable systems that as I continue to work on them become more resilient and capable of operating in a way that is continuous, steady, adaptable, open, celebratory, and grounded. — [Justin J.]({{ site.baseurl }}events/2025/03/26/coaching-testimonial-justin.html)
 
 > Lawrence is the first professional I have worked with, whom have made me feel safe enough to share myself all the way through. He masters the fine balance of sharing himself to ensure a safe space, while keeping it professional and the focus on you. He is amazing at feeling what is needed it the moment, while directing me forward, towards my goals. — [Niklas W.]({{ site.baseurl }}events/2021/10/24/coaching-testimonial-niklas.html) 
