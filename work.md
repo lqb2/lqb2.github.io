@@ -4,7 +4,9 @@ title: Work with Me
 ---
 
 
-JULY UPDATE: My 2024 work plate is gloriously and thankfully full for this year. I am now scheduling work beginning in Feb 2025. I have not yet discerned my focus for 2025 so for now it's first come, first serve! 
+JULY UPDATE: My 2025 work plate is full for this year. I am now scheduling work beginning in Feb 2026. I have not yet discerned my focus for 2026 so for now it's first come, first serve! 
+
+<!-- 
 
 <center>---</center>
 
@@ -28,7 +30,7 @@ In 2024 my work will be focused in two areas.
 
 **My dream projects in 2024** are designing and facilitating multi-day staff retreats for BIPOC or BIPOC-led organizations with a focus on environmental justice.
 
-It is possible I will take on work projects outside of these focus areas but it is my intention to say no to work beyond this focus so I can keep space open for things inside of it. But the bills must be paid so ¯\\_(ツ)_/¯
+It is possible I will take on work projects outside of these focus areas but it is my intention to say no to work beyond this focus so I can keep space open for things inside of it. But the bills must be paid so ¯\\_(ツ)_/¯ -->
 
 
 
