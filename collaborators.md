@@ -5,10 +5,19 @@ title: Collaborators
 
 > Show me your friends and I'll show you your future. — Unknown
 
+## 2024 Collaborators
+
+* [CoCreative](https://www.wearecocreative.com/){:target='_blank'}
+* [Maureen White Consulting](https://www.maureenwhiteconsulting.com/){:target="_blank"}
+* [Yoojin Lee](https://www.linkedin.com/in/leeyoojin){:target="_blank"}
+* [Luana Morales](https://www.handsofgaiareiki.com/){:target="_blank"}
+* [Eroc Arroyo-Montano](https://www.sonofatabey.com/){:target="_blank"}
+
 ## 2023 Collaborators
 
 * [Maureen White Consulting](https://www.maureenwhiteconsulting.com/){:target="_blank"}
 * [Yoojin Lee](https://www.linkedin.com/in/leeyoojin){:target="_blank"}
+* [CoCreative](https://www.wearecocreative.com/){:target='_blank'}
 
 ## 2022 Collaborators
 

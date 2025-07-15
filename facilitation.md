@@ -13,9 +13,15 @@ Hi! I'm excited to support you and/or your organization in your work! Below you'
 
 ### Training/Background
 
+#### 2025
+
+* [**The Internal Family Systems Institute**](https://ifs-institute.com/online-learning): [IFS Online Circle](https://learn.ifs-institute.com/programs/ifs-online-circle-spring-2025/){:target="_blank"}
+
+
 #### 2024
 
-* [**The Management Center**](https://www.managementcenter.org/): [Managing to Change the World](https://www.managementcenter.org/trainings/){:target="_blank"}
+* [**White Awake**](https://www.comrades.education/){:target='_blank'}: [Study & Action for Palestine](https://mailchi.mp/whiteawake/palestine-solidarity-summer-2024-online-course){:target='_blank'}
+* [**The Management Center**](https://www.managementcenter.org/){:target='_blank'}: [Managing to Change the World](https://www.managementcenter.org/trainings/){:target="_blank"}
 
 #### 2023
 
