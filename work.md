@@ -4,7 +4,7 @@ title: Work with Me
 ---
 
 
-JULY UPDATE: My 2025 work plate is full for this year. I am now scheduling work beginning in Feb 2026. I have not yet discerned my focus for 2026 so for now it's first come, first serve! 
+FEB UPDATE: My 2026 work plate is full (!!!). If you'd like to work with me, I will have space for a few new coaching partners in Fall: details [here](http://lqb2.co/coaching){:target='_blank'}. If you're interested in working together in 2027, shoot me an email: lawrence+2027@lqb2.co. 
 
 <!-- 
 
