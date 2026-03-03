@@ -14,15 +14,15 @@ Like many of us, I get asked to do lots of things (join this board, read this pi
 - Training 3-5 weeks w/ the Rockwood Leadership Institute
 - Facilitating 4 weeks of Better Selves Fellowship
 - Building the Liberatory Healing Center w/ the Movement Sustainability Commons
-- Facilitation the Transformative Justice Practitioners Network w/ the Movement Sustainability Commons
-- Two ongoing Professional Communities of Practice
+- Facilitating the Transformative Justice Practitioners Network w/ the Movement Sustainability Commons
+- Participation in 2 Professional Communities of Practice (Consultant Coffee and CoCreativerse)
 
 
 ## Movement
 
 - Founder and Root Circle (Board) Member of the Bent Birch Retreat Center
-- Two different lanes of Grief Work
 - Connecting with Elders in my community
+- Grief Work
 
 
 ## Men's Work
@@ -33,15 +33,14 @@ Like many of us, I get asked to do lots of things (join this board, read this pi
 
 ## Personal Life
 
-- Surfing
+- Preparing to have and parent a kid with one of my partners
+- Active roles in the lives of several nibblings
 - Four 1-day solo silent meditation retreats
 - Polylife with 2 romantic partners
-- Active roles in the lives of several nibblings
-- Preparing to have and parent a kid with one of my partners
+- Surfing
 
 
 ## Writing
 
 - lqb2weekly newsletter (which is more like monthly)
 - Finishing my first book
-- Various Writing Projects
