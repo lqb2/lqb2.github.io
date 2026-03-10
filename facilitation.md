@@ -7,6 +7,21 @@ Hi! I'm excited to support you and/or your organization in your work! Below you'
 
 >To facilitate means 'to make easier.' — adrienne maree brown
 
+
+<center><hr></center>
+
+
+### Offerings & Areas of Expertise
+
+<ul>
+    <li>Organizational Development</li>
+    <li>Storytelling & Narrative Strategy (Personal and Collective)</li>
+    <li>Anti-oppression theory and practice: Racial Equity, Gender Equity</li>
+    <li>Systems Thinking (personal and organizational)</li>
+    <li>Difficult Conversations & Generative Conflict</li>
+
+</ul>
+
 <center><hr></center>
 
 
@@ -16,6 +31,7 @@ Hi! I'm excited to support you and/or your organization in your work! Below you'
 #### 2025
 
 * [**The Internal Family Systems Institute**](https://ifs-institute.com/online-learning): [IFS Online Circle](https://learn.ifs-institute.com/programs/ifs-online-circle-spring-2025/){:target="_blank"}
+* [**Gibrán Rivera: Coaching Cohort for Faciiltators**](https://www.gibranrivera.com/facilitators-coaching-cohort){:target='_blank'}
 
 
 #### 2024
@@ -62,19 +78,17 @@ Hi! I'm excited to support you and/or your organization in your work! Below you'
     <li><b><a href="http://dusp.mit.edu/department/about">MIT: Department of Urban Studies & Planning</a></b>, <a href="http://dusp.mit.edu/degrees/masters">Master in City Planning</a> and <a href="http://dusp.mit.edu/degrees/undergraduate">Bachelor of Science in Planning</a></li>
 </ul>
 
+
 <center><hr></center>
 
-
-### Offerings & Areas of Expertise
+### Partial 2025 Client list
 
 <ul>
-    <li>Storytelling & Narrative Strategy (Personal and Collective)</li>
-    <li>Organizational Development</li>
-    <li>Anti-oppression theory and practice: Racial Equity, Gender Equity</li>
-    <li>Difficult Conversations & Generative Conflict</li>
-    <li>Systems Thinking (personal and organizational)</li>
-
-</ul>
+<li><a href="https://neighborhoodbirthcenter.org/" target="_blank">Neighborhood Birth Center</a></li>
+<li><a href="https://managementcenter.org/" target="_blank">The Management Center</a></li>
+<li><a href="https://rockwoodleadership.org/" target="_blank">The Rockwood Leadership Institute</a></li>
+<li><a href="https://https://www.rsclark.org/" target="_blank">The Robert Sterling Clark Foundation</a></li>
+</ul> 
 
 <center><hr></center>
 

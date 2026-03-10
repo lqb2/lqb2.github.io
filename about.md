@@ -18,7 +18,7 @@ title: About
 
 > I am a trainer with the [Rockwood Leadership Institute](https://rockwoodleadership.org/trainers/){:target='_blank'}, a [CoCreative Collaborator](https://www.wearecocreative.com/our-team){:target='_blank'}, a [Liberatory Consultant](https://leadershiplearning.org/consultant-directory/){:target='_blank'} with the Leadership Learning Community, and a [Transformative Futures Coach](https://healingjusticeliberation.org/transformative-futures){:target='_blank'} with the [Coaching for Healing, Justice, and Liberation](https://healingjusticeliberation.org/){:target='_blank'} coaching school.
 
-> I have a Master of City Planning and Bachelor of Science in Planning, both from MIT's Department of Urban Studies and Planning. My research while at MIT primarily focused on food systems and food justice/sovereignty. Teaching (and doing) photography scratched my creative itches. 
+> I have a Master of City Planning and Bachelor of Science in Planning, both from MIT's Department of Urban Studies and Planning. My research while at MIT primarily focused on food systems and food justice/sovereignty. Teaching (and doing) [film photography](https://imgur.com/a/Dp1CO){:target='_blank'} scratched my creative itches. 
 
 > If you're interested to know more, you can read [my blog](http://www.lqb2.co/blog), sign up for [my newsletter](https://lqb2weekly.substack.com/){:target="_blank"}, check out my ["cv"](http://lqb2.co/online-cv/), read [what I'm up to right now](http://lqb2.co/now/), see [my vision and values](http://www.lawrencebarrinerii.com/vision), peruse [my book highlights]({{ site.baseurl}}highlights), or meet some of my [collaborators]({{ site.baseurl}}collaborators).
 
