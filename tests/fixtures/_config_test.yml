@@ -1,0 +1,10 @@
+# Test-only Jekyll config override, merged AFTER _config.yml:
+#   bundle exec jekyll build -d _site_test --config _config.yml,tests/fixtures/_config_test.yml
+# The production config points at the GitHub Pages fork preview with a
+# /lqb2.5 baseurl; the test build serves _site_test/ at the server root.
+url: "http://127.0.0.1:4173"
+baseurl: ""
+
+# Do not set `exclude` here. Jekyll replaces arrays when it merges config
+# files, so a list in this file would drop _config.yml's exclude — including
+# vendor/bundle/, which CI populates with gems. Test tooling is listed there.

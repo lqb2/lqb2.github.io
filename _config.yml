@@ -17,8 +17,8 @@ title: lqb2 & co.
 email: lawrence@lqb2.co
 description: >- # this means to ignore newlines until "baseurl:"
   transform yourself, transform the world — grace lee boggs
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.lqb2.co" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # production (lqb2.co)
+url: "https://www.lqb2.co" # production (lqb2.co)
 icon: /assets/images/icon-512.png
 twitter_username: lqb2
 github_username:  lqb2
@@ -27,19 +27,41 @@ github_username:  lqb2
 markdown: kramdown
 
 # Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# A custom `exclude` list replaces Jekyll 3.10's defaults; it does not extend
+# them. The defaults are repeated first so a checkout with gems in
+# vendor/bundle (ruby/setup-ruby's bundler cache on CI) is not read as site
+# content. The test config must not set its own `exclude` — that array would
+# replace this one. See tests/fixtures/_config_test.yml.
 
 plugins:
   - jekyll-paginate
 
+collections:
+  books:
+    output: false
+  # Goodreads shelves mirrored as tags. `site.tags` is Jekyll's post-tag
+  # index, so these documents are read via site.collections, not site.tags.
+  tags:
+    output: false
+
 paginate: 1
 paginate_path: "/page/:num/"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - harvest.py
+  - import_queue.py
+  - harvest-report.txt
+  - verify-build.sh
+  - tests
+  - package.json
+  - package-lock.json
+  - playwright.config.ts
+  - playwright-report
+  - test-results

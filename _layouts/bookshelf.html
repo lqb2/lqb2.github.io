@@ -1,0 +1,75 @@
+---
+layout: default
+---
+
+{% include menu.html %}
+
+<article class="bookshelf-page bookshelf-page--wood" id="main" role="main" aria-label="Bookshelf">
+  <header class="bookshelf-header">
+    <h1 class="bookshelf-title">{{ page.title }}</h1>
+    {% if page.subtitle %}
+      <p class="bookshelf-subtitle">{{ page.subtitle }}</p>
+    {% endif %}
+    <div class="bookshelf-controls">
+      <label for="bookSearch" class="visually-hidden">Search books</label>
+      <input type="search" id="bookSearch" class="bookshelf-search" placeholder="Search books…" autocomplete="off">
+      {% assign used_slugs = "|" %}
+      {% for book in site.books %}
+        {% for tag in book.tags %}
+          {% assign needle = "|" | append: tag | append: "|" %}
+          {% unless used_slugs contains needle %}
+            {% assign used_slugs = used_slugs | append: tag | append: "|" %}
+          {% endunless %}
+        {% endfor %}
+      {% endfor %}
+      {% assign shelves_sorted = site.data.goodreads_shelves.shelves | sort: "name" %}
+      <div class="bookshelf-filter-row">
+        <div class="bookshelf-filters">
+          <label for="categoryFilter" class="visually-hidden">Filter by category</label>
+          <select id="categoryFilter" class="bookshelf-category-select">
+            <option value="">All categories</option>
+            {%- for shelf in shelves_sorted -%}
+              {% assign needle = "|" | append: shelf.slug | append: "|" %}
+              {% if shelf.tag != false and used_slugs contains needle %}
+                <option value="{{ shelf.slug }}">{{ shelf.name }}</option>
+              {% endif %}
+            {%- endfor -%}
+          </select>
+        </div>
+        <div class="bookshelf-filters">
+          <label for="sortSelect" class="visually-hidden">Sort by</label>
+          <select id="sortSelect" class="bookshelf-sort-select">
+            <option value="year-desc">Year read (newest)</option>
+            <option value="year-asc">Year read (oldest)</option>
+            <option value="title">Title (A-Z)</option>
+            <option value="author">Author (A-Z)</option>
+          </select>
+        </div>
+      </div>
+      <p class="bookshelf-hint">Click a cover to flip and read the review.</p>
+    </div>
+  </header>
+
+  <section class="bookshelf-unit" aria-label="Curated books">
+    {% assign curated = site.books | where_exp: "item", "item.sample != true" | sort: "year_read" | reverse %}
+    {% assign books_per_row = 5 %}
+    {% assign last_in_row = books_per_row | minus: 1 %}
+    {% for book in curated %}
+      {% assign mod = forloop.index0 | modulo: books_per_row %}
+      {% if mod == 0 %}
+        <div class="shelf-row">
+      {% endif %}
+        {% include book-card.html book=book %}
+      {% if mod == last_in_row or forloop.last %}
+        </div>
+      {% endif %}
+    {% endfor %}
+    <p class="bookshelf-empty" id="bookshelfEmpty" hidden>No books match your filters.</p>
+  </section>
+</article>
+
+<div class="book-modal-backdrop" hidden></div>
+<div class="book-modal" hidden aria-modal="true" role="dialog" aria-label="Book details">
+  <div class="book-modal-content"></div>
+  <button type="button" class="book-modal-close" aria-label="Close">&times;</button>
+</div>

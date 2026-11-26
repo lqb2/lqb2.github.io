@@ -1,0 +1,19 @@
+_site/
+_site_test/
+.sass-cache/
+.bundle/
+.gstack/
+_libraryviz/
+_specs/
+harvest-report.txt
+verify-build.sh
+node_modules/
+vendor/bundle/
+.DS_Store
+playwright-report/
+test-results/
+# Fixture books/covers injected into the site by the E2E global setup;
+# ignored so an interrupted test run can never accidentally commit them.
+_books/zz-fixture-*.md
+assets/images/books/zz-fixture-*.webp
+.cursor/

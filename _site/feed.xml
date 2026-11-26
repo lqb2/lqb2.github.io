@@ -3,11 +3,81 @@
   <channel>
     <title>lqb2 &amp; co.</title>
     <description>transform yourself, transform the world — grace lee boggs</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed/index.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 24 Jul 2024 09:25:46 -0400</pubDate>
-    <lastBuildDate>Wed, 24 Jul 2024 09:25:46 -0400</lastBuildDate>
-    <generator>Jekyll v3.8.7</generator>
+    <link>https://jj-javascript.github.io/lqb2.5/</link>
+    <atom:link href="https://jj-javascript.github.io/lqb2.5/feed/index.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 25 Nov 2026 16:33:45 -0500</pubDate>
+    <lastBuildDate>Wed, 25 Nov 2026 16:33:45 -0500</lastBuildDate>
+    <generator>Jekyll v3.10.0</generator>
+    
+      
+        <item>
+          
+            <title>Coaching Testimonial - Jessica Almasy</title>
+          
+          <author>lawrence@lqb2.co (lqb2 & co.)</author>
+          <description>
+            &lt;h3 id=&quot;what-do-you-appreciate-about-me-as-a-coach&quot;&gt;What do you appreciate about me as a coach?&lt;/h3&gt;
+
+&lt;p&gt;You are tuned in. The phenomenons we encounter in being human are held with a generous easeful sense of care that enlightens and lightens the weight of events that in other spaces may only be diagnosed as trauma. There is an enormous sense of “everything is possible.” And in every session I am relieved of a tremendous heavy&lt;/p&gt;
+
+&lt;h3 id=&quot;while-we-worked-together-what-changed-or-shifted-for-you&quot;&gt;While we worked together, what changed or shifted for you?&lt;/h3&gt;
+
+&lt;p&gt;I feel profoundly more confident and trusting in the landscape I am transforming in my internal and external life… the pain I felt at not fitting into the world before isn’t the pain of me being broken or wrong, but the signposts to build the world that serves my soul.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/lqb2.5/coaching&quot;&gt;Back&lt;/a&gt;&lt;/p&gt;
+
+
+          </description>
+          <pubDate>Wed, 28 May 2025 00:00:00 -0400</pubDate>
+          <link>https://jj-javascript.github.io/lqb2.5/events/2025/05/28/coaching-testimonial-jessica.html</link>
+          <guid isPermaLink="true">https://jj-javascript.github.io/lqb2.5/events/2025/05/28/coaching-testimonial-jessica.html</guid>
+          
+          
+          <category>events</category>
+          
+        </item>
+      
+    
+      
+        <item>
+          
+            <title>Coaching Testimonial - Justin Jiménez</title>
+          
+          <author>lawrence@lqb2.co (lqb2 & co.)</author>
+          <description>
+            &lt;h3 id=&quot;how-did-the-coaching-help-you-move-towards-your-goals&quot;&gt;How did the coaching help you move towards your goals?&lt;/h3&gt;
+
+&lt;p&gt;Coaching has helped me develop sustainable systems that as I continue to work on them become more resilient and capable of operating in a way that is continuous, steady, adaptable, open, celebratory, and grounded.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-do-you-appreciate-about-me-as-a-coach&quot;&gt;What do you appreciate about me as a coach?&lt;/h3&gt;
+
+&lt;p&gt;Your sense of humor, your honesty, your curiosity and your ability to push back when you need to.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-do-you-appreciate-about-how-i-coach&quot;&gt;What do you appreciate about how I coach?&lt;/h3&gt;
+
+&lt;p&gt;Your ability to turn any moment into a moment of coaching, learning, building or celebration.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;— &lt;a href=&quot;https://www.instagram.com/saviofromboston?igsh=MTBqc3NjdHMwOHZjOA==&quot; target=&quot;_blank&quot;&gt;Justin Jiménez&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/lqb2.5/coaching&quot;&gt;Back&lt;/a&gt;&lt;/p&gt;
+
+
+          </description>
+          <pubDate>Wed, 26 Mar 2025 00:00:00 -0400</pubDate>
+          <link>https://jj-javascript.github.io/lqb2.5/events/2025/03/26/coaching-testimonial-justin.html</link>
+          <guid isPermaLink="true">https://jj-javascript.github.io/lqb2.5/events/2025/03/26/coaching-testimonial-justin.html</guid>
+          
+          
+          <category>events</category>
+          
+        </item>
+      
     
       
         <item>
@@ -30,8 +100,8 @@
 
           </description>
           <pubDate>Tue, 01 Feb 2022 00:00:00 -0500</pubDate>
-          <link>http://localhost:4000/blog/2022/02/01/daily-journal.html</link>
-          <guid isPermaLink="true">http://localhost:4000/blog/2022/02/01/daily-journal.html</guid>
+          <link>https://jj-javascript.github.io/lqb2.5/blog/2022/02/01/daily-journal.html</link>
+          <guid isPermaLink="true">https://jj-javascript.github.io/lqb2.5/blog/2022/02/01/daily-journal.html</guid>
           
           
           <category>blog</category>
@@ -60,8 +130,8 @@
 
           </description>
           <pubDate>Mon, 31 Jan 2022 00:00:00 -0500</pubDate>
-          <link>http://localhost:4000/blog/2022/01/31/daily-journal.html</link>
-          <guid isPermaLink="true">http://localhost:4000/blog/2022/01/31/daily-journal.html</guid>
+          <link>https://jj-javascript.github.io/lqb2.5/blog/2022/01/31/daily-journal.html</link>
+          <guid isPermaLink="true">https://jj-javascript.github.io/lqb2.5/blog/2022/01/31/daily-journal.html</guid>
           
           
           <category>blog</category>
@@ -84,13 +154,14 @@
 
 &lt;p&gt;— &lt;a href=&quot;https://www.linkedin.com/in/sidrafatima/&quot; target=&quot;_blank&quot;&gt;Sidra F.&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;
-&lt;a href=&quot;/coaching&quot;&gt;Back&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/lqb2.5/coaching&quot;&gt;Back&lt;/a&gt;&lt;/p&gt;
 
           </description>
           <pubDate>Sun, 24 Oct 2021 00:00:00 -0400</pubDate>
-          <link>http://localhost:4000/events/2021/10/24/coaching-testimonial-sidra.html</link>
-          <guid isPermaLink="true">http://localhost:4000/events/2021/10/24/coaching-testimonial-sidra.html</guid>
+          <link>https://jj-javascript.github.io/lqb2.5/events/2021/10/24/coaching-testimonial-sidra.html</link>
+          <guid isPermaLink="true">https://jj-javascript.github.io/lqb2.5/events/2021/10/24/coaching-testimonial-sidra.html</guid>
           
           
           <category>events</category>
@@ -114,12 +185,12 @@
 &lt;p&gt;— &lt;a href=&quot;https://www.instagram.com/apprentice_of_nothing/?hl=en&quot; target=&quot;_blank&quot;&gt;Niklas W.&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;
-&lt;a href=&quot;/coaching&quot;&gt;Back&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;/lqb2.5/coaching&quot;&gt;Back&lt;/a&gt;&lt;/p&gt;
 
           </description>
           <pubDate>Sun, 24 Oct 2021 00:00:00 -0400</pubDate>
-          <link>http://localhost:4000/events/2021/10/24/coaching-testimonial-niklas.html</link>
-          <guid isPermaLink="true">http://localhost:4000/events/2021/10/24/coaching-testimonial-niklas.html</guid>
+          <link>https://jj-javascript.github.io/lqb2.5/events/2021/10/24/coaching-testimonial-niklas.html</link>
+          <guid isPermaLink="true">https://jj-javascript.github.io/lqb2.5/events/2021/10/24/coaching-testimonial-niklas.html</guid>
           
           
           <category>events</category>
@@ -147,12 +218,12 @@
 &lt;p&gt;— &lt;a href=&quot;https://www.linkedin.com/in/miriam-mack-58276223/&quot; target=&quot;_blank&quot;&gt;Miriam Mack&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;
-&lt;a href=&quot;/coaching&quot;&gt;Back&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;/lqb2.5/coaching&quot;&gt;Back&lt;/a&gt;&lt;/p&gt;
 
           </description>
           <pubDate>Fri, 16 Oct 2020 00:00:00 -0400</pubDate>
-          <link>http://localhost:4000/events/2020/10/16/coaching-testimonial-miriam.html</link>
-          <guid isPermaLink="true">http://localhost:4000/events/2020/10/16/coaching-testimonial-miriam.html</guid>
+          <link>https://jj-javascript.github.io/lqb2.5/events/2020/10/16/coaching-testimonial-miriam.html</link>
+          <guid isPermaLink="true">https://jj-javascript.github.io/lqb2.5/events/2020/10/16/coaching-testimonial-miriam.html</guid>
           
           
           <category>events</category>
@@ -184,12 +255,12 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/coaching&quot;&gt;Back&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/lqb2.5/coaching&quot;&gt;Back&lt;/a&gt;&lt;/p&gt;
 
           </description>
           <pubDate>Tue, 13 Oct 2020 00:00:00 -0400</pubDate>
-          <link>http://localhost:4000/events/2020/10/13/coaching-testimonial-jaco.html</link>
-          <guid isPermaLink="true">http://localhost:4000/events/2020/10/13/coaching-testimonial-jaco.html</guid>
+          <link>https://jj-javascript.github.io/lqb2.5/events/2020/10/13/coaching-testimonial-jaco.html</link>
+          <guid isPermaLink="true">https://jj-javascript.github.io/lqb2.5/events/2020/10/13/coaching-testimonial-jaco.html</guid>
           
           
           <category>events</category>
@@ -213,12 +284,12 @@
 — &lt;a href=&quot;https://www.jadaliyya.com/Author/9833&quot; target=&quot;_blank&quot;&gt;Huma Gupta&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;
-&lt;a href=&quot;/coaching&quot;&gt;Back&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;/lqb2.5/coaching&quot;&gt;Back&lt;/a&gt;&lt;/p&gt;
 
           </description>
           <pubDate>Sun, 11 Oct 2020 00:00:00 -0400</pubDate>
-          <link>http://localhost:4000/events/2020/10/11/coaching-testimonial-huma.html</link>
-          <guid isPermaLink="true">http://localhost:4000/events/2020/10/11/coaching-testimonial-huma.html</guid>
+          <link>https://jj-javascript.github.io/lqb2.5/events/2020/10/11/coaching-testimonial-huma.html</link>
+          <guid isPermaLink="true">https://jj-javascript.github.io/lqb2.5/events/2020/10/11/coaching-testimonial-huma.html</guid>
           
           
           <category>events</category>
@@ -237,8 +308,8 @@
 
           </description>
           <pubDate>Wed, 07 Oct 2020 00:00:00 -0400</pubDate>
-          <link>http://localhost:4000/events/2020/10/07/highlights.html</link>
-          <guid isPermaLink="true">http://localhost:4000/events/2020/10/07/highlights.html</guid>
+          <link>https://jj-javascript.github.io/lqb2.5/events/2020/10/07/highlights.html</link>
+          <guid isPermaLink="true">https://jj-javascript.github.io/lqb2.5/events/2020/10/07/highlights.html</guid>
           
           
           <category>events</category>
@@ -253,7 +324,7 @@
           
           <author>lawrence@lqb2.co (lqb2 & co.)</author>
           <description>
-            &lt;p&gt;Note: please see updated list &lt;a href=&quot;/highlights&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+            &lt;p&gt;Note: please see updated list &lt;a href=&quot;/lqb2.5/highlights&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Here are some the highlights/notes from books I’ve read since ~2017.&lt;/p&gt;
 
@@ -278,8 +349,8 @@ by Cal Newport&lt;/a&gt;&lt;/li&gt;
 
           </description>
           <pubDate>Tue, 04 Aug 2020 00:00:00 -0400</pubDate>
-          <link>http://localhost:4000/events/2020/08/04/highlights.html</link>
-          <guid isPermaLink="true">http://localhost:4000/events/2020/08/04/highlights.html</guid>
+          <link>https://jj-javascript.github.io/lqb2.5/events/2020/08/04/highlights.html</link>
+          <guid isPermaLink="true">https://jj-javascript.github.io/lqb2.5/events/2020/08/04/highlights.html</guid>
           
           
           <category>events</category>
@@ -302,7 +373,7 @@ by Cal Newport&lt;/a&gt;&lt;/li&gt;
 &lt;!-- One --&gt;
 &lt;section id=&quot;one&quot;&gt;
     &lt;div class=&quot;inner&quot;&gt;
-        &lt;p&gt;You can check out the origin story of my coaching practice &lt;a href=&quot;https://medium.com/@lqb2/how-i-started-a-coaching-practice-c98e9f383d01&quot; target=&quot;_blank&quot;&gt;on Medium&lt;/a&gt; and lots of my other thoughts about productivity &lt;a href=&quot;https://lqb2.github.io/blog/tags/#productivity-ref&quot; target=&quot;_blank&quot;&gt;on my blog&lt;/a&gt;. Don't hesitate to send me questions!&lt;/p&gt;
+        &lt;p&gt;You can check out the origin story of my coaching practice &lt;a href=&quot;https://medium.com/@lqb2/how-i-started-a-coaching-practice-c98e9f383d01&quot; target=&quot;_blank&quot;&gt;on Medium&lt;/a&gt; and lots of my other thoughts about productivity &lt;a href=&quot;https://lqb2.github.io/blog/tags/#productivity-ref&quot; target=&quot;_blank&quot;&gt;on my blog&lt;/a&gt;. Don&apos;t hesitate to send me questions!&lt;/p&gt;
         &lt;p&gt;P.S. — Thanks to Zach P. for asking for this info and prompting me to make this page. Also thanks to Brooke and Abe for adding fuel to the flame.&lt;/p&gt;
 
 &lt;hr class=&quot;major&quot; /&gt;
@@ -315,15 +386,15 @@ by Cal Newport&lt;/a&gt;&lt;/li&gt;
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;4u 12u$(medium)&quot;&gt;
         &lt;h3&gt;1: Scratching the surface&lt;/h3&gt;
-        &lt;p&gt;This session is largely about surfacing your current reality. I'll ask lots of questions and you'll do lots of talking. I'll ask you things about how your day-to-day life and where (and how) you want to be in the future. In the process, I'll share a little bit about what I see and we'll identify a 1-3 areas to work on.&lt;/p&gt;
+        &lt;p&gt;This session is largely about surfacing your current reality. I&apos;ll ask lots of questions and you&apos;ll do lots of talking. I&apos;ll ask you things about how your day-to-day life and where (and how) you want to be in the future. In the process, I&apos;ll share a little bit about what I see and we&apos;ll identify a 1-3 areas to work on.&lt;/p&gt;
     &lt;/div&gt;
     &lt;div class=&quot;4u 12u$(medium)&quot;&gt;
         &lt;h3&gt;2: Digging in&lt;/h3&gt;
-        &lt;p&gt;After having some time (2-8 weeks) to run with those areas we picked out, we'll check in about how things went! Based on that and things I heard in the first session, I'll share more tips, tools, and theory about how to work towards personal change. We'll tweak your list of experiments and then set our sights on session 3.&lt;/p&gt;
+        &lt;p&gt;After having some time (2-8 weeks) to run with those areas we picked out, we&apos;ll check in about how things went! Based on that and things I heard in the first session, I&apos;ll share more tips, tools, and theory about how to work towards personal change. We&apos;ll tweak your list of experiments and then set our sights on session 3.&lt;/p&gt;
     &lt;/div&gt;
     &lt;div class=&quot;4u$ 12u$(medium)&quot;&gt;
         &lt;h3&gt;3: Learning from experiments&lt;/h3&gt;
-        &lt;p&gt;In this session, we'll review how the 2nd round of experiments went. Then, having done two loops of experimentation, we'll reflect on how you **actually** change (or don't!). After thinking through that, we'll brainstorm how to incorporate those lessons to support other changes you want to make. I'll also ask you for a little feedback on the whole process.&lt;/p&gt;
+        &lt;p&gt;In this session, we&apos;ll review how the 2nd round of experiments went. Then, having done two loops of experimentation, we&apos;ll reflect on how you **actually** change (or don&apos;t!). After thinking through that, we&apos;ll brainstorm how to incorporate those lessons to support other changes you want to make. I&apos;ll also ask you for a little feedback on the whole process.&lt;/p&gt;
     &lt;/div&gt;
 &lt;/div&gt;
     &lt;ul class=&quot;actions&quot;&gt;
@@ -338,14 +409,14 @@ by Cal Newport&lt;/a&gt;&lt;/li&gt;
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;6u 12u$(small)&quot;&gt;
         &lt;h3&gt;Tune up / Check in&lt;/h3&gt;
-        &lt;p&gt;If you've done the Intro package, we can do a 60 minute tune up/check in at any time (schedules allowing, of course). These are helpful if you want a medium amount of support figuring out how to work through a specific block or barrier in your change processes.&lt;/p&gt;
+        &lt;p&gt;If you&apos;ve done the Intro package, we can do a 60 minute tune up/check in at any time (schedules allowing, of course). These are helpful if you want a medium amount of support figuring out how to work through a specific block or barrier in your change processes.&lt;/p&gt;
         &lt;ul class=&quot;actions&quot;&gt;
             &lt;li&gt;&lt;span class=&quot;button special disabled&quot;&gt;$55-220&lt;/span&gt;&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/div&gt;
     &lt;div class=&quot;6u$ 12u$(small)&quot;&gt;
         &lt;h3&gt;Personal Systems Consult&lt;/h3&gt;
-        &lt;p&gt;If we've never worked together before, but you're not interested in the Intro package, this could be for you. In a single 2-hour session, I'll assess how your personal systems work and how you think about them. Then I'll share a bunch of relevant theory, tips, and tools. I'll also put together a list of resources for you to dig into.&lt;/p&gt;
+        &lt;p&gt;If we&apos;ve never worked together before, but you&apos;re not interested in the Intro package, this could be for you. In a single 2-hour session, I&apos;ll assess how your personal systems work and how you think about them. Then I&apos;ll share a bunch of relevant theory, tips, and tools. I&apos;ll also put together a list of resources for you to dig into.&lt;/p&gt;
         &lt;ul class=&quot;actions&quot;&gt;
             &lt;li&gt;&lt;span class=&quot;button special&quot;&gt;&lt;a href=&quot;https://docs.google.com/document/d/1sxujZckhY8eIfNRIc_MlCGRGsrQ9t5slfItcBJCF92w/edit&quot; target=&quot;_blank&quot;&gt;See Rate Sheet&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
         &lt;/ul&gt;
@@ -357,18 +428,18 @@ by Cal Newport&lt;/a&gt;&lt;/li&gt;
 
 &lt;!-- Elements --&gt;
 &lt;!-- &lt;h2 id=&quot;elements&quot;&gt;Experimental Offerings&lt;/h2&gt;
-&lt;p&gt;These are offerings that I'm starting to experiment with. Until I get them fine tuned, pricing is negotiable. Help me help other folks (and yourself) by trying these out with me!&lt;/p&gt; --&gt;
+&lt;p&gt;These are offerings that I&apos;m starting to experiment with. Until I get them fine tuned, pricing is negotiable. Help me help other folks (and yourself) by trying these out with me!&lt;/p&gt; --&gt;
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;6u 12u$(medium)&quot;&gt;
         &lt;h3&gt;Annual Retreat&lt;/h3&gt;
-        &lt;p&gt;Each year for the past several years, I've gone on &lt;a href=&quot;https://lqb2.github.io/blog/2016/12/23/my-personal-retreat-long-version/&quot;&gt;an annual retreat&lt;/a&gt; to prep for the next year. In 2020, Maureen White and I launched &lt;a href=&quot;https://www.2020vision.space/&quot;&gt;2020 vision&lt;/a&gt;: a retreat that supported 10 folks to vision for their year. Sign up for the mailing list there to get notified if we decide to offer it again.&lt;/p&gt;
+        &lt;p&gt;Each year for the past several years, I&apos;ve gone on &lt;a href=&quot;https://lqb2.github.io/blog/2016/12/23/my-personal-retreat-long-version/&quot;&gt;an annual retreat&lt;/a&gt; to prep for the next year. In 2020, Maureen White and I launched &lt;a href=&quot;https://www.2020vision.space/&quot;&gt;2020 vision&lt;/a&gt;: a retreat that supported 10 folks to vision for their year. Sign up for the mailing list there to get notified if we decide to offer it again.&lt;/p&gt;
         &lt;ul class=&quot;actions&quot;&gt;
             &lt;li&gt;&lt;span class=&quot;button special disabled&quot;&gt;$750-1600&lt;/span&gt;&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/div&gt;  
     &lt;div class=&quot;6u 12u$(medium)&quot;&gt;
         &lt;h3&gt;Cohort Coaching&lt;/h3&gt;
-        &lt;p&gt;Interested in the Intro Package but want to come with a buddy (or 2 or 3)? I'm testing out how to support groups of 2-4 people to go through a series of 3 sessions together. There will be less attention on each individual, but having a built-in support structure and other people to learn with/from can be worth the tradeoff.&lt;/p&gt;
+        &lt;p&gt;Interested in the Intro Package but want to come with a buddy (or 2 or 3)? I&apos;m testing out how to support groups of 2-4 people to go through a series of 3 sessions together. There will be less attention on each individual, but having a built-in support structure and other people to learn with/from can be worth the tradeoff.&lt;/p&gt;
         &lt;p&gt;H/T to DCC at &lt;a href=&quot;http://infinitegrowth.rocks/&quot;&gt;Infinite Growth&lt;/a&gt; for this cohort idea.&lt;/p&gt;
         &lt;ul class=&quot;actions&quot;&gt;
             &lt;li&gt;&lt;span class=&quot;button special disabled&quot;&gt;$150-450 / session&lt;/span&gt;&lt;/li&gt;
@@ -379,7 +450,7 @@ by Cal Newport&lt;/a&gt;&lt;/li&gt;
 &lt;hr class=&quot;major&quot; /&gt;
 
 &lt;h2 id=&quot;content&quot;&gt;A Note about Pricing&lt;/h2&gt;
-&lt;p&gt;I'm also committed to getting compensated what I think the work is worth and I'm really interested in making this work available to everyone. Therefore, I offer coaching using a sliding scale &lt;i&gt;and&lt;/i&gt; I love bartering. I am especially excited to barter outputs that come up in the process of the coaching itself... For example, one person I worked with wanted to do more pottery. I helped them restructure their time and energy to spend more time on pottery. Instead of cash, they gave me pots. Not only did they spend more time on pottery, but I got some dope pots that I am still using today and they are more confident about their pottery! I love working out arrangements like this. Partial trades are on the table, too. I take payment in cash, via &lt;a href=&quot;https://www.paypal.me/lqb2&quot; target=&quot;new&quot;&gt;PayPal&lt;/a&gt; or &lt;a href=&quot;https://venmo.com/lawrence-barrinerii&quot; target=&quot;_blank&quot;&gt;Venmo&lt;/a&gt; , and am happy to structure whatever payment plan works for you.&lt;/p&gt;
+&lt;p&gt;I&apos;m also committed to getting compensated what I think the work is worth and I&apos;m really interested in making this work available to everyone. Therefore, I offer coaching using a sliding scale &lt;i&gt;and&lt;/i&gt; I love bartering. I am especially excited to barter outputs that come up in the process of the coaching itself... For example, one person I worked with wanted to do more pottery. I helped them restructure their time and energy to spend more time on pottery. Instead of cash, they gave me pots. Not only did they spend more time on pottery, but I got some dope pots that I am still using today and they are more confident about their pottery! I love working out arrangements like this. Partial trades are on the table, too. I take payment in cash, via &lt;a href=&quot;https://www.paypal.me/lqb2&quot; target=&quot;new&quot;&gt;PayPal&lt;/a&gt; or &lt;a href=&quot;https://venmo.com/lawrence-barrinerii&quot; target=&quot;_blank&quot;&gt;Venmo&lt;/a&gt; , and am happy to structure whatever payment plan works for you.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;/div&gt;
 
@@ -402,8 +473,8 @@ For more info, please see my [bio](http://lqb2.co/about) or [my online CV](http:
 
           </description>
           <pubDate>Sun, 30 Dec 2018 00:00:00 -0500</pubDate>
-          <link>http://localhost:4000/2018/12/30/coaching.html</link>
-          <guid isPermaLink="true">http://localhost:4000/2018/12/30/coaching.html</guid>
+          <link>https://jj-javascript.github.io/lqb2.5/2018/12/30/coaching.html</link>
+          <guid isPermaLink="true">https://jj-javascript.github.io/lqb2.5/2018/12/30/coaching.html</guid>
           
           
         </item>

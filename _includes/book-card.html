@@ -1,0 +1,78 @@
+{% assign filter_slugs = "|" %}
+{% for slug in include.book.categories %}
+  {% assign filter_slugs = filter_slugs | append: slug | append: "|" %}
+{% endfor %}
+{% for slug in include.book.tags %}
+  {% assign needle = "|" | append: slug | append: "|" %}
+  {% unless filter_slugs contains needle %}
+    {% assign filter_slugs = filter_slugs | append: slug | append: "|" %}
+  {% endunless %}
+{% endfor %}
+{% assign filter_parts = filter_slugs | split: "|" %}
+{% assign filter_json = "" %}
+{% for slug in filter_parts %}
+  {% if slug != "" %}
+    {% unless filter_json == "" %}{% assign filter_json = filter_json | append: "," %}{% endunless %}
+    {% assign filter_json = filter_json | append: '"' | append: slug | append: '"' %}
+  {% endif %}
+{% endfor %}
+{% assign body_text = include.book.content | strip %}
+<article class="book-card{% if body_text == "" %} book-card--no-review{% endif %}"
+         data-title="{{ include.book.title | downcase | escape }}"
+         data-author="{{ include.book.author | downcase | escape }}"
+         data-year="{{ include.book.year_read }}"
+         data-categories='[{{ filter_json }}]'
+         tabindex="0"
+         aria-label="Flip to see review for {{ include.book.title | escape }}">
+  <div class="book-shelf-tilt">
+    <div class="book-flip">
+    <div class="book-flip-inner">
+      <div class="book-flip-front">
+        <img class="book-cover"
+             src="{{ include.book.cover | absolute_url }}"
+             alt="{{ include.book.title | escape }} by {{ include.book.author | escape }}"
+             width="{{ include.book.cover_width | default: 200 }}"
+             height="{{ include.book.cover_height | default: 300 }}"
+             loading="lazy">
+      </div>
+      <div class="book-flip-back" aria-hidden="true">
+        <div class="book-back-content">
+          <div class="book-back-actions">
+            {% if include.book.highlights %}
+              <a class="book-action book-action--notes"
+                 href="{{ include.book.highlights }}"
+                 target="_blank"
+                 rel="noopener noreferrer">Notes</a>
+            {% endif %}
+            {% if include.book.goodreads %}
+              <a class="book-action book-action--goodreads"
+                 href="{{ include.book.goodreads }}"
+                 target="_blank"
+                 rel="noopener noreferrer">Goodreads</a>
+            {% endif %}
+          </div>
+          <div class="book-back-scroll">
+            {% if body_text != "" %}
+              {% if include.book.review %}
+                <h4 class="book-review-heading">My review</h4>
+              {% else %}
+                <h4 class="book-review-heading">GoodReads Description</h4>
+              {% endif %}
+              <div class="book-review">{{ include.book.content | markdownify }}</div>
+            {% else %}
+              <p class="book-review-empty">No review yet.</p>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+  </div>
+  <span class="visually-hidden book-meta">
+    <h3 class="book-title">{{ include.book.title | escape }}</h3>
+    <p class="book-author">{{ include.book.author | escape }}</p>
+    {% if include.book.year_read %}
+      <p class="book-year">Read {{ include.book.year_read }}</p>
+    {% endif %}
+  </span>
+</article>

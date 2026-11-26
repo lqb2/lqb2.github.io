@@ -1,0 +1,61 @@
+name: Book import
+
+# Event-driven via the Sveltia import queue. Lawrence pastes a Goodreads book
+# URL into the "Import Queue" collection in /admin; Sveltia commits a file to
+# _import_queue/, and that push triggers this workflow. The import script
+# reads ONLY public Goodreads book pages - no credentials are stored anywhere.
+#
+# workflow_dispatch is the manual re-trigger (e.g. to retry a queue item that
+# failed and was left in place).
+#
+# Note: this workflow's own commit is made with GITHUB_TOKEN, which does not
+# trigger new workflow runs, so consuming the queue cannot loop.
+on:
+  push:
+    paths:
+      - "_import_queue/**"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests pillow pyyaml
+
+      - name: Run import queue
+        run: python import_queue.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for p in _books _tags _import_queue assets/images/books _data/goodreads_shelves.yml; do
+            if [ -e "$p" ]; then git add "$p"; fi
+          done
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: import books from Sveltia queue"
+            git push
+          fi
+
+      - name: Request GitHub Pages rebuild
+        # Commits made with GITHUB_TOKEN do not trigger the legacy Pages
+        # build, so request one explicitly; otherwise imported books would
+        # not appear on the live site until the next human commit.
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds"
+        continue-on-error: true

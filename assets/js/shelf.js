@@ -1,0 +1,376 @@
+(function () {
+  'use strict';
+
+  if (!document.querySelector('.bookshelf-page')) {
+    return;
+  }
+
+  var searchInput = document.getElementById('bookSearch');
+  var categorySelect = document.getElementById('categoryFilter');
+  var sortSelect = document.getElementById('sortSelect');
+  var emptyMsg = document.getElementById('bookshelfEmpty');
+  var modalBackdrop = document.querySelector('.book-modal-backdrop');
+  var modal = document.querySelector('.book-modal');
+  var modalContent = document.querySelector('.book-modal-content');
+  var modalClose = document.querySelector('.book-modal-close');
+  var cards = Array.prototype.slice.call(document.querySelectorAll('.book-card'));
+  var pageEl = document.querySelector('.bookshelf-page');
+  var curatedUnit = document.querySelector('.bookshelf-page > .bookshelf-unit');
+  var originalOrder = cards.slice();
+  var activeCard = null;
+  var modalTransitionMs = 300;
+
+  function measureBooksPerRow() {
+    if (!curatedUnit || !cards.length) {
+      return 5;
+    }
+    var bookWidth = pageEl
+      ? parseFloat(window.getComputedStyle(pageEl).getPropertyValue('--book-w'))
+      : 0;
+    if (!bookWidth) {
+      bookWidth = 170;
+    }
+    var padX = 32;
+    var gap = 16;
+    var row = curatedUnit.querySelector('.shelf-row');
+    if (row) {
+      var style = window.getComputedStyle(row);
+      padX = (parseFloat(style.paddingLeft) || 0) + (parseFloat(style.paddingRight) || 0);
+      gap = parseFloat(style.columnGap) || parseFloat(style.gap) || gap;
+    }
+    var available = curatedUnit.clientWidth - padX;
+    var count = Math.floor((available + gap) / (bookWidth + gap));
+    return Math.max(1, count);
+  }
+
+  function layoutCards(cardList) {
+    if (!curatedUnit) {
+      return;
+    }
+
+    var booksPerRow = measureBooksPerRow();
+    Array.prototype.forEach.call(
+      curatedUnit.querySelectorAll('.shelf-row'),
+      function (row) {
+        row.parentNode.removeChild(row);
+      }
+    );
+
+    var row = null;
+    cardList.forEach(function (card, index) {
+      if (index % booksPerRow === 0) {
+        row = document.createElement('div');
+        row.className = 'shelf-row';
+        curatedUnit.insertBefore(row, emptyMsg || null);
+      }
+      row.appendChild(card);
+    });
+  }
+
+  function parseCategories(card) {
+    var raw = card.getAttribute('data-categories');
+    if (!raw || raw === 'null') {
+      return [];
+    }
+
+    try {
+      var parsed = JSON.parse(raw);
+      return Array.isArray(parsed) ? parsed : [];
+    } catch (error) {
+      return [];
+    }
+  }
+
+  function sortFieldValue(card, sortBy) {
+    return (card.getAttribute('data-' + sortBy) || '').trim();
+  }
+
+  function sortCards(cardList, sortBy) {
+    if (sortBy === 'default') {
+      return originalOrder.filter(function (card) {
+        return cardList.indexOf(card) !== -1;
+      });
+    }
+
+    if (sortBy === 'year-desc' || sortBy === 'year-asc') {
+      var direction = sortBy === 'year-desc' ? -1 : 1;
+      return cardList.slice().sort(function (a, b) {
+        var yearA = parseInt(a.getAttribute('data-year'), 10);
+        var yearB = parseInt(b.getAttribute('data-year'), 10);
+        var hasA = !isNaN(yearA);
+        var hasB = !isNaN(yearB);
+
+        if (hasA && hasB) {
+          return (yearA - yearB) * direction;
+        }
+        if (hasA) {
+          return -1;
+        }
+        if (hasB) {
+          return 1;
+        }
+        return 0;
+      });
+    }
+
+    return cardList.slice().sort(function (a, b) {
+      var valA = sortFieldValue(a, sortBy);
+      var valB = sortFieldValue(b, sortBy);
+
+      if (!valA && !valB) {
+        return 0;
+      }
+      if (!valA) {
+        return 1;
+      }
+      if (!valB) {
+        return -1;
+      }
+
+      return valA.localeCompare(valB);
+    });
+  }
+
+  function cardMatches(card, query, selectedCategory) {
+    var title = card.getAttribute('data-title') || '';
+    var author = card.getAttribute('data-author') || '';
+    var categories = parseCategories(card);
+    var matchesSearch = !query || title.indexOf(query) !== -1 || author.indexOf(query) !== -1;
+    var matchesCategory = !selectedCategory || categories.indexOf(selectedCategory) !== -1;
+    return matchesSearch && matchesCategory;
+  }
+
+  function filterBooks() {
+    var query = searchInput ? searchInput.value.trim().toLowerCase() : '';
+    var selectedCategory = categorySelect ? categorySelect.value : '';
+    var sortBy = sortSelect ? sortSelect.value : 'default';
+    var matches = [];
+    var hasActiveFilter = Boolean(query || selectedCategory);
+
+    cards.forEach(function (card) {
+      var match = cardMatches(card, query, selectedCategory);
+      card.classList.toggle('hidden', !match);
+      if (match) {
+        matches.push(card);
+      }
+    });
+
+    layoutCards(sortCards(matches, sortBy));
+
+    if (emptyMsg) {
+      emptyMsg.hidden = matches.length > 0 || !hasActiveFilter;
+    }
+  }
+
+  function setFlipped(card, flipped) {
+    card.classList.toggle('flipped', flipped);
+    card.setAttribute('aria-expanded', String(flipped));
+    var back = card.querySelector('.book-flip-back');
+    if (back) {
+      back.setAttribute('aria-hidden', String(!flipped));
+    }
+  }
+
+  function isModalOpen() {
+    return modal && modal.classList.contains('active');
+  }
+
+  function updateScrollIndicator(scrollEl) {
+    if (!scrollEl) {
+      return;
+    }
+
+    var hasOverflow = scrollEl.scrollHeight > scrollEl.clientHeight + 1;
+    scrollEl.classList.toggle('has-overflow', hasOverflow);
+
+    if (!hasOverflow) {
+      scrollEl.classList.remove('scrolled-to-bottom');
+      return;
+    }
+
+    var atBottom = scrollEl.scrollTop + scrollEl.clientHeight >= scrollEl.scrollHeight - 4;
+    scrollEl.classList.toggle('scrolled-to-bottom', atBottom);
+  }
+
+  function bindScrollIndicator(container) {
+    var scrollEl = container.querySelector('.book-back-scroll');
+    if (!scrollEl || scrollEl.dataset.scrollBound === 'true') {
+      updateScrollIndicator(scrollEl);
+      return scrollEl;
+    }
+
+    scrollEl.dataset.scrollBound = 'true';
+    scrollEl.addEventListener('scroll', function () {
+      updateScrollIndicator(scrollEl);
+    });
+
+    updateScrollIndicator(scrollEl);
+    return scrollEl;
+  }
+
+  function populateModal(card) {
+    var backContent = card.querySelector('.book-back-content');
+    if (!backContent || !modalContent) {
+      return false;
+    }
+
+    modalContent.innerHTML = '';
+    modalContent.appendChild(backContent.cloneNode(true));
+    bindScrollIndicator(modalContent);
+
+    var title = card.getAttribute('data-title') || 'Book details';
+    if (modal) {
+      modal.setAttribute('aria-label', title);
+    }
+
+    return true;
+  }
+
+  function openModal(card) {
+    if (!modal || !modalBackdrop || !modalContent) {
+      return;
+    }
+
+    if (!populateModal(card)) {
+      return;
+    }
+
+    if (activeCard && activeCard !== card) {
+      setFlipped(activeCard, false);
+    }
+
+    closeOtherFlips(card);
+    setFlipped(card, true);
+    activeCard = card;
+
+    if (isModalOpen()) {
+      return;
+    }
+
+    modalBackdrop.hidden = false;
+    modal.hidden = false;
+    document.body.classList.add('bookshelf-modal-open');
+
+    window.requestAnimationFrame(function () {
+      modalBackdrop.classList.add('active');
+      modal.classList.add('active');
+      bindScrollIndicator(modalContent);
+    });
+
+    if (modalClose) {
+      modalClose.focus();
+    }
+  }
+
+  function closeModal() {
+    if (!modal || !modalBackdrop || !modalContent) {
+      return;
+    }
+
+    modalBackdrop.classList.remove('active');
+    modal.classList.remove('active');
+    document.body.classList.remove('bookshelf-modal-open');
+
+    if (activeCard) {
+      setFlipped(activeCard, false);
+      activeCard = null;
+    }
+
+    window.setTimeout(function () {
+      if (!isModalOpen()) {
+        modalBackdrop.hidden = true;
+        modal.hidden = true;
+        modalContent.innerHTML = '';
+      }
+    }, modalTransitionMs);
+  }
+
+  function closeOtherFlips(currentCard) {
+    cards.forEach(function (card) {
+      if (card !== currentCard && card.classList.contains('flipped')) {
+        setFlipped(card, false);
+      }
+    });
+  }
+
+  function handleCardActivate(card) {
+    if (activeCard === card && isModalOpen()) {
+      closeModal();
+      return;
+    }
+
+    openModal(card);
+  }
+
+  cards.forEach(function (card) {
+    card.setAttribute('aria-expanded', 'false');
+
+    card.addEventListener('click', function (event) {
+      if (event.target.closest('a')) {
+        return;
+      }
+      handleCardActivate(card);
+    });
+
+    card.addEventListener('keydown', function (event) {
+      if (event.target.closest('a')) {
+        return;
+      }
+      if (event.key === 'Enter' || event.key === ' ') {
+        event.preventDefault();
+        handleCardActivate(card);
+      }
+    });
+  });
+
+  if (modalBackdrop) {
+    modalBackdrop.addEventListener('click', closeModal);
+  }
+
+  if (modalClose) {
+    modalClose.addEventListener('click', closeModal);
+  }
+
+  document.addEventListener('click', function (event) {
+    if (event.target.closest('.book-card') || event.target.closest('.book-modal')) {
+      return;
+    }
+    if (isModalOpen()) {
+      closeModal();
+    }
+  });
+
+  document.addEventListener('keydown', function (event) {
+    if (event.key === 'Escape' && isModalOpen()) {
+      closeModal();
+    }
+  });
+
+  if (searchInput) {
+    searchInput.addEventListener('input', filterBooks);
+  }
+
+  if (categorySelect) {
+    categorySelect.addEventListener('change', function () {
+      filterBooks();
+      if (curatedUnit) {
+        curatedUnit.scrollIntoView({ behavior: 'auto', block: 'start' });
+      }
+    });
+  }
+
+  if (sortSelect) {
+    sortSelect.addEventListener('change', filterBooks);
+  }
+
+  var resizeTimer = null;
+  window.addEventListener('resize', function () {
+    if (isModalOpen() && modalContent) {
+      bindScrollIndicator(modalContent);
+    }
+    window.clearTimeout(resizeTimer);
+    resizeTimer = window.setTimeout(filterBooks, 150);
+  });
+
+  filterBooks();
+})();

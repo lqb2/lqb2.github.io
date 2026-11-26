@@ -1,0 +1,120 @@
+backend:
+  name: github
+  repo: lqb2/lqb2.github.io
+  branch: master
+
+site_url: https://www.lqb2.co
+display_url: https://www.lqb2.co
+
+media_folder: assets/images/books
+public_folder: /assets/images/books
+
+collections:
+  - name: data
+    label: Site Data
+    files:
+      - name: goodreads_shelves
+        label: Bookshelves
+        file: _data/goodreads_shelves.yml
+        fields:
+          - name: shelves
+            label: Bookshelves
+            label_singular: Shelf
+            widget: list
+            required: false
+            hint: >-
+              Auto-filled by the importer from the shelves on Lawrence's
+              public Goodreads profile (reading-status shelves and
+              special-books are never added). The importer tags each book
+              with the checked shelves it belongs to. To hide a shelf from
+              the site: uncheck "Show on site" - do not delete the row, or
+              the next import adds it back.
+            fields:
+              - { name: name, label: Display Name, widget: string }
+              - { name: slug, label: Goodreads shelf slug, widget: string }
+              - { name: tag, label: Show on site, widget: boolean, default: true }
+
+  - name: books
+    label: Books
+    label_singular: Book
+    folder: _books
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: author, label: Author, widget: string }
+      - { name: cover, label: Cover Image, widget: image }
+      - { name: cover_width, label: Cover Width, widget: number, default: 200 }
+      - { name: cover_height, label: Cover Height, widget: number, default: 300 }
+      - { name: goodreads, label: Goodreads URL, widget: string, required: false }
+      - { name: highlights, label: Notes/Highlights URL, widget: string, required: false }
+      - { name: review, label: "Is Lawrence's Review?", widget: boolean, default: false }
+      - { name: year_read, label: Year Read, widget: number, required: false }
+      - name: tags
+        label: Categories
+        widget: relation
+        collection: data
+        file: goodreads_shelves
+        multiple: true
+        required: false
+        value_field: "{{shelves.*.slug}}"
+        display_fields: ["{{shelves.*.name}}"]
+        search_fields: ["{{shelves.*.name}}"]
+      - { name: cover_source_url, label: Cover Source URL, widget: hidden, required: false }
+      - { name: body, label: Review/Summary, widget: markdown }
+
+  - name: tags
+    label: Unused Tags
+    label_singular: Unused Tag
+    folder: _tags
+    create: false
+    slug: "{{slug}}"
+    description: >-
+      Shelves that are turned on in Bookshelves ("Show on site") but that
+      no library book carries yet. Entries are auto-managed by the book
+      importer: they appear here when a shelf has no books and disappear
+      once a book picks the shelf up (or the shelf is switched off).
+    fields:
+      - { name: name, label: Name, widget: string }
+      - { name: slug, label: Slug, widget: string }
+
+  - name: import_queue
+    label: Import Queue
+    label_singular: Book Import
+    folder: _import_queue
+    create: true
+    identifier_field: goodreads
+    summary: "{{fields.status}} {{fields.goodreads}}"
+    description: >-
+      Paste a Goodreads book link and save. The book is imported
+      automatically within a couple of minutes, and the entry disappears
+      from this queue once done. If the book is already in the collection,
+      or the link is not a Goodreads book page, the entry stays here with
+      a Status message explaining why - delete it once read.
+    fields:
+      - name: goodreads
+        label: Goodreads Book URL
+        widget: string
+        hint: "Example: https://www.goodreads.com/book/show/17465709"
+      - name: review
+        label: "Lawrence's Review (optional)"
+        widget: text
+        required: false
+        hint: >-
+          Paste Lawrence's review here to have it imported as the book's
+          review. If the book is already in the collection without a review,
+          the review is added to it; an existing review is never overwritten.
+      - name: year_read
+        label: Year Read (optional)
+        widget: number
+        required: false
+        hint: >-
+          Year Lawrence finished the book. Goodreads no longer exposes read
+          dates publicly, so it must be entered by hand. Also applied to an
+          already-imported book that has no year yet; an existing year is
+          never overwritten.
+      - name: status
+        label: Status
+        widget: string
+        required: false
+        hint: Set automatically by the importer. Leave blank when adding a book.
